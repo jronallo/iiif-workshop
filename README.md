@@ -2,7 +2,7 @@
 
 Materials for a workshop covering:
 - Image API
-- more to come....
+- more to come.... Presentation, Content Search, Authentication, Community, etc.
 
 ## Development
 

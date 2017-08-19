@@ -1,3 +1,5 @@
 {
-  "plugins": ["include"]
+  "title": "IIIF Workshop",
+  "plugins": ["include", "theme-opendocs"],
+  "gitbook": "3.2.3"
 }

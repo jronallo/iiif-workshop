@@ -1,21 +1,7 @@
-# Why IIIF?
+# Why IIIF Images?
 
-- Having users download the entire large file is inefficient and will likely provide a poor user experience.
+IIIF standards for images solve a number of challenges with images on the web:
 
-```html
-<img src="babel.jpg">
-```
-
-or
-
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Rotterdam%29_-_Google_Art_Project.jpg/598px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Rotterdam%29_-_Google_Art_Project.jpg">
-```
-
-<a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Rotterdam)_-_Google_Art_Project.jpg">![](/assets/images/babel.jpg)</a>
-
-!INCLUDE "../includes/leaflet.html"
-
-<script>
-L.tileLayer.iiif('https://iiif.lib.ncsu.edu/iiif/mc00042-005-ff0033-000-001_0001/info.json').addTo(map);
-</script>
+- Having users download an entire large file is inefficient and will likely provide a poor user experience.
+- Before IIIF there were too many standards for delivering images and institutions solved the same challenges over and over again. Too much duplication of effort for the basics of image delivery.
+- The standard has allowed for shared software for delivering images and image tiles for deep zoom viewers.

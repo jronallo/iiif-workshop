@@ -1,0 +1,8 @@
+<script>
+var map = L.map('map', {
+  center: [0, 0],
+  crs: L.CRS.Simple,
+  zoom: 0
+});
+L.tileLayer.iiif('https://iiif.lib.ncsu.edu/iiif/mc00042-005-ff0033-000-001_0001/info.json').addTo(map);
+</script>

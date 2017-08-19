@@ -1,0 +1,1 @@
+# Image Information: `info.json`
