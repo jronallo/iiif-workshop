@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://unpkg.com/leaflet-iiif@1.2.1"></script>
+
+
+<div id="map" style="width:100%;height:400px;"></div>
+
+<script>
+var map = L.map('map', {
+  center: [0, 0],
+  crs: L.CRS.Simple,
+  zoom: 0
+});
+</script>
