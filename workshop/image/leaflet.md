@@ -2,7 +2,9 @@
 
 {% include "../includes/image/leaflet.html" %}
 
-This is the code used for the above example. You can read the code comments to learn about what each part does.
+---
+
+Below is the code used for the above example. You can read the code comments to learn about what each part does.
 
 This HTML code sets everything up.
 
