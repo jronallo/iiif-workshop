@@ -1,0 +1,46 @@
+---
+- name: OCR | Install tesseract and other OCR dependencies
+  yum: name={{ item }} state=present
+  with_items:
+    - tesseract
+    - tesseract-osd
+    - poppler-utils
+    - ImageMagick
+    - python-lxml
+    - python-reportlab
+    - python-pillow
+    - python-beautifulsoup
+    - numpy
+    - scipy
+    - python-matplotlib
+
+- name: OCR | check out hocr-tools
+# FIXME: change back to: https://github.com/tmbdev/hocr-tools.git https://github.com/jronallo/hocr-tools.git
+  git: repo=https://github.com/tmbdev/hocr-tools.git
+     dest=~/hocr-tools
+     accept_hostkey=yes
+
+- name: OCR | run hocr-tools setup script
+  shell: python setup.py install
+  args:
+    chdir: ~/hocr-tools
+
+
+- name: OCR | hocr-tools python package should be readable and executable
+  shell: chmod ugo+rx /usr/lib/python2.7/site-packages/hocr_tools-*.egg
+
+# FIXME: is there a better way to do this chmod?
+- name: OCR | hocr command line tools should be executable
+  command: chmod ugo+rx "/usr/bin/{{ item }}"
+  with_items:
+    - hocr-pdf
+    - hocr-check
+    - hocr-combine
+    - hocr-eval
+    - hocr-eval-geom
+    - hocr-eval-lines
+    - hocr-extract-g1000
+    - hocr-extract-images
+    - hocr-lines
+    - hocr-merge-dc
+    - hocr-split

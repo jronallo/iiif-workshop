@@ -1,0 +1,21 @@
+---
+- hosts: iiif-workshop
+  become: yes
+  become_method: sudo
+  become_user: root
+  remote_user: root
+  gather_facts: yes
+  roles:
+    - role: basic-setup
+    - role: sample-images
+    - role: yum-packages
+    # - role: atom
+    - role: opj-setup
+    - role: cantaloupe
+    # # - role: ocr
+    - role: rvm_io.rvm1-ruby
+      rvm1_rubies:
+        - ruby-2.3.1
+    - role: rvm-setup
+      users:
+        - vagrant

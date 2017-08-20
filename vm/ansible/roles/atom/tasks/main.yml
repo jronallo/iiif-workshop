@@ -1,0 +1,11 @@
+---
+- name: add atom repository
+  get_url:
+    url: https://copr.fedorainfracloud.org/coprs/mosquito/atom/repo/fedora-26/mosquito-atom-fedora-26.repo
+    dest: /etc/yum.repos.d/
+- name: update yum cache
+  shell: yum makecache
+- name: install atom
+  dnf:
+    name: atom
+    state: present

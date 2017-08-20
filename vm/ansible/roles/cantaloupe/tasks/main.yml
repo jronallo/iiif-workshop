@@ -1,0 +1,28 @@
+---
+- name: make cantaloupe directory
+  file:
+    path: /home/vagrant/downloads
+    state: directory
+    owner: vagrant
+- name: get cantaloupe
+  get_url:
+    url: https://github.com/medusa-project/cantaloupe/releases/download/v3.3.2/Cantaloupe-3.3.2.zip
+    dest: /home/vagrant/downloads
+- name: unzip cantaloupe
+  unarchive:
+    src: /home/vagrant/downloads/Cantaloupe-3.3.2.zip
+    dest: /home/vagrant/
+- name: remove existing cantaloupe directory
+  command: rm -rf /home/vagrant/cantaloupe
+- name: rename to cantaloupe
+  command: mv /home/vagrant/Cantaloupe-3.3.2 /home/vagrant/cantaloupe
+- name: cantaloupe configure
+  template:
+    src: cantaloupe.properties
+    dest: /home/vagrant/cantaloupe
+- name: startup script
+  template:
+    src: cantaloupe
+    dest: /home/vagrant/bin/cantaloupe
+    owner: vagrant
+    mode: 'u+rwx'

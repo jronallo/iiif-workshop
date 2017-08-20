@@ -1,0 +1,9 @@
+---
+- name: add sample images
+  copy:
+    src: "{{role_path}}/files/{{item}}"
+    dest: /home/vagrant/sample-images
+  with_items:
+    - STSCI-H-p1711c-f-4700x3132.tif
+    - STSCI-H-p1716a-f-3587x3491.tif
+    - STSCI-H-p1721a-f-5290x5290.tif

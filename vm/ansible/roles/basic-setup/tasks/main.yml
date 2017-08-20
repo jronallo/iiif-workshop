@@ -1,0 +1,10 @@
+---
+- name: create ~ directories
+  file:
+    path: "/home/vagrant/{{item}}"
+    state: directory
+    owner: vagrant
+  with_items:
+    - bin
+    - images
+    - sample-images

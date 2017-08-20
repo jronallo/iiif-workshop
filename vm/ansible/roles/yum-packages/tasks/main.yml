@@ -1,0 +1,53 @@
+---
+- name: install epel-release
+  yum:
+    name: epel-release
+    state: present
+- name: install required packages
+  yum:
+    pkg: "{{item}}"
+    state: present
+    update_cache: yes
+  with_items:
+    - '@xfce-desktop-environment'
+    - autoconf
+    - automake
+    - bison
+    - bzip2
+    - curl
+    - gcc-c++
+    - git-core
+    - glibc-headers
+    - glibc-devel
+    - htop
+    - htop
+    - httpd
+    - httpd-devel
+    - ImageMagick
+    - java-1.8.0-openjdk
+    - kernel-devel
+    - kernel-headers
+    - libcurl-devel
+    - libffi-devel
+    - libtiff
+    - libtiff-tools
+    - libtool
+    - libxml2-devel
+    - libxslt-devel
+    - libyaml-devel
+    - make
+    - nano
+    - nodejs
+    - openjpeg
+    - openjpeg2-tools
+    - openssl-devel
+    - patch
+    - readline
+    - readline-devel
+    - sqlite
+    - sqlite-devel
+    - tree
+    - vim
+    - unzip
+    - zlib
+    - zlib-devel

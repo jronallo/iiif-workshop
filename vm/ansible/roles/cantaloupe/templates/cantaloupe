@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -Dcantaloupe.config=/home/vagrant/cantaloupe/cantaloupe.properties -Xmx2g -jar /home/vagrant/cantaloupe/Cantaloupe-3.3.2.war
