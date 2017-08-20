@@ -1,5 +1,13 @@
 # Static Image Server
 
+Pros:
+- Simple to deploy
+- Possible to use existing full images and tiles with redirects
+
+Cons:
+- Lot of storage space
+- Limits which sizes can be requested
+
 Example of static image server:
 https://github.com/zimeon/iiif/tree/master/demo-static
 
