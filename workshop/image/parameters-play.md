@@ -101,3 +101,5 @@ You may also want to try using this tool to play around with parameters.
 
 <!-- TODO: consider adding this directly to the gitbook -->
 [Image API Playground](https://www.learniiif.org/image-api/playground)
+
+Or use this example image to play with parameters: <https://jsfiddle.net/mejackreed/r3a5ayhe/2/>. You'll need to click "run" after you make changes to see the result.
