@@ -13,6 +13,8 @@
     - [OpenSeadragon](image/openseadragon.md)
     - [Simple Page Turner](image/simple-page-turner.md)
   - [Image Tools](image/tools.md)
+  - [Image Servers](image/image-servers.md)
+  - [Image Creation](image/image-creation.md)
 - [Presentation API](presentation/README.md)
 - [Content Search API](search/README.md)
 - [Authentication API](authentication/README.md)

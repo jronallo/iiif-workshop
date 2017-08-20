@@ -1,0 +1,10 @@
+# #todo:0 Image API Technical Details
+
+- application/ld+json. Talk about how it is JSON-LD but can be worked with as just JSON.
+- CORS
+- http://iiif.io/api/image/2.1/#canonical-uri-syntax
+- how to signal to the client limits on what can be requested. maxWidth, maxHeight, maxArea.
+
+## Reading the Image API specification
+- Uses key words that have specific meanings.
+- If in doubt about how something works refer to the more rigorous language of the specification.

@@ -20,4 +20,4 @@ default, gray, bitonal, color
 image format like "jpg" or "png"
 
 ## mixed content
-YKK mixed content
+#todo:100 mixed content
