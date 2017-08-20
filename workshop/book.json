@@ -7,10 +7,7 @@
   ],
   "gitbook": "3.2.3",
   "pluginsConfig": {
-    "theme-gestalt": {
-        "logo": "/assets/images/iiif-logo.png",
-        "favicon": "/assets/images/favicon.ico",
-        "excludeDefaultStyles": true,
+    "theme-default": {
         "doNotHideChildrenChapters": true
     }
   },
