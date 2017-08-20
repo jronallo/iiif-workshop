@@ -6,7 +6,13 @@ Here's the URI template you'll use:
 
 `https://iiif.lib.ncsu.edu/iiif/segPap_021/{region}/{size}/{rotation}/{quality}.{format}`
 
-All the example values below ought to work with this particular image.
+In a text editor copy the template above and begin filling in different values for the region, size, rotation, quality, and format.
+
+All the example values below ought to work with this particular image. Links to the standard documentation are given for each of the parameters.
+
+<div class="alert">Tip: It may be easier to see what's happening with some of the other parameters if you use a "full" region.</div>
+
+<div class="alert">Tip: When viewing an image in the Firefox and Chrome web browsers the title bar will tell you the width x height of the image in pixels.</div>
 
 ## Region
 
@@ -23,12 +29,28 @@ http://iiif.io/api/image/2.1/#region
 
 http://iiif.io/api/image/2.1/#size
 
-| form | examples |
-|:-----|:---------|
-| full | full     |
-| max  | max      |
+Try
+
+| form  | examples                        |
+|:------|:--------------------------------|
+| full  | full                            |
+| max   | max                             |
+| w,    | 600,<br>125,                    |
+| ,h    | ,600<br>,125                    |
+| pct:n | pct:15                          |
+| w,h   | 610,859<br>610,85               |
+| !w,h  | !200,200<br>!200,300<br>!610,85 |
 
 ## Rotation
+
+http://iiif.io/api/image/2.1/#rotation
+
+To see how rotation works it can be helpful to have a non-rotated version up as well your rotated and/or mirrored version.
+
+| form | examples       |
+|:-----|:---------------|
+| n    | 0<br>!90<br>45 |
+| !n   | !0<br>!90      |
 
 ## Quality
 
@@ -36,3 +58,9 @@ http://iiif.io/api/image/2.1/#size
 
 
 https://iiif-staging02.lib.ncsu.edu/iiif/segPap_021/full/600,/0/dither.jpg
+
+## Questions
+
+- Which parameters might you use to create a thumbnail for a search index or browse view?
+- How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
+- YKK other questions
