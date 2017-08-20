@@ -13,3 +13,7 @@
   font-weight: bold;
   color: rgb(113, 113, 113);
 }
+
+#basic-types {
+  max-width: 200px;
+}

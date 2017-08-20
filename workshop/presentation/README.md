@@ -7,3 +7,9 @@ This workshop will cover version 2.1.1 of the Presentation API. You'll learn:
 - #todo:100 what other learning objectives should we have
 
 http://iiif.io/api/presentation/2.1/
+
+## Basic Types
+
+http://iiif.io/api/presentation/2.1/#basic-types
+
+<img src="../assets/images/basic-types.png" id="basic-types">
