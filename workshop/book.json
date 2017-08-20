@@ -1,5 +1,20 @@
 {
   "title": "IIIF Workshop",
-  "plugins": ["include", "theme-opendocs"],
-  "gitbook": "3.2.3"
+  "plugins": [
+    "include",
+    "theme-default",
+    "copy-code-button"
+  ],
+  "gitbook": "3.2.3",
+  "pluginsConfig": {
+    "theme-gestalt": {
+        "logo": "/assets/images/iiif-logo.png",
+        "favicon": "/assets/images/favicon.ico",
+        "excludeDefaultStyles": true,
+        "doNotHideChildrenChapters": true
+    }
+  },
+  "styles": {
+    "website": "./assets/styles.css"
+  }
 }

@@ -1,0 +1,15 @@
+.logo-header {
+  height: 40px;
+  font-size: 20px;
+  position: relative;
+  padding-left: 15px;
+}
+.logo-header img {
+  height: 35px;
+  vertical-align: middle;
+}
+.logo-header .header-text {
+  vertical-align: middle;
+  font-weight: bold;
+  color: rgb(113, 113, 113);
+}
