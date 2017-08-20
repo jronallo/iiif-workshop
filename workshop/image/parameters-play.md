@@ -81,6 +81,10 @@ You can also try manipulating these other images. Given is the scheme, server, a
 - [0008232](https://d.lib.ncsu.edu/collections/catalog/0008232)
 - [0006749](https://d.lib.ncsu.edu/collections/catalog/0006749)
 
+**Getty** https://data.getty.edu/museum/api/iiif/
+- [3384](http://media.getty.edu/viewers/mirador/?manifest=https://data.getty.edu/museum/api/iiif/662/manifest.json)
+- [542](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/)
+
 **Bodleian** http://iiif.bodleian.ox.ac.uk/iiif/image/
 - [7c2889c4-cc23-4e74-b45d-2c4368540fe5](http://iiif.bodleian.ox.ac.uk/iiif/viewer/60834383-7146-41ab-bfe1-48ee97bc04be#?c=0&m=0&s=0&cv=16&z=-0.1036%2C0%2C1.2073%2C1.3975)
 - [ca08a297-ef6d-4f83-856c-5817b0144955](http://digital.bodleian.ox.ac.uk/inquire/p/ca08a297-ef6d-4f83-856c-5817b0144955)
@@ -88,6 +92,8 @@ You can also try manipulating these other images. Given is the scheme, server, a
 **Princeton Libraries** https://libimages.princeton.edu/loris/
 - [bluemountain%2Fastore%2Fperiodicals%2Fbmtnaae%2Fissues%2F1918%2F12_01%2Fdelivery%2Fbmtnaae_1918-12_01_0013.jp2](http://bluemountain.princeton.edu/exist/apps/bluemountain/issue.html?titleURN=bmtnaae&issueURN=bmtnaae_1918-12_01)
 
+**Wellcome** https://dlcs.io/iiif-img/wellcome/1/
+- [05bf51b9-991f-476d-bff1-dd5e96c4e122](https://wellcomelibrary.org/item/b20417081#?c=0&m=0&s=0&cv=590&z=-0.3642%2C0.3624%2C1.5498%2C0.907)
 
 ## Parameters Playground
 
