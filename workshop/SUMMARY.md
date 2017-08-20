@@ -7,7 +7,6 @@
   - [IIIF in HTML](image/iiif-in-html.md)
   - [URI Parameters](image/parameters.md)
     - [Parameters Play](image/parameters-play.md)
-    - [Playground](image/parameters-playground.md)
   - [Image Information](image/info.md)
   - [Image Viewers](image/viewers.md)
     - [Leaflet](image/leaflet.md)
