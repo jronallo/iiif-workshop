@@ -26,7 +26,11 @@ ruby -rwebrick -e 'WEBrick::HTTPServer.new(Port: 3000, DocumentRoot: Dir.pwd, Re
 
 ### Node
 
+Install http-server:
+`npm install http-server -g`
 
+Run the server from the directory with the CORS flag:
+`http-server -p 3000 --cors`
 
 ### Python
 
@@ -35,3 +39,8 @@ Python does not have a simple one-liner
 ```python
 !INCLUDE "../scripts/cors_http_server.py"
 ```
+
+### Other Options
+
+Here are some other options which may be able to be changed to allow for CORS headers to be set:
+https://gist.github.com/willurd/5720255
