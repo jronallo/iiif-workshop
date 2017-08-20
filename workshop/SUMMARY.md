@@ -11,4 +11,7 @@
     - [Leaflet](image/leaflet.md)
     - [OpenSeaDragon](image/openseadragon.md)
   - [Image Tools](image/tools.md)
+- [Presentation API](presentation/README.md)
+- [Content Search API](search/README.md)
+- [Authentication API](authentication/README.md)
 - [Glossary](GLOSSARY.md)
