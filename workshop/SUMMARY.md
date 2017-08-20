@@ -1,6 +1,8 @@
 # Summary
 
 - [Introduction](README.md)
+- [Preparation](preparation/README.md)
+  - [Simple Web Server](preparation/web-server.md)
 - [Image API](image/README.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
