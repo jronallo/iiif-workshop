@@ -4,7 +4,6 @@
 - [Image API](image/README.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
-  - [IIIF in HTML](image/iiif-in-html.md)
   - [URI Parameters](image/parameters.md)
     - [Parameters Play](image/parameters-play.md)
   - [Image Information](image/info.md)

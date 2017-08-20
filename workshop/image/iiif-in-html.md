@@ -1,1 +1,0 @@
-# IIIF in HTML
