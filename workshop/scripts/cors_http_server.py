@@ -2,6 +2,9 @@
 
 # via: https://stackoverflow.com/a/21957017/620065
 
+# Run in the directory you want to serve files from:
+# python cors_http_server.py 3000
+
 try:
     # Python 3
     from http.server import HTTPServer, SimpleHTTPRequestHandler, test as test_orig
