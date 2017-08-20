@@ -56,6 +56,8 @@ To see how rotation works it can be helpful to have a non-rotated version up as 
 
 http://iiif.io/api/image/2.1/#quality
 
+Valid values are: color, gray, bitonal, default.
+
 > Try changing the `server` to `iiif-staging02.lib.ncsu.edu` and using these values for quality: dither, pixelized, negative. These are non-standard, but fun!
 
 ## Format
@@ -68,6 +70,7 @@ Possible values for this image server: jpg and png.
 
 - Which parameters might you use to create a thumbnail for a search index or browse view?
 - How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
+- If you were creating a deep zoom viewer that used tiles, how might you go about creating the image URLs you need?
 - YKK other questions
 
 ## Other Images

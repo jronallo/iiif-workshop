@@ -6,7 +6,9 @@ Let's construct a IIIF URI together. We'll break it down into the base URI and t
 
 ## Base URI
 
-The base URI includes only the scheme, server, and identifier: `{scheme}://{server}{/prefix}/{identifier}`
+The base URI includes only the scheme, server, prefix (optional), and identifier:
+
+`{scheme}://{server}{/prefix}/{identifier}`
 
 This base URI is what is used to identify the resource (think linked data). We will see an example of this in a bit when we look at the [`info.json`](info.md).
 
