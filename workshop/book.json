@@ -3,14 +3,10 @@
   "plugins": [
     "include",
     "theme-default",
-    "copy-code-button"
+    "copy-code-button",
+    "toggle-chapters"
   ],
   "gitbook": "3.2.3",
-  "pluginsConfig": {
-    "theme-default": {
-        "doNotHideChildrenChapters": true
-    }
-  },
   "styles": {
     "website": "./assets/styles.css"
   }
