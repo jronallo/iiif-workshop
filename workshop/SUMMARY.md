@@ -1,6 +1,7 @@
-# Summary
+# Outline
 
 - [Introduction](README.md)
+- [Outline](SUMMARY.md)
 - [Preparation](preparation/README.md)
   - [Simple Web Server](preparation/web-server.md)
 - [Image API](image/README.md)
