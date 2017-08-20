@@ -17,6 +17,8 @@
     - [Simple Page Turner](image/simple-page-turner.md)
   - [Image Tools](image/tools.md)
   - [Image Servers](image/image-servers.md)
+    - [Static](image/image-server-static.md)
+    - [Dynamic](image/image-server-dynamic.md)
     - [Validation](image/image-server-validation.md)
   - [Image Creation](image/image-creation.md)
 - [Presentation API](presentation/README.md)
