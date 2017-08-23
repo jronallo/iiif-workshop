@@ -77,6 +77,8 @@ Possible values for this image server: jpg and png.
 
 You can also try manipulating these other images. Given is the scheme, server, and prefix then a list of image identifiers.
 
+> Challenge: Try to use the region parameter to get a particular section of the image like a face or a painting in a painting.
+
 **NCSU Libraries** https://iiif.lib.ncsu.edu/iiif
 - [0008232](https://d.lib.ncsu.edu/collections/catalog/0008232)
 - [0006749](https://d.lib.ncsu.edu/collections/catalog/0006749)
@@ -84,6 +86,13 @@ You can also try manipulating these other images. Given is the scheme, server, a
 **Getty** https://data.getty.edu/museum/api/iiif/
 - [3384](http://media.getty.edu/viewers/mirador/?manifest=https://data.getty.edu/museum/api/iiif/662/manifest.json)
 - [542](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/)
+
+**Art Institute of Chicago** https://lakeimagesweb.artic.edu/iiif
+- [4f6c74cb-e5f3-e18a-2757-0b9087b1f99d](http://www.artic.edu/aic/collections/artwork/201806)
+- [7a6a2b0c-45be-488e-57f5-7e053950dffb](http://www.artic.edu/aic/collections/artwork/145822)
+- [df09d399-a5ff-703f-fb3b-eb4997292dab](http://www.artic.edu/aic/collections/artwork/217201)
+- [c4918c92-8ba7-ff0e-f231-c91cbb843b42](http://www.artic.edu/aic/collections/artwork/15401)
+- 
 
 **Bodleian** http://iiif.bodleian.ox.ac.uk/iiif/image/
 - [7c2889c4-cc23-4e74-b45d-2c4368540fe5](http://iiif.bodleian.ox.ac.uk/iiif/viewer/60834383-7146-41ab-bfe1-48ee97bc04be#?c=0&m=0&s=0&cv=16&z=-0.1036%2C0%2C1.2073%2C1.3975)
@@ -94,6 +103,8 @@ You can also try manipulating these other images. Given is the scheme, server, a
 
 **Wellcome** https://dlcs.io/iiif-img/wellcome/1/
 - [05bf51b9-991f-476d-bff1-dd5e96c4e122](https://wellcomelibrary.org/item/b20417081#?c=0&m=0&s=0&cv=590&z=-0.3642%2C0.3624%2C1.5498%2C0.907)
+
+
 
 ## Parameters Playground
 

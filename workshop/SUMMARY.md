@@ -48,6 +48,9 @@
 - [Content Search API](search/README.md)
 - [Authentication API](authentication/README.md)
 
+## Bonus
+- [Fun with IIIF](bonus/fun.md)
+
 ---
 
 - [Glossary](GLOSSARY.md)
