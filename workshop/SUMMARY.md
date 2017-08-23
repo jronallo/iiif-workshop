@@ -7,6 +7,8 @@
   - [Bonus Setup](preparation/bonus-setup.md)
     - [Virtual Machine](preparation/virtual-machine.md)
     - [Local Install](preparation/local-install.md)
+
+## IIIF APIs
 - [Image API](image/README.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
@@ -27,7 +29,20 @@
 - [Presentation API](presentation/README.md)
   - [Manifests and Image Servers](presentation/manifests-and-image-servers.md)
   - [Creating a Manifest](presentation/creating-manifest.md)
-    - [Validation](presentation/presentation-validation.md)
+    - [Boilerplate](presentation/boilerplate.md)
+    - [Identifier](presentation/id.md)
+    - [Basic Description](presentation/basic-description.md)
+    - [Sequence](presentation/sequence.md)
+    - [Canvas](presentation/canvas.md)
+    - [Image Annotation](presentation/image-annotation.md)
+    - [Image Service](presentation/image-service.md)
+    - [Metadata](presentation/metadata.md)
+    - [License](presentation/license.md)
+  - [Validation](presentation/presentation-validation.md)
+  - [Drag & Drop](presentation/drag-and-drop.md)
 - [Content Search API](search/README.md)
 - [Authentication API](authentication/README.md)
+
+---
+
 - [Glossary](GLOSSARY.md)

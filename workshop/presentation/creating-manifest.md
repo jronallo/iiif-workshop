@@ -1,7 +1,32 @@
 # Creating a Manifest
 
-In this section we'll create a manifest by hand step by step. Even though you can copy and paste the 
+In this section we'll create a manifest by hand step by step. Even though you can copy and paste the code from here, it is recommended to type these out yourself.
 
-```json
+In most cases you won't actually be creating manifests by hand, but you may have different systems and workflows to other institutions so will need to determine the best way for you to
 
-```
+#todo:0 refer back to the charts here for required and recommended properties: http://iiif.io/api/presentation/2.1/#b-summary-of-metadata-requirements
+
+Here's what we'll cover:
+- Boilerplate: Every manifest starts here
+- `@id` 
+- Basic Description: label, and description, attribution (want this before you ever release to the world)
+- Sequence
+- Canvas
+- Image Annotation
+- Image Service
+- Metadata
+
+<!--
+#todo:0 Consider covering these aspects of Presentation as well
+- Language of property values
+- viewingHint
+- Thumbnail
+- logo
+- Date: navDate
+- Ranges and structures
+- Layers
+- Other Content
+- seeAlso
+- License
+- related, rendering, within?
+- Collections -->
