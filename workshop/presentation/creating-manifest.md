@@ -8,13 +8,14 @@ In most cases you won't actually be creating manifests by hand, but you may have
 
 Here's what we'll cover:
 - Boilerplate: Every manifest starts here
-- `@id` 
-- Basic Description: label, and description, attribution (want this before you ever release to the world)
+- Identifier `@id`
+- Basic Description
 - Sequence
 - Canvas
 - Image Annotation
 - Image Service
 - Metadata
+- License
 
 <!--
 #todo:0 Consider covering these aspects of Presentation as well
@@ -29,4 +30,5 @@ Here's what we'll cover:
 - seeAlso
 - License
 - related, rendering, within?
-- Collections -->
+- Collections
+-->
