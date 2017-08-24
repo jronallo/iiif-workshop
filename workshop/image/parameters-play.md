@@ -88,11 +88,19 @@ You can also try manipulating these other images. Given is the scheme, server, a
 - [542](http://www.getty.edu/art/collection/objects/542/bernardino-mei-christ-cleansing-the-temple-italian-about-1655/)
 
 **Art Institute of Chicago** https://lakeimagesweb.artic.edu/iiif
-- [4f6c74cb-e5f3-e18a-2757-0b9087b1f99d](http://www.artic.edu/aic/collections/artwork/201806)
 - [7a6a2b0c-45be-488e-57f5-7e053950dffb](http://www.artic.edu/aic/collections/artwork/145822)
 - [df09d399-a5ff-703f-fb3b-eb4997292dab](http://www.artic.edu/aic/collections/artwork/217201)
 - [c4918c92-8ba7-ff0e-f231-c91cbb843b42](http://www.artic.edu/aic/collections/artwork/15401)
-- 
+- [3a8b3bbd-9bd2-43b5-aec2-f22b6d55cdf1](http://www.artic.edu/aic/collections/artwork/117266)
+- [6b49e314-cd19-4f7d-b4c8-67f83c8ce4a0](http://www.artic.edu/aic/collections/artwork/60623)
+- [163e36f8-ae93-898a-a79c-9410e899053a](http://www.artic.edu/aic/collections/artwork/21727)
+- [d8b6266f-2137-899b-f54a-633f34f922b2](http://www.artic.edu/aic/collections/artwork/49714)
+- [e12ad718-70ed-98e2-24ab-829696f68a01](http://www.artic.edu/aic/collections/artwork/52983)
+
+**Frick Collection** http://collections.frick.org/apis/iiif/image/v2/
+- [7337](http://collections.frick.org/objects/275/officer-and-laughing-girl)
+- [7344](http://collections.frick.org/objects/39/st-francis-in-the-desert)
+- [8768](http://collections.frick.org/objects/907/portrait-of-andrew-w-mellon)
 
 **Bodleian** http://iiif.bodleian.ox.ac.uk/iiif/image/
 - [7c2889c4-cc23-4e74-b45d-2c4368540fe5](http://iiif.bodleian.ox.ac.uk/iiif/viewer/60834383-7146-41ab-bfe1-48ee97bc04be#?c=0&m=0&s=0&cv=16&z=-0.1036%2C0%2C1.2073%2C1.3975)
