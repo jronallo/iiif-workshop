@@ -39,6 +39,7 @@
     - [Image Service](presentation/image-service.md)
     - [Metadata](presentation/metadata.md)
     - [License](presentation/license.md)
+    - [Linking Properties](presentation/linking.md)
     - [Review](presentation/review.md)
   - [Validation](presentation/presentation-validation.md)
   - [Viewers](presentation/viewers.md)
@@ -47,6 +48,10 @@
   - [Drag & Drop](presentation/drag-and-drop.md)
 - [Content Search API](search/README.md)
 - [Authentication API](authentication/README.md)
+
+## What Now?
+- [Image Comparison](now/image-comparison.md)
+- [Annotation](now/annotation.md)
 
 ## Bonus
 - [Fun with IIIF](bonus/fun.md)
