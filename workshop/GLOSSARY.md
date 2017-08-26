@@ -4,9 +4,6 @@ http or https part of the URL
 ## prefix
 URL path
 
-## identifier
-string that identifies an individual image
-
 ## region
 requested region of image
 
@@ -21,3 +18,6 @@ image format like "jpg" or "png"
 
 ## mixed content
 #todo:100 mixed content
+
+## JSON-LD
+Linked data represented in JSON https://json-ld.org

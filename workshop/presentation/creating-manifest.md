@@ -2,7 +2,7 @@
 
 In this section we'll create a manifest by hand step by step. Even though you can copy and paste the code from here, it is recommended to type these out yourself.
 
-In most cases you won't actually be creating manifests by hand, but you may have different systems and workflows to other institutions so will need to determine the best way for you to
+In most cases you won't actually be creating manifests by hand, but you may have different systems and workflows to other institutions so will need to determine the best way for you to create manifests.
 
 #todo:0 refer back to the charts here for required and recommended properties: http://iiif.io/api/presentation/2.1/#b-summary-of-metadata-requirements
 

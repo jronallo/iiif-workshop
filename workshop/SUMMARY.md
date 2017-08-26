@@ -28,6 +28,7 @@
   - [Image Creation](image/image-creation.md)
 - [Presentation API](presentation/README.md)
   - [Why?](presentation/why.md)
+  - [Manifest](presentation/manifest.md)
   - [Manifests and Image Servers](presentation/manifests-and-image-servers.md)
   - [Creating a Manifest](presentation/creating-manifest.md)
     - [Boilerplate](presentation/boilerplate.md)

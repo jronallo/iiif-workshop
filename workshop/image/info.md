@@ -9,3 +9,7 @@ http://iiif.io/api/image/2.1/#image-information
 The base URL: {scheme}://{server}{/prefix}/{identifier}
 
 Redirects to: {scheme}://{server}{/prefix}/{identifier}/info.json
+
+---
+
+See also a little about [JSON and JSON-LD](bonus/json-ld.md).
