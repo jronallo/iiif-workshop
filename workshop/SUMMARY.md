@@ -55,6 +55,8 @@
 - [Annotation](now/annotation.md)
 
 ## Bonus
+- [CORS](bonus/cors.md)
+- [HTTPS](bonus/https.md)
 - [Fun with IIIF](bonus/fun.md)
 
 ---
