@@ -34,17 +34,26 @@ Use "Special Collections Research Center at NCSU Libraries" as the value of `att
 
 The [`logo`](http://iiif.io/api/presentation/2.1/#logo) is often used to display the owning or hosting institution for the resource. Clients must display this image.
 
+Find a JPEG to use as your logo. Either find the logo of your institution or some small image that you like. (Use [this hot logo](../assets/images/logo.jpg) if you need to.)
+
+Download the logo into your "iiif-workshop" directory with the name "logo.jpg".
+
+Add the URL http://localhost:3000/logo.jpg as the value of `logo`. Check first that the logo is being served up from that address.
+
 > Question: Besides just displaying the logo, what additional requirements does the specification make?
 
 ## JSON
 
-Your JSON ought to look like this:
+Your JSON ought to look something like this:
 
 ```json
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
   "@id": "http://localhost:3000/manifest.json",
-  "label": "Papillons"
+  "label": "Papillons",
+  "description": "Four patterns inspired by butterflies.",
+  "attribution": "Special Collections Research Center at NCSU Libraries",
+  "logo": "http://localhost:3000/logo.jpg"
 }
 ```
