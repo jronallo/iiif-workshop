@@ -42,6 +42,7 @@
     - [Sequence](presentation/sequence.md)
     - [Canvas](presentation/canvas.md)
     - [Image Annotation](presentation/image-annotation.md)
+    - [Image Resource](presentation/image-resource.md)
     - [Image Service](presentation/image-service.md)
     - [Metadata](presentation/metadata.md)
     - [License](presentation/license.md)
