@@ -1,4 +1,4 @@
-# Creating a Manifest
+# Creating a Basic Manifest
 
 In this section we'll create a manifest by hand step by step. Even though you can copy and paste the code from here, it is recommended to type these out yourself.
 
@@ -19,18 +19,11 @@ Here's what we'll cover:
 
 <!--
 #todo:0 Consider covering these aspects of Presentation as well
-- Language of property values
-- viewingHint
-- Thumbnail
-- logo
-- Date: navDate
 - Ranges and structures
 - Layers
 - Other Content
-- seeAlso
-- License
-- related, rendering, within?
-- Collections
+- related?
+- within?
 -->
 
 ## Example
@@ -40,3 +33,5 @@ The example we'll use to create our manifest is this print by Séguy:
 ![](https://iiif.lib.ncsu.edu/iiif/segPap_022/full/400,/0/default.jpg)
 
 Feel free to use your own text and any published IIIF images you like for your manifest, though it will be easier to follow along if you use the same values as we have here.
+
+<!-- #todo:0 confirm that we're not missing any required or strongly recommended properties for each type of thing as we create the manifest -->
