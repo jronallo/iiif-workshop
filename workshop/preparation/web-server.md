@@ -21,7 +21,7 @@ You'll need to know how to open up a terminal if you want to try using a scripti
 Here's a Ruby one-liner for starting a server from the current directory:
 
 ```ruby
-ruby -rwebrick -e 'WEBrick::HTTPServer.new(Port: 3000, DocumentRoot: Dir.pwd, RequestCallback: Proc.new{|req,res| res["Access-Control-Allow-Origin"] = "*" }).start'
+ruby -rwebrick -e 'WEBrick::HTTPUtils::DefaultMimeTypes["json"]="application/json";WEBrick::HTTPServer.new(Port: 3000, DocumentRoot: Dir.pwd, RequestCallback: Proc.new{|req,res| res["Access-Control-Allow-Origin"] = "*" }).start'
 ```
 
 ### Node
