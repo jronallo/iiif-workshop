@@ -28,9 +28,14 @@ The manifest contains the information needed to display (e.i. present) the resou
 
 ## Collection
 
-Another level up it is possible 
+Another level up it is possible to group manifests into collections.
 
 ![](../assets/images/presentation-chart-collection.png)
 
 ## Fuller Picture
+
+The above images are all you'll need for this workshop. The fuller picture is a bit more complicated. There are other types within IIIF that you ought to at least know their names exist.
+
+We'll skip over ranges, layers, and annotation lists for now, but will point out that rather than applying content directly to the canvas we usually will be using an annotation to place the image content on the canvas.
+
 ![](../assets/images/presentation-chart-complicated.png)
