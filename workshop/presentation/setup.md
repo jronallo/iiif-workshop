@@ -47,7 +47,7 @@ See the included instructions on how to set up a [simple web server](preparation
 
 **Open the directory in your browser**
 
-If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000.
+If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000. From now on we'll use "localhost" in every case, but if that doesn't work, substitute "127.0.0.1".
 
 You should see something like this in your browser:
 
@@ -58,7 +58,11 @@ You should see something like this in your browser:
 We'll just add some empty JSON for now:
 
 ```json
-{}
+{
+  "property": "value"
+}
 ```
 
-**Open up your manifest**
+**Open up your manifest in browser**
+
+Click on "manifest.json" in the directory listing in your browser or visit http://localhost:3000/manifest.json.
