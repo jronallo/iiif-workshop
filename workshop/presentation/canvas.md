@@ -3,7 +3,11 @@
 http://iiif.io/api/presentation/2.1/#canvas
 
 ## Canvas in the Abstract
-#todo:0 describe what a canvas is. Show some example images to explain canvas.
+
+<!-- #todo:0 harmonize with language from presentation/shared-canvas.md -->
+A canvas is a coordinate space on which images can be painted. Images are painted onto a canvas through annotation. In the simple case we're only painting a single image annotation so that it fills the whole canvas. But the canvas also makes it possible to paint multiple images onto the same canvas as well as overlay additional annotations.
+
+See the sections on [shared canvas](presentation/shared-canvas.md) and [manifest structure](presentation/manifest-structure.md) for more information on what a canvas is and how it fits into a manifest.
 
 ## Type
 
