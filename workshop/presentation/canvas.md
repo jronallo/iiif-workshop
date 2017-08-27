@@ -12,10 +12,17 @@ http://iiif.io/api/presentation/2.1/#canvas
 ## Dimensions
 
 
+
 > Question: What does the specification say about what the width and height of the canvas ought to be?
 
+> Question: Where might we find the dimensions to use for our canvas?
+<!-- The info.json of the image -->
 
-## JSON-LD with a Canvas
+## Nesting
+
+We've now nested our canvas within our first sequence within the manifest. We'll have more nesting like this as we go further along. This deep nesting may be one of the more difficult pieces of the IIIF Presentation API to understand and remember. The diagrams in the specification can help remember the ordering: http://iiif.io/api/presentation/2.1/#resource-type-overview
+
+## Manifest with a Canvas
 
 ```json
 {

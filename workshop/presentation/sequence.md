@@ -30,7 +30,7 @@ In this case we'll be creating a list that contains exactly one JSON object as w
 
 A sequence can have several other properties including its own `label` meant to distinguish it from other sequences. In this case we'll keep it simple for now. In the next section we'll fill in this object a bit further.
 
-## JSON-LD with Sequence
+## Manifest with Sequence
 
 ```json
 {
