@@ -1,5 +1,6 @@
 # Outline
 
+- [Work in Progress](work-in-progress.md)
 - [Introduction](README.md)
 - [Outline](SUMMARY.md)
 - [Preparation](preparation/README.md)
@@ -52,6 +53,7 @@
     - [UniversalViewer](presentation/universalviewer.md)
     - [Mirador](presentation/mirador.md)
   - [Drag & Drop](presentation/drag-and-drop.md)
+  - [Collections](presentation/collections.md)
 - [Content Search API](search/README.md)
 - [Authentication API](authentication/README.md)
 
