@@ -6,7 +6,7 @@ If you have ad blockers on you may want to disable them during the workshop. Som
 
 ## Requirements
 
-- modern browser
+- [modern browser](browser.md)
 - text editor, preferably one that does syntax highlighting (e.g. [Atom](https://atom.io/))
 - a simple [local web server](web-server.md)
 
