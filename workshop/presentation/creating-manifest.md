@@ -38,3 +38,5 @@ Here's what we'll cover:
 The example we'll use to create our manifest is this print by Séguy:
 
 ![](https://iiif.lib.ncsu.edu/iiif/segPap_022/full/400,/0/default.jpg)
+
+Feel free to use your own text and any published IIIF images you like for your manifest, though it will be easier to follow along if you use the same values as we have here.
