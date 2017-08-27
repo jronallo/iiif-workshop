@@ -32,3 +32,9 @@ Here's what we'll cover:
 - related, rendering, within?
 - Collections
 -->
+
+## Example
+
+The example we'll use to create our manifest is this print by Séguy:
+
+![](https://iiif.lib.ncsu.edu/iiif/segPap_022/full/400,/0/default.jpg)
