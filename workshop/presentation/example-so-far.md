@@ -43,5 +43,4 @@ Artist: Séguy, E. (Eugène), 1890-1985
     }
   ]
 }
-
 ```

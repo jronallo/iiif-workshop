@@ -32,7 +32,7 @@ http://iiif.io/api/presentation/2.1/#canvas
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:3000/seg_Pap022/canvas/1",
+          "@id": "http://localhost:3000/segPap_022/canvas/1",
           "label": "22",
           "width": 6099,
           "height": 8599
