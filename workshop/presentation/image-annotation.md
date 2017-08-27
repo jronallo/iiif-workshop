@@ -23,6 +23,8 @@ IIIF uses the [Open Annotation Data Model](http://www.openannotation.org/spec/co
 
 Here are the property and values we'll add to the `images` list.
 
+The image itself will be linked to from the `resource` property of the annotation.
+
 | property     | value                              |
 |:-------------|:-----------------------------------|
 | `@type`      | oa:Annotation                      |
