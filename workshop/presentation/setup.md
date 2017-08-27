@@ -47,7 +47,11 @@ See the included instructions on how to set up a [simple web server](preparation
 
 **Open the directory in your browser**
 
-If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000.
+If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000.
+
+You should see something like this in your browser:
+
+![](../assets/images/presentation-setup-open-directory.png)
 
 **Add content to your "manifest.json"**
 
@@ -57,4 +61,4 @@ We'll just add some empty JSON for now:
 {}
 ```
 
-**Open your 
+**Open up your manifest**
