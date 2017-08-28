@@ -1,3 +1,0 @@
-# UniversalViewer
-
-http://universalviewer.io/

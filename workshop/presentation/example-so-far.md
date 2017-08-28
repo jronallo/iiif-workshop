@@ -29,7 +29,9 @@ Artist: Séguy, E. (Eugène), 1890-1985
               "on": "http://localhost:3000/segPap_022/canvas/1",
               "resource": {
                 "@type": "dctypes:Image",
-                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/300,/0/default.jpg",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
+                "width": 500,
+                "height": 704,
                 "service": {
                   "@context":  "http://iiif.io/api/image/2/context.json",
                   "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022",
