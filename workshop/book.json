@@ -4,10 +4,19 @@
     "include",
     "theme-default",
     "copy-code-button",
-    "toggle-chapters"
+    "toggle-chapters",
+    "git-author"
   ],
   "gitbook": "3.2.3",
   "styles": {
     "website": "./assets/styles.css"
+  },
+  "pluginsConfig": {
+    "git-author": {
+      "position": "bottom",
+      "modifyTpl": "Last modified by {user} {timeStamp}",
+      "createTpl": "Created by {user} {timeStamp}",
+      "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+    }
   }
 }

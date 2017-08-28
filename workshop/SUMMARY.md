@@ -53,7 +53,7 @@
     - [License](presentation/license.md)
     - [Linking Properties](presentation/linking.md)
   - [Validation](presentation/presentation-validation.md)
-    - [Example Manifests](presentation/example-manifests.md)
+  - [Example Manifests](presentation/example-manifests.md)
   - [Manifest Additions](presentation/manifest-additions.md)
   - [Collections](presentation/collections.md)
   - [Review](presentation/review.md)

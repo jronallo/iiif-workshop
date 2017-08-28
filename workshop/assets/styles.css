@@ -17,3 +17,12 @@
 #basic-types {
   max-width: 200px;
 }
+
+/* git-author styles*/
+.git-author-container {
+  margin-top: 60px;
+}
+.git-author-container * {
+  font-size: 0.8em;
+  color: hsl(0, 0%, 49%);
+}
