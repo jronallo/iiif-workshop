@@ -10,3 +10,5 @@ We'll try our manifest in two viewers:
 
 - [Universal Viewer](universal-viewer.md)
 - [Mirador](mirador.md)
+
+We can use each of these viewers as we go along further to test out properties and information we add to our manifest to see what features they enable.
