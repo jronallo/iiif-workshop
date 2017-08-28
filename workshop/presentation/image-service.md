@@ -73,4 +73,4 @@ Our resource with embedded service will look like this:
 
 ## Now View It!
 
-We don't have everything we might want in our manifest, but it is now complete enough to view it. Go on to the next step.
+We don't have everything we might want in our manifest, but it is now complete enough to view what we've done. Go on to the next step!
