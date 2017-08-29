@@ -2,6 +2,7 @@
 
 - [Work in Progress](work-in-progress.md)
 - [Introduction](README.md)
+- [QuickStart](quickstart.md)
 - [Outline](SUMMARY.md)
 - [Preparation](preparation/README.md)
   - [Browser](preparation/browser.md)
@@ -68,6 +69,9 @@
 - [CORS](bonus/cors.md)
 - [HTTPS](bonus/https.md)
 - [Fun with IIIF](bonus/fun.md)
+
+## Community
+- [Community](community/README.md)
 
 ---
 
