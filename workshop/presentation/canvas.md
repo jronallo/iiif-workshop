@@ -122,6 +122,15 @@ Now with our dimensions added, your sequence ought to look like this:
 
 We've now nested our canvas within our first sequence within the manifest. We'll have more nesting like this as we go further along. This deep nesting may be one of the more difficult pieces of the IIIF Presentation API to understand and remember. The diagrams in the specification can help remember the ordering: http://iiif.io/api/presentation/2.1/#resource-type-overview. Or refer back to [manifest structure](manifest-structure.md).
 
+```
+manifest
+  sequences
+    canvases
+      images
+        resource
+          service
+```
+
 ## Dereferencable Canvas
 
 We now have completed a basic canvas you can see below.
