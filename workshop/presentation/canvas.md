@@ -7,6 +7,8 @@ http://iiif.io/api/presentation/2.1/#canvas
 <!-- #todo:0 harmonize with language from presentation/shared-canvas.md -->
 A canvas is a coordinate space on which images can be painted. Images are painted onto a canvas through annotation. In the simple case we're only painting a single image annotation so that it fills the whole canvas. But the canvas also makes it possible to paint multiple images onto the same canvas as well as overlay additional annotations.
 
+> Note: In order to deliver with these embedded annotations, there's no requirement to have any particular annotation infrastructure available. You do not need to have an annotation store. These embedded annotations can usually be created without a graphical user interface. There's also no requirement in IIIF to provide for users to create or manage annotations.
+
 See the sections on [shared canvas](presentation/shared-canvas.md) and [manifest structure](presentation/manifest-structure.md) for more information on what a canvas is and how it fits into a manifest.
 
 ## `canvases` Property
