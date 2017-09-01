@@ -8,7 +8,7 @@ To view our example manifest either look at the embedded viewer below or use the
 
 Here's an embedded Mirador viewer pointing to our local manifest already.
 
-<iframe id="iframe-demo" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="" src="mirador-demo.html" style="width:100%" height="600" frameborder="10">You need an iFrame capable browser to view this.</iframe>
+{% include "../includes/presentation/mirador-iframe.html" %}
 
 <!-- #todo:0 actually vendor the mirador viewer code into the workshop materials for offline use -->
 
@@ -35,5 +35,8 @@ You should see your "Papillons" image show up. Click on it.
 #todo:0 Add exercises and questions around Mirador
 
 ## Advanced Mirador Functionality
+
+- layers
+- annotations
 
 http://projectmirador.org/demo/advanced_features.html
