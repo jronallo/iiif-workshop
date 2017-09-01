@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" type="text/css" href="http://projectmirador.org/demo/css/mirador-combined.min.css">
+    <title>Mirador Viewer</title>
+    <style type="text/css">
+     #viewer {
+       width: 100%;
+       height: 100%;
+       position: fixed;
+     }
+    </style>
+  </head>
+  <body>
+    <div id="viewer"></div>
+
+    <script src="http://projectmirador.org/demo/mirador.min.js"></script>
+    <script type="text/javascript">
+
+     $(function() {
+       myMiradorInstance = Mirador({
+         "id": "viewer",
+         "layout": "1x1",
+         "buildPath": "",
+         "data": [
+           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"}
+         ],
+         "windowObjects": [{
+           loadedManifest: "http://localhost:3000/manifest.json",
+           viewType: "ImageView",
+           slotAddress: ""
+         }],
+         "annotationEndpoint": { "name":"Local Storage", "module": "LocalStorageEndpoint" },
+         "windowSettings": {
+           "canvasControls": { // The types of controls available to be displayed on a canvas
+             "imageManipulation" : {
+               "manipulationLayer" : true,
+               "controls" : {
+                 "mirror" : true
+               }
+             }
+           }
+         }
+       });
+     });
+    </script>
+  </body>
+</html>
