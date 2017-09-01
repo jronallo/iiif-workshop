@@ -21,11 +21,13 @@
 
      $(function() {
        myMiradorInstance = Mirador({
+         "language": "en",
          "id": "viewer",
          "layout": "1x1",
          "buildPath": "",
          "data": [
-           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"}
+           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"},
+           { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/segPap_022/manifest", "location": "NCSU Libraries"}
          ],
          "windowObjects": [{
            loadedManifest: "http://localhost:3000/manifest.json",
