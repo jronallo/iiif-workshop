@@ -21,3 +21,13 @@ JSONView
 https://addons.mozilla.org/en-US/firefox/addon/jsonview/
 
 With either option you may also need to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Ctrl + Opt + I`.
+
+## Clearing the Cache
+
+Sometimes the browser may cache something that you've changed. To see the new data you'll need to clear your cache. It is possible in Firefox and Chrome to disable the cache while the developer tools are open.
+
+Alternatively you may want to try the following browser extensions:
+
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/
+
+Chrome: #todo:0 Find a simple Chrome cache clearing extension
