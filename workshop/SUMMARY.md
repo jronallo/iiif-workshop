@@ -59,6 +59,8 @@
   - [Collections](presentation/collections.md)
   - [Review](presentation/review.md)
 - [Content Search API](search/README.md)
+  - [Universal Viewer](search/uv-search.md)
+  - [Mirador](search/mirador-search.md)
 - [Authentication API](authentication/README.md)
 
 ## What Now?

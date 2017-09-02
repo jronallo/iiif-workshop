@@ -1,6 +1,6 @@
 # Drag & Drop
 
-http://example.org?manifest=http%3A%2F%2Flocalhost%3A3000%2Fmanifest.json 
+Drag & Drop allows for moving a resource via a IIIF manifest from one interface into a IIIF viewer.
 
 While this isn't a formal IIIF specification yet both Universal Viewer and Mirador support dragging a specially constructed link, dropping the link onto a viewer, and having that new resource displayed.
 
