@@ -13,6 +13,7 @@
 
 ## IIIF APIs
 - [Image API](image/README.md)
+  - [Use Cases](image/use-cases.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
   - [URI Parameters](image/parameters.md)
