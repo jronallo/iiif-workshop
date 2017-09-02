@@ -36,6 +36,7 @@ Let's go back to our manifest. At the top level we'll add a `metadata` property 
 | Title        | fr: Papillons<br>en: Butterflies |
 | Created Date | circa 1920-1929                  |
 
+
 As you update your manifest view the results in [Universal Viewer](universal-viewer.md) and [Mirador](mirador.md) to see how the metadata displays.
 
 ## Metadata Portion
