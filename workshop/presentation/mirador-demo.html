@@ -26,10 +26,20 @@
          "layout": "1x1",
          "buildPath": "",
          "data": [
-           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"},
-           { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/segPap_022/manifest", "location": "NCSU Libraries"},
+           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"
+         },
+           { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/segPap_022/manifest", "location": "NCSU Libraries"
+         },
            { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2003-04-01/manifest",
              "location": "NCSU Libraries"
+           },
+           {
+             "manifestUri": "http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json",
+             "viewType": "ImageView"
+           },
+           {
+             "manifestUri": "https://wellcomelibrary.org/iiif/b18035978/manifest",
+             "viewType": "ImageView"
            }
          ],
          "windowObjects": [{
@@ -46,7 +56,13 @@
                  "mirror" : true
                }
              }
-           }
+           },
+           "sidePanelVisible": false
+         },
+         "sidePanelOptions" : {
+           "tocTabAvailable": true,
+           "layersTabAvailable": true,
+           "searchTabAvailable": true
          }
        });
      });

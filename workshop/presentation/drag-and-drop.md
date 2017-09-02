@@ -1,5 +1,7 @@
 # Drag & Drop
 
+http://example.org?manifest=http%3A%2F%2Flocalhost%3A3000%2Fmanifest.json 
+
 While this isn't a formal IIIF specification yet both Universal Viewer and Mirador support dragging a specially constructed link, dropping the link onto a viewer, and having that new resource displayed.
 
 This is similar to the way in which you can drag a file from one folder to another folder in a file browser. The same browser drag and drop functionality is enabled in Gmail where you can drag a file over and drop it into an email as an attachment. This works the same way.

@@ -10,6 +10,8 @@ Here's an embedded Mirador viewer pointing to our local manifest already.
 
 {% include "../includes/presentation/mirador-iframe.html" %}
 
+<a href="mirador-demo.html" target="_blank">open Mirador in a new window</a>
+
 <!-- #todo:0 actually vendor the mirador viewer code into the workshop materials for offline use -->
 
 <!-- #todo:0 Consider adding either an image with what UV ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
@@ -33,6 +35,11 @@ You should see your "Papillons" image show up. Click on it.
 ## Exercises and Questions
 
 #todo:0 Add exercises and questions around Mirador
+
+- How can you make the viewer full screen?
+- How would you create an annotation?
+- How do you open a different resource?
+- How can you manipulate the colors of the image?
 
 ## Advanced Mirador Functionality
 

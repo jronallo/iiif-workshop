@@ -1,3 +1,7 @@
+---
+uv_manifest: http://localhost:3000/manifest.json
+---
+
 # Universal Viewer
 
 ## View Our Example Manifest
@@ -10,7 +14,7 @@ We've also embedded the UV demo here pointing to our local manifest.
 
 > Note: If you don't already have a local web server and a manifest at http://localhost:3000/manifest.json then this embed won't work.
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="http://localhost:3000/manifest.json" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="462,2959,2829,11 94" data-rotation="0" style="width:100%; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="http://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+{% include "../includes/presentation/uv-iframe.html" %}
 
 <!-- #todo:0 Consider adding either an image with what UV ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
 
