@@ -1,0 +1,180 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "http://localhost:3000/manifest.json",
+  "label": "Papillons",
+  "description": "Four patterns inspired by butterflies.",
+  "metadata": [
+    {
+      "label": "Creator",
+      "value": "E. A. Seguy"
+    },
+    {
+      "label": "Title",
+      "value": [
+        {
+          "@value": "Butterflies",
+          "@language": "en"
+        },
+        {
+          "@value": "Papillons",
+          "@language": "fr"
+        }
+      ]
+    },
+    {
+      "label": "Created Date",
+      "value": "circa 1920-1929"
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "attribution": "Special Collections Research Center at NCSU Libraries",
+  "logo": "http://localhost:3000/logo.jpg",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "viewingHint": "individuals",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_001/canvas/1",
+          "label": "cover",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_001/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_001/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_001",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_002/canvas/1",
+          "label": "title",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_002/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_002/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_002",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_003/canvas/1",
+          "label": "table",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_003/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_003/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_003",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_004/canvas/1",
+          "label": "plate 1",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_004/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_004/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_004",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_022/canvas/1",
+          "label": "plate 22",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_022/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "http://localhost:3000/segPap_023/canvas/1",
+          "label": "plate 23",
+          "width": 6099,
+          "height": 8599,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/segPap_023/canvas/1",
+              "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_023/full/500,/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_023",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
