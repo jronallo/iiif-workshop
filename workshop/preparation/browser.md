@@ -31,3 +31,7 @@ Alternatively you may want to try the following browser extensions:
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/
 
 Chrome: #todo:0 Find a simple Chrome cache clearing extension
+
+## Multiple Windows
+
+Make sure you know how to place two windows next to each other. As  you work through some exercises it will be helpful to have two windows open side by side.
