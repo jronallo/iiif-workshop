@@ -110,5 +110,3 @@ We requested the default quality through. We could also ask for a gray version:
 We request a JPEG image:
 
 > <a href="https://iiif.lib.ncsu.edu/iiif/mc00198-008-ff0051-000-001_0001/2016,2280,1884,952/500,/180/default.jpg" target=_blank>https://iiif.lib.ncsu.edu/iiif/mc00198-008-ff0051-000-001_0001/2016,2280,1884,952/500,/180/default.<strong>jpg</strong></a>
-
-## Square Region

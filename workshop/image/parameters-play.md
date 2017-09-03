@@ -71,7 +71,8 @@ Possible values for this image server: jpg and png.
 - Which parameters might you use to create a thumbnail for a search index or browse view?
 - How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
 - If you were creating a deep zoom viewer that used tiles, how might you go about creating the image URLs you need?
-- #todo:100 other questions
+- How would you create a square image? When might this be useful?
+<!-- - #todo:100 other questions -->
 
 ## Other Images
 
