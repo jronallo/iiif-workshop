@@ -5,6 +5,8 @@
 **https://docs.google.com/presentation/d/1QWLgVaV_YH0xWqy3wFiObq1LrDAA2AwmgtVA5OfIeEM/edit#slide=id.g239fa87aaa_0_382**
 - presentation-chart-*
 
+steward-* https://www.youtube.com/watch?v=EprE-OjrbH0&t=149
+
 ## Video
 
 - UCD Cropping: https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg
