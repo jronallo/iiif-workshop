@@ -62,6 +62,7 @@
   - [Manifest Additions](presentation/manifest-additions.md)
     - [Add More Images](presentation/add-more-images.md)
     - [viewingHint](presentation/viewinghint.md)
+  - [Multiple Images](presentation/multiple-images.md)
   - [Manifest Editor](presentation/manifest-editor.md)
   - [Collections](presentation/collections.md)
   - [Review](presentation/review.md)
