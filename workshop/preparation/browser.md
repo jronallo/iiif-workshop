@@ -2,7 +2,7 @@
 
 Any recent version of Chrome or Firefox will work. Having both can sometimes be useful. Since an easy way to launch a [simple web server](web-server.md) involves installing a chrome extension, you may choose to use Chrome.
 
-Instructions should work for:
+Instructions should work for the following (and may work for versions just below):
 - Firefox 55+
 - Chrome 60+
 
