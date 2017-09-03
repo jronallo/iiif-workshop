@@ -29,9 +29,13 @@ Image: https://images.britishart.yale.edu/iiif/745550dc-83ed-4a23-8dab-fde353274
 You can try this in the Compariscope:
 https://vanda.github.io/iiif-features/compariscope.html
 
-Here's a video of what this kind of comparison looks like:
+Here's a video of creating this kind of comparison:
 
-<video src="../assets/video/compariscope.mp4" preload="auto" controls></video>
+<video src="../assets/video/compariscope-beginning.mp4" preload="auto" controls></video>
+
+And here's what the result for the user looks like:
+
+<video src="../assets/video/compariscope-result.mp4" preload="auto" controls loop></video>
 
 ## Idea: Painting and Place
 
