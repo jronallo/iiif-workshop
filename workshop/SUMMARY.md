@@ -17,6 +17,7 @@
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
   - [URI Parameters](image/parameters.md)
+    - [Detailed Example](image/detailed-example.md)
     - [Parameters Play](image/parameters-play.md)
     - [Order of Implementation](image/order-of-implementation.md)
     - [Tiling](image/tiling.md)

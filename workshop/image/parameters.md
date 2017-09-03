@@ -1,5 +1,11 @@
 # URI Parameters
 
+The Image API allows for taking a source image and through applying parameters to extract a region of an image and do some further basic image manipulation. We'll go through the parameters here. (And you can learn more about the [order of implementation](order-of-implementation.md) later.)
+
+![](../assets/images/transformation.png)
+
+## Parameters Template
+
 {scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}
 
 Let's construct a IIIF URI together. We'll break it down into the base URI and then the parameters that can manipulate the image.
