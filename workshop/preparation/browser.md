@@ -1,6 +1,10 @@
 # Browser
 
-Any recent version of Chrome or Firefox will work. Since an easy way to launch a [simple web server](web-server.md) involves installing a chrome extension, you may choose to use Chrome.
+Any recent version of Chrome or Firefox will work. Having both can sometimes be useful. Since an easy way to launch a [simple web server](web-server.md) involves installing a chrome extension, you may choose to use Chrome.
+
+Instructions should work for:
+- Firefox 55+
+- Chrome 60+
 
 ## Viewing JSON
 
@@ -33,6 +37,10 @@ Alternatively you may want to try the following browser extensions:
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/
 
 Chrome: #todo:0 Find a simple Chrome cache clearing extension
+
+## Ad Blockers
+
+Sometimes ad blocker extensions (especially algorithmic blockers like Privacy Badger) can give false positives for IIIF resources. The suggestion is to be aware that this is one reason why things may not work. You may also choose to disable ad blockers for the duration of the workshop. You may need to whitelist certain sites if you leave your ad blocker enabled.
 
 ## Multiple Windows
 
