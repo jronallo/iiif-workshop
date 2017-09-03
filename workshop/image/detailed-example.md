@@ -6,6 +6,8 @@ Here's a visual tour of how you can extract a region and manipulate the image fu
 
 We'll start with the full size version of this image and crop out just the building. You can see where the architect was testing out colors, so it'd be nice to crop those out.
 
+The resource we'll use is [Perspective from the West - Front by Henry L. Kamphoefner](https://d.lib.ncsu.edu/collections/catalog/mc00198-008-ff0051-000-001_0001).
+
 ![](https://iiif.lib.ncsu.edu/iiif/mc00198-008-ff0051-000-001_0001/full/800,/0/default.jpg)
 
 This is the URL we will end up with:
