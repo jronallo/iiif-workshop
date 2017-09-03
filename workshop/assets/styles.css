@@ -30,3 +30,15 @@
 video {
   max-width: 100%;
 }
+
+/* For presentation/detailed-example.md for large image */
+.markdown-section .allow-overflow {
+  overflow: scroll;
+  height: 400px;
+}
+.markdown-section .allow-overflow img {
+  width: auto;
+  height: auto;
+  max-width: 10000px;
+  max-height: 10000px;
+}
