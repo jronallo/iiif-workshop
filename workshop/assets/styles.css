@@ -26,3 +26,7 @@
   font-size: 0.8em;
   color: hsl(0, 0%, 49%);
 }
+
+video {
+  max-width: 100%;
+}

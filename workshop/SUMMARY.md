@@ -10,10 +10,10 @@
   - [Bonus Setup](preparation/bonus-setup.md)
     - [Virtual Machine](preparation/virtual-machine.md)
     - [Local Install](preparation/local-install.md)
+- [Use Cases](use-cases.md)
 
 ## IIIF APIs
 - [Image API](image/README.md)
-  - [Use Cases](image/use-cases.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
   - [URI Parameters](image/parameters.md)
@@ -25,6 +25,8 @@
     - [OpenSeadragon](image/openseadragon.md)
     - [Simple Page Turner](image/simple-page-turner.md)
   - [Image Tools](image/tools.md)
+    - [Cropping](image/cropping.md)
+    - [Comparison](image/comparison.md)
   - [Image Servers](image/image-servers.md)
     - [Static](image/image-server-static.md)
     - [Dynamic](image/image-server-dynamic.md)
@@ -68,7 +70,6 @@
 - [Authentication API](authentication/README.md)
 
 ## What Now?
-- [Image Comparison](now/image-comparison.md)
 - [Annotation](now/annotation.md)
 
 ## Bonus
@@ -81,4 +82,5 @@
 
 ---
 
+- [Credits](credits.md)
 - [Glossary](GLOSSARY.md)

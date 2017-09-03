@@ -1,5 +1,6 @@
 # Image Tools
 
-## Cropping
-- Leaflet-IIIF Cropping https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2
-- https://digital.ucd.ie/crop/index.html?imageID=https://iiif.ucd.ie/loris/ucdlib:47504
+Once you have images available via a standard API, there are other tools you can take advantage of.
+
+- [Cropping](cropping.md)
+- [Comparison](comparison.md)

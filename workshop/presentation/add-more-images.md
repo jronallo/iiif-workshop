@@ -99,3 +99,5 @@ Here's what the manifest with more images will look like now:
 
 [img23]: https://iiif.lib.ncsu.edu/iiif/segPap_023/full/175,/0/default.jpg
 [url23]: https://d.lib.ncsu.edu/collections/catalog/segPap_023
+
+<!-- #todo:0 Find place to show example of manifest with images from two different institutions with labels like "fly like a butterfly and sting like a bee" -->
