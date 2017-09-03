@@ -82,6 +82,8 @@ Possible values for this image server: jpg and png.
 
 You can also try manipulating these other images. Given is the scheme, server, and prefix then a list of image identifiers.
 
+Start with the base URI add the image identifier and then add on the different Image API parameters.
+
 > Challenge: Try to use the region parameter to get a particular section of the image like a face or a painting in a painting.
 
 **NCSU Libraries** https://iiif.lib.ncsu.edu/iiif

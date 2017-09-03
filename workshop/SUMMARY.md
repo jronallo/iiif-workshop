@@ -22,6 +22,8 @@
     - [Order of Implementation](image/order-of-implementation.md)
     - [Tiling](image/tiling.md)
   - [Image Information](image/info.md)
+    - [Image Information URI](image/info-uri.md)
+    - [Image Information Properties](image/info-properties.md)
   - [Image Viewers](image/viewers.md)
     - [Leaflet](image/leaflet.md)
     - [OpenSeadragon](image/openseadragon.md)
