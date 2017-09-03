@@ -6,15 +6,19 @@ The Image API allows for taking a source image and through applying parameters t
 
 ## Parameters Template
 
-{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}
+<div class="alert">{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}</div>
 
-Let's construct a IIIF URI together. We'll break it down into the base URI and then the parameters that can manipulate the image.
+Let's construct our first IIIF URI together. We'll break it down into the base URI and then the parameters that can manipulate the image.
+
+ Don't worry if you're not certain what everything does yet. We'll show a detailed example next.
+
+> Open up a text editor to construct your image URL.
 
 ## Base URI
 
 The base URI includes only the scheme, server, prefix (optional), and identifier:
 
-`{scheme}://{server}{/prefix}/{identifier}`
+<div class="alert">{scheme}://{server}{/prefix}/{identifier}</div>
 
 This base URI is what is used to identify the resource (think linked data). We will see an example of this in a bit when we look at the [`info.json`](info.md).
 
@@ -24,7 +28,7 @@ Any time you want an image at a particular size or some part of an image you'll 
 
 Scheme is the first part of the base URI. This is the `http` or `https` part of the URL.
 
-Strong recommendation that images be served over HTTPS in order to be able to be used within other HTTPS pages. If an image served over HTTP is included in a page served over HTTPS then browsers will complain about mixed content.
+The strong recommendation is that images be served over HTTPS in order to be able to be used within other HTTPS pages. If an image served over HTTP is included in a page served over HTTPS then browsers will complain about mixed content.
 
 We'll use `https` to start our URI:
 <div class="alert"><strong>https://</strong></div>
@@ -90,6 +94,8 @@ Here we'll require a JPEG:
 <div class="alert">https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/default.<strong>jpg</strong></div>
 
 ## Our Example
+
+You've now created your first IIIF image URL!
 
 https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/default.jpg
 

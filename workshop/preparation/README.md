@@ -1,8 +1,6 @@
 # Preparation
 
-In order for the workshop to go smoothly, please
-
-If you have ad blockers on you may want to disable them during the workshop. Sometimes they'll get in the way of some JavaScript running.
+In order for the workshop to go smoothly, please read through the following to help you prepare to be ready to go.
 
 ## Requirements
 

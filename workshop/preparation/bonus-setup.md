@@ -2,6 +2,8 @@
 
 There are some optional, more technical exercises that you can do if you have some extra things installed.
 
+> **Note: This is a work in progress.**
+
 You should have `git` installed.
 
 For additional setup you have two options:

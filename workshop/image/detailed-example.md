@@ -85,7 +85,7 @@ Here's the region we've selected from the full image based on our `xywh` paramet
 
 ## Size
 
-That's still quite a large image so we can scale the image down.
+That's still quite a large image so we can scale the image down. In this case the image is scaled down to 500 pixels and the height is scaled proportionally. We'll see other examples of possible size values in the next section.
 
 > <a href="https://iiif.lib.ncsu.edu/iiif/mc00198-008-ff0051-000-001_0001/2016,2280,1884,952/500,/0/default.jpg" target=_blank>https://iiif.lib.ncsu.edu/iiif/mc00198-008-ff0051-000-001_0001/2016,2280,1884,952/<strong>500,</strong>/0/default.jpg</a>
 

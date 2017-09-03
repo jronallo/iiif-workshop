@@ -13,7 +13,7 @@ IIIF standards for images solve a number of challenges with images on the web:
 - Standard URL structure for accessing images
 - Standard package for information about an image
 - Supports rights
-- Support tiling
+- Supports tiling
 
 
 <!-- #todo:0 add section in image on adding rights statement to info.json response -->

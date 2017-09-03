@@ -1,6 +1,8 @@
 # Play with Parameters
 
-Now with a base URI of https://iiif.lib.ncsu.edu/iiif/segPap_021
+Now we will play with different parameters.
+
+You'll use this base URI and add the other parameters on: https://iiif.lib.ncsu.edu/iiif/segPap_021
 
 Here's the URI template you'll use:
 
@@ -13,6 +15,16 @@ All the example values below ought to work with this particular image. Links to 
 <div class="alert">Tip: It may be easier to see what's happening with some of the other parameters if you use a "full" region.</div>
 
 <div class="alert">Tip: When viewing an image in the Firefox and Chrome web browsers the title bar will tell you the width x height of the image in pixels.</div>
+
+## Questions
+
+Here are some questions you can ask yourself as you try out the examples:
+
+- Which parameters might you use to create a thumbnail for a search index or browse view?
+- How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
+- If you were creating a deep zoom viewer that used tiles, how might you go about creating the image URLs you need?
+- How would you create a square image? When might this be useful?
+<!-- - #todo:100 other questions -->
 
 ## Region
 
@@ -29,7 +41,7 @@ http://iiif.io/api/image/2.1/#region
 
 http://iiif.io/api/image/2.1/#size
 
-Try
+Try each of the following forms for size to see how images can be scaled.
 
 | form  | examples                        |
 |:------|:--------------------------------|
@@ -65,14 +77,6 @@ Valid values are: color, gray, bitonal, default.
 http://iiif.io/api/image/2.1/#format
 
 Possible values for this image server: jpg and png.
-
-## Questions
-
-- Which parameters might you use to create a thumbnail for a search index or browse view?
-- How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
-- If you were creating a deep zoom viewer that used tiles, how might you go about creating the image URLs you need?
-- How would you create a square image? When might this be useful?
-<!-- - #todo:100 other questions -->
 
 ## Other Images
 
@@ -112,8 +116,6 @@ You can also try manipulating these other images. Given is the scheme, server, a
 
 **Wellcome** https://dlcs.io/iiif-img/wellcome/1/
 - [05bf51b9-991f-476d-bff1-dd5e96c4e122](https://wellcomelibrary.org/item/b20417081#?c=0&m=0&s=0&cv=590&z=-0.3642%2C0.3624%2C1.5498%2C0.907)
-
-
 
 ## Parameters Playground
 

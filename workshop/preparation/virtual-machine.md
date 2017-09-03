@@ -1,10 +1,12 @@
 # Option 1: Virtual Machine
 
-NOT YET FULLY IMPLEMENTED. The virtual machine will eventually have everything that's needed.
+**NOT YET FULLY IMPLEMENTED.** The virtual machine will eventually have everything that's needed.
 
 Requirements for running the virtual machine are [Vagrant](https://www.vagrantup.com/) and [Virtualbox](https://www.virtualbox.org/). You ought to be able to use a package manager to install these or go to the sites for directions on how to install.
 
-Clone the workshop: YKK
+Clone the workshop: ...
+
+<!-- #todo:0 give directions for cloning the workshop -->
 
 In a terminal change into the `vm` directory: `cd iiif-workshop/vm`
 
