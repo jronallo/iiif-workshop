@@ -20,6 +20,8 @@ Recent versions of Firefox include a JSON viewer by default.
 JSONView
 https://addons.mozilla.org/en-US/firefox/addon/jsonview/
 
+### Developer Tools
+
 With either option you may also need to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Ctrl + Opt + I`.
 
 ## Clearing the Browser Cache
