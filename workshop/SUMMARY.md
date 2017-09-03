@@ -19,6 +19,7 @@
   - [URI Parameters](image/parameters.md)
     - [Parameters Play](image/parameters-play.md)
     - [Order of Implementation](image/order-of-implementation.md)
+    - [Tiling](image/tiling.md)
   - [Image Information](image/info.md)
   - [Image Viewers](image/viewers.md)
     - [Leaflet](image/leaflet.md)
@@ -70,6 +71,7 @@
 - [Authentication API](authentication/README.md)
 
 ## What Now?
+- [Site Integration](now/site-integration.md)
 - [Annotation](now/annotation.md)
 
 ## Bonus

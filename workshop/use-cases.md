@@ -27,3 +27,7 @@ As an _art student_, I want to _zoom in on an image_, so that I can _learn about
 Do you have questions about how IIIF can help support your users?
 
 Feel free to ask questions about how something might help support particular use cases you have.
+
+## Museum Use Cases
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AefD7wbfTFU?rel=0" frameborder="0" allowfullscreen></iframe>

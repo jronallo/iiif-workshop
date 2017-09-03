@@ -8,6 +8,13 @@ https://digital.ucd.ie/crop/index.html?imageID=https://iiif.ucd.ie/loris/ucdlib:
 
 <!-- #todo:0 write more about image cropping -->
 
+## UCD Demo
+
+<video src="../assets/video/2017_UCD_Crop-snippet.mp4" preload="auto" controls></video>
+
+See the full video:
+https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg
+
 ## Questions
 
 - How might you make use of a cropping tool at your institution?

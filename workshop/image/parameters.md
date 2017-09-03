@@ -55,7 +55,7 @@ Everything after the identifier are parameters that allow you to request the spe
 
 ### Size
 
-#todo:100 scale an image to the required size.
+<!-- #todo:100 scale an image to the required size. -->
 
 Adding `400,` will scale the image down to 400 pixels wide and will scale the height proportionally.
 
@@ -63,7 +63,7 @@ Adding `400,` will scale the image down to 400 pixels wide and will scale the he
 
 ### Rotation
 
-#todo:100 rotate the image
+<!-- #todo:100 rotate the image -->
 
 In this case we will set this to `0` to not rotate the image at all.
 
@@ -88,3 +88,5 @@ Here we'll require a JPEG:
 https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/default.jpg
 
 ![](https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/default.jpg)
+
+<!-- #todo:0 show an example that shows how the numbers are applied -->

@@ -36,10 +36,14 @@ Here's a snippet of what a portion of your sequence ought to look like:
 
 <a href="../manifests/presentation-viewinghint.json" target="_blank">See the full manifest with a viewingHint and viewingDirection</a>
 
-# Questions
+## Questions
 
 - How does the display change in [Universal Viewer](universal-viewer.md) and [Mirador](mirador.md)?
 - What assumption is made about your resource when you use the "paged" value for `viewingHint`?
 - When might you use a `viewingHint` of "continuous"?
 - Are these viewing hints sufficient for representing the kinds of resources you have?
 - #todo:0 add other questions about viewingHint and viewing direction
+
+## Example
+
+https://libimages1.princeton.edu/osd-demo/?feedme=pudl0123%2F8172070%2F01%2F00000001.jp2

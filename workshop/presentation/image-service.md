@@ -69,7 +69,7 @@ Our resource with embedded service will look like this:
 }
 ```
 
-<!-- #todo:0 view this manifest as a tree -->
+<!-- #todo:0 view this manifest as a tree. json-ld.org/playground to visualize -->
 
 ## Now View It!
 

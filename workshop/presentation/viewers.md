@@ -12,3 +12,5 @@ We'll try our manifest in two viewers:
 - [Mirador](mirador.md)
 
 We can use each of these viewers as we go along further to test out properties and information we add to our manifest to see what features they enable.
+
+<!-- #todo:0 mention Manifesto as a way to create your own new viewer based on UV components http://blog.edsilv.com/manifesto/ -->
