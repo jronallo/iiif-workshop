@@ -4,7 +4,7 @@
 
 We've seen various annotations throughout the workshop already. Images are applied to canvases via annotation. Content search results are expressed as annotations.
 
-#todo:0 are there other instance in the workshop where we've already mentioned annotations?
+<!-- #todo:0 are there other instance in the workshop where we've already mentioned annotations? -->
 
 Here we're going to look at annotations more in depth and talk about other uses of annotations.
 
@@ -31,3 +31,5 @@ http://ghp.wellcomecollection.org/annotation-viewer/quilt
 ## Questions
 
 What kinds of data do you have for annotations?  How could you get those into annotations?
+
+<!-- #todo:0 add example of hot spot annotation. V&A? -->

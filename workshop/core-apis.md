@@ -11,4 +11,4 @@ Throughout you'll see different examples of how these two specifications interre
 
 <!-- #todo:0 create a page on the core APIs -->
 <!-- #todo:0 add this page to the summary -->
-#todo:0 is this a space to 
+<!-- #todo:0 is this a space to mention that you don't have to do all of everything in this workshop? you can start simple and level up over time. iterative development. -->

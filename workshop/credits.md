@@ -17,6 +17,8 @@ steward-* https://www.youtube.com/watch?v=EprE-OjrbH0&t=149
 
 starfish: https://github.com/zimeon/iiif/tree/master/demo-static
 
+data workflows images come from [V&A presentation "Iterative Integration into the V&A's CMS"](https://drive.google.com/open?id=1b14kDvovqh3Wtm3OWSAfk0EFv9euzEP945lZ07Ug2ew).
+
 ## Video
 
 - UCD Cropping: https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg
