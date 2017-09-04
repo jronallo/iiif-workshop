@@ -2,7 +2,7 @@
 
 If you are using these workshop materials as part of an organized workshop, please take a moment to fill out the feedback or survey form provided.
 
-<!-- #todo:0 There's also a general anonymous survey that you can fill out. -->
+<!-- #todo:0 There's also a [general anonymous survey](YKK) that you can fill out. -->
 
 <!-- #todo:0 note that feedback can also be made as an issue on the repository -->
 
