@@ -12,6 +12,6 @@ Open the [Bodleian Manifest Editor][bod-manifest-editor].
 
 **How would you add some metadata?**
 
-**How would you export your updated manifest from the system?** When you save the manifest, save it in your `iiif-workshop` directory as `bod-manifest.json`. You can now [view the manifest in Universal Viewer](http://universalviewer.io/uv.html?manifest=http://localhost:3000/bod-manifest.json).
+**How would you export your updated manifest from the system?** When you save the manifest, save it in your `iiif-workshop` directory as `bod-manifest.json`. You can now [view the manifest in Universal Viewer](http://universalviewer.io/uv.html?manifest=http://localhost:3000/bod-manifest.json). Open Mirador and add http://localhost:3000/bod-manifest.json.
 
 [bod-manifest-editor]: http://iiif.bodleian.ox.ac.uk/manifest-editor/
