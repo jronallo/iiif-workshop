@@ -15,6 +15,7 @@ Annotations can be useful for:
 - Teaching
 - Machines
 - Crowdsourcing
+- Conservation
 
 <!-- #todo:0 maybe mention hypothesis? -->
 
