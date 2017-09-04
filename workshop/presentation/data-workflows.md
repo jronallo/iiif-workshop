@@ -9,3 +9,19 @@ TODO
 - Will you be able to dynamically query for data via APIs or will you need to export data dumps?
 
 <!-- #important:0 Show how different types of data that might be coming from different systems get mapped into IIIF. Talk about how to approach that mapping and automating output of manifests. -->
+
+## Iterative Example
+
+This is a graphical example from the V&A.
+
+Here's the abstract approach that was required:
+
+![](../assets/images/va-iterative-integration-overview.png)
+
+Here's a start:
+
+![](../assets/images/va-iterative-integration-step1.png)
+
+As they go along it gets more complicated and full of features:
+
+![](../assets/images/va-iterative-integration-step2.png)
