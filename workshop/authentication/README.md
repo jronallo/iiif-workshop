@@ -4,6 +4,8 @@
 
 http://iiif.io/api/auth/1.0/
 
+What if you need to restrict access to some resources? Or provide differential access based on the user? How would you continue to use the core IIIF APIs while accomplish 
+
 The Authentication API helps to orchestrate a workflow so that untrusted applications can go through required authentication steps. The untrusted IIIF client does not handle login or accepting user credentials itself, but just manages the workflow appropriately.
 
 The API supports the following approaches:

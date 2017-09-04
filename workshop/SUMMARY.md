@@ -71,6 +71,7 @@
   - [Manifest Editor](presentation/manifest-editor.md)
   - [Collections](presentation/collections.md)
   - [Data Workflows](presentation/data-workflows.md)
+- [More APIs](more-apis.md)
 - [Content Search API](search/README.md)
   - [User Interface Examples](search/interface-examples.md)
     - [Universal Viewer](search/uv-search.md)
