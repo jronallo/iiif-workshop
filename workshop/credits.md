@@ -4,7 +4,7 @@
 
 - [Jason Ronallo](http://ronallo.com)
 
-<!-- #todo:0 clean up credits page -->
+<!-- #todo:370 clean up credits page -->
 
 ## Images
 
@@ -30,9 +30,11 @@ data workflows images come from [V&A presentation "Iterative Integration into th
 
 ## Useful Resources
 
+The following resources were helpful in creating this workshop.
+
 - The [Awesome IIIF](https://github.com/IIIF/awesome-iiif) list includes lots of pointers to resources.
 - https://www.slideshare.net/workergnome/iiif-for-small-projects
 
-<!-- #todo:0 what other useful resources should be included? -->
+<!-- #todo:680 what other useful resources should be included to useful resources page? -->
 
-<!-- #todo:0 add the IIIF youtube channel? -->
+<!-- #todo:320 add the IIIF youtube channel? -->

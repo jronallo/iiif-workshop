@@ -20,4 +20,4 @@ IIIF standards for images solve a number of challenges with images on the web:
 > IIIF doesn't just keep you out of silos; it keeps you out of dead ends. -- Richard Higgins, Durham Uniersity
 
 
-<!-- #todo:0 add section in image on adding rights statement to info.json response -->
+<!-- #todo:290 add section in image on adding rights statement to info.json response -->

@@ -1,10 +1,10 @@
 # Annotation
 
-<!-- #todo:0 write annotation section -->
+<!-- #todo:730 write annotation section -->
 
 We've seen various annotations throughout the workshop already. Images are applied to canvases via annotation. Content search results are expressed as annotations.
 
-<!-- #todo:0 are there other instance in the workshop where we've already mentioned annotations? -->
+<!-- #todo:360 are there other instance in the workshop where we've already mentioned annotations? -->
 
 Here we're going to look at annotations more in depth and talk about other uses of annotations.
 
@@ -17,11 +17,11 @@ Annotations can be useful for:
 - Crowdsourcing
 - Conservation
 
-<!-- #todo:0 maybe mention hypothesis? -->
+<!-- #todo:530 maybe mention hypothesis? -->
 
-<!-- #todo:0 While annotation is specified outside of IIIF it is useful to have a basic understanding of how annotations work. -->
+<!-- #todo:210 While annotation is specified outside of IIIF it is useful to have a basic understanding of how annotations work. -->
 
-<!-- #todo:0 add image of annotations here -->
+<!-- #todo:240 add image of annotations here -->
 
 ![](../assets/images/annotation-body-target.md)
 
@@ -63,13 +63,13 @@ http://ghp.wellcomecollection.org/annotation-viewer/quilt
 
 TODO
 
-<!-- #todo:0 write section on annotation stores -->
+<!-- #todo:790 write section on annotation stores -->
 
 ## Questions
 
 What kinds of data do you have for annotations?  How could you get those into annotations?
 
-<!-- #todo:0 add example of hot spot annotation. V&A? -->
+<!-- #todo:230 add example of hot spot annotation. V&A? -->
 
 ## Web Annotation
 

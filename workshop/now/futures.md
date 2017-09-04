@@ -6,7 +6,7 @@ TODO
 
 http://iiif.io/community/groups/av/
 
-<!-- #todo:0 AV video examples and community -->
+<!-- #todo:20 AV video examples and community -->
 
 ## 3D
 
@@ -17,4 +17,4 @@ Skull: http://universalviewer.io/examples/#?manifest=https%3A%2F%2Fedsilv.github
 
 The Kiss: http://universalviewer.io/examples/#?manifest=http%3A%2F%2Ffiles.universalviewer.io%2Fmanifests%2Ffoundobjects%2Fthekiss.json
 
-<!-- #todo:0 3D examples and community -->
+<!-- #todo:10 3D examples and community -->

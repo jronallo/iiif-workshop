@@ -1,6 +1,6 @@
 # Shared Canvas
 
-<!-- #todo:0 harmonize with language from presentation/canvas.md -->
+<!-- #todo:490 harmonize with language from presentation/canvas.md -->
 
 http://iiif.io/model/shared-canvas/1.0/
 

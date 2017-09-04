@@ -24,7 +24,7 @@ Here are some questions you can ask yourself as you try out the examples:
 - How would you get the full image to fit within a 500 by 500 pixel space regardless of the orientation of the image?
 - If you were creating a deep zoom viewer that used tiles, how might you go about creating the image URLs you need?
 - How would you create a square image? When might this be useful?
-<!-- - #todo:100 other questions -->
+<!-- - #todo:880 other questions for thinking about while playing with parameters -->
 
 ## Region
 

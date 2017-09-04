@@ -13,7 +13,7 @@ Questions to ask yourself as you are considering adopting an existing image serv
 - What does the level of community support look like?
 - Do we have an existing image server that we could shim?
 
-<!-- #todo:100 questions about choosing an image server -->
+<!-- #todo:890 questions about choosing an image server -->
 
 Based on these criteria take a look at two image servers and report back.
 
@@ -25,4 +25,4 @@ If you already have an image server and want to make it work with the IIIF APIs 
 
 One effective way to use your current image server could be to redirect from the IIIF URIs to your current image server.
 
-<!-- #todo:100 Case study on the Getty's redirect implementation? -->
+<!-- #todo:830 Case study on the Getty's redirect implementation? -->

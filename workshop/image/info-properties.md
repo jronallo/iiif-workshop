@@ -8,4 +8,4 @@ The information returned is JSON-LD.
 
 So what information is actually included in the information response?
 
-<!-- #important:0 write the image information info.json section -->
+<!-- #doing:0 write the image information info.json section -->

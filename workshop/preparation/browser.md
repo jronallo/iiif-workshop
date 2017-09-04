@@ -36,7 +36,7 @@ Alternatively you may want to try the following browser extensions:
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/
 
-Chrome: #todo:0 Find a simple Chrome cache clearing extension
+Chrome: #todo:140 Find a simple Chrome cache clearing extension
 
 ## Ad Blockers
 

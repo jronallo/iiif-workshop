@@ -11,7 +11,7 @@ We'll answer these questions:
 - What is a canvas?
 - How do images and the Image API relate to the Presentation API?
 
-<!-- - #todo:100 what other learning objectives should we have for Presentation? -->
+<!-- - #todo:930 what other learning objectives should we have for Presentation? -->
 
 ## Basic Types
 

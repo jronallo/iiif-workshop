@@ -1,6 +1,6 @@
 # Detailed Image API Parameters Example
 
-<!-- #todo:0 Add a visual example of how to pull out parameters -->
+<!-- #todoplus:10 Add a visual example of how to pull out parameters -->
 
 Here's a visual tour of how you can extract a region and manipulate the image further.
 

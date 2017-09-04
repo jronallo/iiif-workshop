@@ -1,7 +1,5 @@
 # Viewers
 
-<!-- #doing:0 viewers section -->
-
 Once you have a Presentation manifest you can use a rich client application to view the resource.
 
 If you don't have your [web server](../preparation/web-server.md) running, get it running now and make sure you can get to your manifest at this address: http://localhost:3000/manifest.json
@@ -13,4 +11,4 @@ We'll try our manifest in two viewers:
 
 We can use each of these viewers as we go along further to test out properties and information we add to our manifest to see what features they enable.
 
-<!-- #todo:0 mention Manifesto as a way to create your own new viewer based on UV components http://blog.edsilv.com/manifesto/ -->
+<!-- #todo:540 mention Manifesto as a way to create your own new viewer based on UV components http://blog.edsilv.com/manifesto/ -->

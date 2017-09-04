@@ -4,4 +4,4 @@ While we'll cover more full-featured viewers when we get to the Presentation API
 
 You can see a [simple example of OpenSeadragon as a page turner](https://openseadragon.github.io/examples/tilesource-iiif/).
 
-<!-- #todo:0 write simple page turner or point out to an example -->
+<!-- #todo:800 write simple page turner or point out to another example other than OSD -->

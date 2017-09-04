@@ -10,4 +10,4 @@ These examples originally come from the [Universal Viewer Showcase](http://unive
 
 http://bluemountain.princeton.edu/exist/restxq/iiif/bmtnaae_1918-12_01/manifest
 
-<!-- #important:0 add more example manifests to explore -->
+<!-- #important:60 add more example manifests to explore -->

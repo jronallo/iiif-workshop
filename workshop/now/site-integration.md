@@ -10,7 +10,7 @@ The following questions might help you think about what will work for your insti
 - Is pan/zoom available in every case?
 - How would a user get to an alternative viewer?
 
-<!-- #todo:0 What are other questions to ask yourself about site integration? -->
+<!-- #todo:170 What are other questions to ask yourself about site integration? -->
 
 ## Examples
 
@@ -19,7 +19,7 @@ The following questions might help you think about what will work for your insti
 - [Digital Bodleian][bod] provides links to viewers and a direct link to the manifest.
 - [Wellcome Library][wellcome]
 
-<!-- #todo:0 Add V&A examples to site integration -->
+<!-- #todo:30 Add V&A examples to site integration -->
 
 ### NCSU Libraries Example
 
@@ -28,7 +28,6 @@ All of the images on the [NCSU Libraries' Rare and Unique Digital Collections][n
 - [Robert W. Graeber Papers, circa 1911-1949][nsu-graeber]
 - [George Matsumoto Papers, 1945-1991][ncsu-matsumoto]
 - [Charles W. Suggs Papers, 1914-1995][ncsu-suggs]
-<!-- #todo:0 Link up images from the guides to their titles -->
 
 NCSU Libraries uses its IIIF image service too feed in images to create OCR and deliver content search responses using [Ocracoke][ocracoke]. NCSU Libraries is also adding support for IIIF images into the archival request and workflow management system called [Circa][circa].
 
