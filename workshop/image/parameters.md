@@ -6,6 +6,8 @@ The Image API allows for taking a source image and through applying parameters t
 
 ## Parameters Template
 
+The URI for a IIIF image is made of defined parts to allow for human readability as well as machine processability.
+
 <div class="alert">{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}</div>
 
 Let's construct our first IIIF URI together. We'll break it down into the base URI and then the parameters that can manipulate the image.
@@ -16,7 +18,7 @@ Let's construct our first IIIF URI together. We'll break it down into the base U
 
 ## Base URI
 
-The base URI includes only the scheme, server, prefix (optional), and identifier:
+The base URI includes only the scheme, server, prefix (optional), and identifier. The server and prefix are going to be institution specific.
 
 <div class="alert">{scheme}://{server}{/prefix}/{identifier}</div>
 
@@ -49,13 +51,15 @@ In this case we will add `iiif` to the path:
 
 ### Identifier
 
-This is whatever identifier you want to use. It just has to be URI encoded if it includes spaces or slashes. <!-- (which you should probably not be adding to identifiers in any case) -->
+This is whatever identifier you want to use. The combination of the scheme+server+prefix and the identifier should be unique in the world.
+
+The identifier muse be URI encoded if it includes spaces or slashes. <!-- (which you should probably not be adding to identifiers in any case) -->
 
 <div class="alert">https://iiif.lib.ncsu.edu/iiif/<strong>segPap_021</strong></div>
 
-
 ## Parameters that Manipulate the Image
-Everything after the identifier are parameters that allow you to request the specific version of the image you want.
+
+Everything after the identifier are parameters that allow you to request the specific version of the image you want. These are the parts that IIIF specifies and all implementations share.
 
 ### Region
 
