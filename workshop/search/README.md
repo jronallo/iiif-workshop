@@ -23,3 +23,5 @@ We'll cover:
 <!-- #todo:0 write a bit about different levels of discovery. First discover the resource; then discover within the resource -->
 
 <!-- #todo:0 write a bit about the level at with "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
+
+<!-- #important:0 write some about how this goes back to the canvas model where the annotation can apply to a particular example. Use an OCR example to make it easy to understand. Do this graphically. Where else do we already talk about how to paint something on a canvas at particular coordinates. "what part of the image it actually related to" -->

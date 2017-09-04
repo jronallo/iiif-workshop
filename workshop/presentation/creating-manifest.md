@@ -22,7 +22,6 @@ Here's what we'll cover:
 - Ranges and structures
 - Layers
 - Other Content
-- related?
 - within?
 -->
 
