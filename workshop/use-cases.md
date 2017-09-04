@@ -1,6 +1,8 @@
 # Use Cases
 
-Throughout the workshop, let's keep in mind why we're doing this. Here are some questions we can keep in mind as we go along.
+The IIIF specifications are developed in a process that requires gathering, clarifying, and distilling use cases.
+
+Throughout the workshop, let's keep in mind why we're looking at IIIF. Here are some questions we can keep in mind as we go along.
 
 - Who are the users for your image resources?
 - What different kinds of users do you have?
