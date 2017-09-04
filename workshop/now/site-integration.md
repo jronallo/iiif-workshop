@@ -21,8 +21,25 @@ The following questions might help you think about what will work for your insti
 
 <!-- #todo:0 Add V&A examples to site integration -->
 
+### NCSU Libraries Example
+
+All of the images on the [NCSU Libraries' Rare and Unique Digital Collections][ncsu-dlib] site are delivered via IIIF. Search results pages show a square region of the image and Universal Viewer and Leaflet are used on the detail view for each resource. Once this foundational infrastructure was in place it supported new creative uses. For instance IIIF images have been included in various archival collection guides to summarize the contents of the digitized folders:
+
+- [Robert W. Graeber Papers, circa 1911-1949][nsu-graeber]
+- [George Matsumoto Papers, 1945-1991][ncsu-matsumoto]
+- [Charles W. Suggs Papers, 1914-1995][ncsu-suggs]
+<!-- #todo:0 Link up images from the guides to their titles -->
+
+NCSU Libraries is also adding support for IIIF images into the archival request and workflow management system called [Circa][circa]. 
+
 
 [yale]: http://collections.britishart.yale.edu/vufind/Record/1667702
 [harvard]: http://www.harvardartmuseums.org/collections?worktype%5B%5D=painting
 [bod]: http://digital.bodleian.ox.ac.uk/inquire/Discover/Search/#/?p=c+0,t+,rsrs+0,rsps+10,fa+,so+ox%3Asort%5Easc,scids+,pid+eba7435d-673e-449b-8a8f-bd644ee88ea4,vi+ae64724a-feae-4944-9a3e-424658c2c894
 [wellcome]: https://wellcomelibrary.org/item/b21051951
+
+[ncsu-dlib]: https://d.lib.ncsu.edu/collections
+[ncsu-graeber]: https://lib.ncsu.edu/findingaids/mc00020/contents
+[ncsu-matsumoto]: https://lib.ncsu.edu/findingaids/mc00042/contents
+[ncsu-suggs]: https://lib.ncsu.edu/findingaids/mc00033/contents
+[circa]: https://github.com/NCSU-Libraries/circa
