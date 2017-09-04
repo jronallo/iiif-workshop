@@ -23,6 +23,8 @@ Annotations can be useful for:
 
 <!-- #todo:0 add image of annotations here -->
 
+![](../assets/images/annotation-body-target.md)
+
 ## Creating Annotations
 
 Open [Mirador](../presentation/mirador.md) and create some annotations over top of an image.
