@@ -1,6 +1,6 @@
 # Core APIs
 
-The Image and Presentation APIs are the core IIIF APIs. Start there for an understanding of what IIIF enables.
+The [Image](image/README.md) and [Presentation](presentation/README.md) APIs are the core IIIF APIs. Start there for an understanding of what IIIF enables.
 
 Throughout you'll see different examples of how these two specifications interrelate and we'll dive deeper into that relationship. Suffice it to say for now that these two work together to support these different patterns of use:
 
