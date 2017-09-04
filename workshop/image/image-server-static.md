@@ -1,14 +1,18 @@
 # Static Image Server
 
 Pros:
-- Simple to deploy
+- Simple to deploy with a standard web server--no need for a specialized image server
 - Possible to use existing full images and tiles with redirects
 
 Cons:
 - Lot of storage space
 - Limits which sizes can be requested
 
-The approach here is to pregenerate different image sizes and tiles and
+The approach here is to pregenerate different image sizes and tiles and create an info.json
+
+This static implementation is often called a "Level 0" Image API implementation.
+
+You can search the [IIIF Awesome list](https://github.com/IIIF/awesome-iiif) for code to create static images and tiles. If you look at the full example below you'll see one such implementation.
 
 ## Run Example Static Server
 
@@ -17,6 +21,10 @@ The approach here is to pregenerate different image sizes and tiles and
 Download <a href="../assets/starfish.zip" target="_blank">this zip file</a>.
 
 Unzip the file into a directory.
+
+Explore the files in the directory.
+
+> What are you finding in the directory?
 
 Start a [simple web server](../preparation/web-server.md).
 
@@ -38,13 +46,17 @@ OpenSeadragon({
     });
 </script>
 
+---
+
 Try zooming in for it to work in Leaflet:
 {% include "../includes/image/leaflet.html" %}
 {% include "../includes/image/leaflet-starfish.html" %}
 
 <!-- #todo:0 Do I need more instructions here for starting the web server? -->
 
-### Full Version
+### Run the Full Version of the Static Demo
+
+> Skip this section and go to the next if you have the above version working.
 
 Example of static image server:
 https://github.com/zimeon/iiif/tree/master/demo-static
@@ -66,7 +78,11 @@ Visit: http://localhost:8000
 
 Open one of the sample images and pan and zoom around. Watch in the console as the different tiles that are delivered.
 
-Now in the terminal type: `tree starfish`. You should see output of the directory structure and files that make up all of the tiles. Partial output looks like this:
+## Exploring the Static Implementation
+
+> How does the client know what images to request?
+
+If you're on Linux or a Mac open up the starfish directory in a terminal and type type: `tree starfish`. You should see output of the directory structure and files that make up all of the tiles. Partial output looks like this:
 
 ```
 starfish

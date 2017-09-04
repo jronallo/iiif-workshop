@@ -7,6 +7,8 @@
 
 steward-* https://www.youtube.com/watch?v=EprE-OjrbH0&t=149
 
+starfish: https://github.com/zimeon/iiif/tree/master/demo-static
+
 ## Video
 
 - UCD Cropping: https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg
