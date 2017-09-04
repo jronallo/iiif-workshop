@@ -24,7 +24,10 @@ While TIF has open source implementations, the images will take up more storage 
 ## Questions
 
 - How are you currently creating access derivative images?
--
+- Where will access derivative creation fall in your workflow with a change to IIIF?
+- Where are our main costs? Are they with storage? Processing/CPU?
+
+<!-- #todo:0 add more questions around creating images -->
 
 ## JPEG2000
 
