@@ -17,7 +17,6 @@ Questions to ask yourself as you are considering adopting an existing image serv
 
 Based on these criteria take a look at two image servers and report back.
 
-
 ## Shims
 
 If you already have an image server and want to make it work with the IIIF APIs and viewers, you may want to consider using or creating an [image server shim](https://github.com/IIIF/awesome-iiif#image-server-shims). A "shim" is a small bit of code that works by intercepting API calls and working with a current incompatible system.
