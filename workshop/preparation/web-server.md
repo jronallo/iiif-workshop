@@ -42,3 +42,12 @@ Python does not have a simple one-liner, but this script ought to work:
 
 Here are some other options which may be able to be changed to allow for CORS headers to be set:
 https://gist.github.com/willurd/5720255
+
+## Fallback: Gist
+
+If all else fails you can create a Github Gist:
+
+1. Navigate to https://gist.github.com
+2. Drag and drop your file into the window and click "Create Secret Gist" (or public if you like, it doesn't matter).
+3. After the gist is created, click the "Raw" button to get the raw file URL.
+4. You can now use that file URL in some of the exercises.

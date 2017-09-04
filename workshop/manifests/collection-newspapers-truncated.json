@@ -1,0 +1,121 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://dams.llgc.org.uk/iiif/newspapers/3100020.json",
+  "@type": "sc:Collection",
+  "label": "Potter's electric news",
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Publisher",
+          "@language": "en"
+        },
+        {
+          "@value": "Cyhoeddwr",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "Joseph Potter"
+    },
+    {
+      "label": "Place of Publication",
+      "value": "Haverfordwest"
+    },
+    {
+      "label": [
+        {
+          "@value": "Frequency",
+          "@language": "en"
+        },
+        {
+          "@value": "Amlder",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": "Weekly"
+    },
+    {
+      "label": "Language",
+      "value": "eng"
+    },
+    {
+      "label": "Subject",
+      "value": [
+        "Wales Newspapers 19th century",
+        "Haverfordwest (Wales) Newspapers",
+        "Pembrokeshire (Wales) Newspapers",
+        "Begelly (Wales) Newspapers",
+        "Fishguard (Wales) Newspapers",
+        "Tenby (Wales) Newspapers",
+        "Milford Haven (Wales) Newspapers"
+      ]
+    },
+    {
+      "label": "Persistent Identifier",
+      "value": "http://hdl.handle.net/10107/3100020"
+    },
+    {
+      "label": [
+        {
+          "@value": "Repository",
+          "@language": "en"
+        },
+        {
+          "@value": "Ystorfa",
+          "@language": "cy-GB"
+        }
+      ],
+      "value": [
+        {
+          "@value": "This content has been digitised by The National Library of Wales",
+          "@language": "en"
+        },
+        {
+          "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Gendlaethol Cymru",
+          "@language": "cy-GB"
+        }
+      ]
+    }
+  ],
+  "description": [
+    {
+      "@value": "Papur newydd wythnosol a gyhoeddwyd yn Saesneg. Cylchredwyd yn Hwlffordd, Begeli, Abergwaun, Dinbych-y-pysgod ac Aberdaugleddau. Cyhoeddwyd a golygwyd y papur gan Joseph Potter. Ar un adeg 'roedd i'r papur cylchrediad o 2000 o rifynnau'r wythnos. Cofnodai hysbysebion lleol, newyddion lleol a thramor ac amserlenni'r trenau. Fe'i amlyncwyd gan y 'Pembrokeshire herald and general advertiser'. Teitlau cysylltiol: Pembrokeshire herald and general advertiser (1844-1924).",
+      "@language": "cy-GB"
+    },
+    {
+      "@value": "A weekly English language newspaper, which circulated around Haverfordwest, Begelly, Fishguard, Tenby & Milford Haven. The newspaper's main content included local news, foreign news, advertisements and railway timetables and was published and edited by Joseph Potter. At its peak, it had a weekly circulation of 2000, but was eventually absorbed into 'Pembrokeshire herald and general advertiser'. Associated titles: Pembrokeshire herald and general advertiser (1844-1924).",
+      "@language": "en"
+    }
+  ],
+  "seeAlso": {
+    "@id": "http://hdl.handle.net/10107/3100020",
+    "format": "application/rdf+xml",
+    "profile": "http://www.europeana.eu/schemas/edm/"
+  },
+  "manifests": [
+    {
+      "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100021/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1859-01-05T00:00:00Z",
+      "label": "Potter's electric news (1859-01-05)"
+    },
+    {
+      "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100026/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1859-01-12T00:00:00Z",
+      "label": "Potter's electric news (1859-01-12)"
+    },
+    {
+      "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100031/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1859-01-19T00:00:00Z",
+      "label": "Potter's electric news (1859-01-19)"
+    },
+    {
+      "@id": "http://dams.llgc.org.uk/iiif/newspaper/issue/3100036/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1859-01-26T00:00:00Z",
+      "label": "Potter's electric news (1859-01-26)"
+    }
+  ]
+}

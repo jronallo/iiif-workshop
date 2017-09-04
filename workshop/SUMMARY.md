@@ -68,7 +68,7 @@
   - [Multiple Images](presentation/multiple-images.md)
   - [Manifest Editor](presentation/manifest-editor.md)
   - [Collections](presentation/collections.md)
-  - [Review](presentation/review.md)
+  - [Data Workflows](presentation/data-workflows.md)
 - [Content Search API](search/README.md)
   - [Universal Viewer](search/uv-search.md)
   - [Mirador](search/mirador-search.md)
