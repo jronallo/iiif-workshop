@@ -15,6 +15,10 @@ https://digital.ucd.ie/crop/index.html?imageID=https://iiif.ucd.ie/loris/ucdlib:
 See the full video:
 https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg
 
+## Internet Archive
+
+Irises: https://iiif.archivelab.org/iiif/mma_irises_436528
+
 ## Questions
 
 - How might you make use of a cropping tool at your institution?

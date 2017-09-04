@@ -2,6 +2,8 @@
 
 <!-- #todo:0 harmonize with language from presentation/canvas.md -->
 
+http://iiif.io/model/shared-canvas/1.0/
+
 A canvas is a coordinate space on which images can be painted. Images are painted onto a canvas through annotation. In the simple case we're only painting a single image annotation so that it fills the whole canvas.
 
 We call it a shared canvas because it allows for painting multiple images onto the same canvas as well as overlaying additional annotations.

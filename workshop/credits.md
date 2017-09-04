@@ -19,6 +19,8 @@ starfish: https://github.com/zimeon/iiif/tree/master/demo-static
 
 data workflows images come from [V&A presentation "Iterative Integration into the V&A's CMS"](https://drive.google.com/open?id=1b14kDvovqh3Wtm3OWSAfk0EFv9euzEP945lZ07Ug2ew).
 
+[image-plus-presentation-user-interface.png](https://www.slideshare.net/Cogapp/everything-you-ever-wanted-to-know-about-iiif-but-were-too-afraid-to-ask/29)
+
 ## Video
 
 - UCD Cropping: https://drive.google.com/open?id=0B8biwZuDijgecWZEWnZYVVdvcTg

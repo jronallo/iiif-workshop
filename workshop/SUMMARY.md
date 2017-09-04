@@ -13,6 +13,7 @@
 - [Use Cases](use-cases.md)
 
 ## IIIF APIs
+- [Core APIs](core-apis.md)
 - [Image API](image/README.md)
   - [Why?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
@@ -82,6 +83,7 @@
 ## What Now?
 - [Site Integration](now/site-integration.md)
 - [Annotation](now/annotation.md)
+- [IIIF Futures](now/futures.md)
 
 ## Bonus
 - [CORS](bonus/cors.md)

@@ -9,6 +9,13 @@ Throughout you'll see different examples of how these two specifications interre
 - Multiple images in a single viewer for image comparison
 - Multiple images from different institutions to form a single resource
 
-<!-- #todo:0 create a page on the core APIs -->
-<!-- #todo:0 add this page to the summary -->
+Here's a simple visual representation of a user interface to give an example of how these two core APIs work together:
+<!-- #todo:0 Does this image-plus-presentation-user-interface.png belong here or somewhere else? -->
+
+![](../assets/images/image-plus-presentation-user-interface.png)
+
+<!-- #todo:0 write more about the the core APIs -->
+
 <!-- #todo:0 is this a space to mention that you don't have to do all of everything in this workshop? you can start simple and level up over time. iterative development. -->
+
+<!-- #todo:0 What to call the sections that aren't the core APIs -->
