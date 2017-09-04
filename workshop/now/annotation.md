@@ -10,15 +10,24 @@ Here we're going to look at annotations more in depth and talk about other uses 
 
 Readers make marks in books. You bookmark pages in your browser. You quote a passage of text and comment on it. IIIF provides the platform for allowing for all different kinds of scholarly annotation.
 
+Annotations can be useful for:
+- Research
+- Teaching
+- Machines
+- Crowdsourcing
+
 <!-- #todo:0 maybe mention hypothesis? -->
 
-While annotation is specified outside of IIIF it is useful to have a basic understanding of how annotations work.
+<!-- #todo:0 While annotation is specified outside of IIIF it is useful to have a basic understanding of how annotations work. -->
 
 <!-- #todo:0 add image of annotations here -->
 
-## Creation Annotations
+## Creating Annotations
 
-Open Mirador and create some annotations over top of an image.
+Open [Mirador](../presentation/mirador.md) and create some annotations over top of an image.
+
+- What different types of annotations can you create?
+- Why might you use some of the variations within the annotation tools available in Mirador?
 
 ## Examples
 
@@ -33,3 +42,11 @@ http://ghp.wellcomecollection.org/annotation-viewer/quilt
 What kinds of data do you have for annotations?  How could you get those into annotations?
 
 <!-- #todo:0 add example of hot spot annotation. V&A? -->
+
+## Web Annotation
+
+While IIIF currently uses [Open Annotation][open-annotation], the specifications will be moving to [Web Annotation][web-annotation]. The [Web Annotation Data Model][web-annotation-data-model] includes lots of examples with use cases and JSON that make it an easy to read specification.
+
+[open-annotation]: http://iiif.io/api/annex/openannotation/index.html
+[web-annotation]: https://www.w3.org/blog/news/archives/6156
+[web-annotation-data-model]: https://www.w3.org/TR/2017/REC-annotation-model-20170223/
