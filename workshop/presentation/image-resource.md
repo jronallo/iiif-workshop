@@ -35,7 +35,7 @@ The value of `resource` will then look something like this:
 
 ## `width` and `height`
 
-Since we're specifying an image which a width and height different than the canvas coordinates, we can help the client out by also adding `width` and `height` properties to our image `resource`.
+Since we're specifying an image which can have a width and height different than the canvas coordinates, we can help the client handle the image appropriately by also adding `width` and `height` properties to our image `resource`.
 
 > Question: With a width of 500 what will the height of our image be? How can we tell?
 
@@ -70,8 +70,8 @@ Since we're specifying an image which a width and height different than the canv
               "resource": {
                 "@type": "dctypes:Image",
                 "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
-                  "width": 500,
-                  "height": 704,
+                "width": 500,
+                "height": 704,
               }
             }
           ]

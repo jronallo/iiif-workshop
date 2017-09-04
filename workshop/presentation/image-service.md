@@ -2,13 +2,15 @@
 
 http://iiif.io/api/presentation/2.1/#service
 
-Since we do have a IIIF image service for our image, we can add that `service` to the `resource`:
+Up to this point we have only annotated a static image onto our canvas. We also want to make it clear that this particular image has an image service behind it that will enable access of other versions of the image resource.
 
-In this case the `@context` is necessary since the properties come from the IIIF Image API rather than from the Presentation API.
+Since we do have a IIIF image service for our image, we can add that `service` to the `resource`.
 
-The `@id` is the same as the `@id` we would use within the `info.json` for the image. Remember that this URL redirects and resolves to the `info.json`.
+In this case the `@context` is necessary since the properties come from the IIIF Image API rather than from the Presentation API. This image service is a new context where the the property names get defined by a separate specification.
 
-Our resource with embedded service will look like this:
+The `@id` is the same as the `@id` we would use within the `info.json` for the image. Remember that this URL usually redirects and resolves to the `info.json`.
+
+Our resource with an embedded image service will look like this:
 
 ```json
 {
@@ -25,6 +27,12 @@ Our resource with embedded service will look like this:
 ```
 
 ## Basic Working Manifest
+
+And finally here's a basic working manifest!
+
+Once your manifest looks like the one below you can **view it!**
+
+We don't have everything we might want in our manifest, but it is now complete enough to view what we've done. Go on to the next step!
 
 ```json
 {
@@ -70,7 +78,3 @@ Our resource with embedded service will look like this:
 ```
 
 <!-- #todo:0 view this manifest as a tree. json-ld.org/playground to visualize -->
-
-## Now View It!
-
-We don't have everything we might want in our manifest, but it is now complete enough to view what we've done. Go on to the next step!

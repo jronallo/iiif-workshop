@@ -1,4 +1,4 @@
-# Why an Presentation API?
+# Why a Presentation API?
 
 http://iiif.io/api/presentation/2.1/#introduction
 
@@ -9,3 +9,5 @@ http://iiif.io/api/presentation/2.1/#introduction
 - Navigation and ordering
 - Display of metadata
 - Links to related resources
+
+<!-- #todo:0 give more reasons why there's a presentation API -->
