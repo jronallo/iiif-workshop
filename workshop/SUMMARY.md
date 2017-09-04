@@ -32,6 +32,7 @@
     - [Cropping](image/cropping.md)
     - [Comparison](image/comparison.md)
   - [Image Servers](image/image-servers.md)
+    - [Levels](image/levels.md)
     - [Static](image/image-server-static.md)
     - [Dynamic](image/image-server-dynamic.md)
     - [Validation](image/image-server-validation.md)
@@ -70,8 +71,12 @@
   - [Collections](presentation/collections.md)
   - [Data Workflows](presentation/data-workflows.md)
 - [Content Search API](search/README.md)
-  - [Universal Viewer](search/uv-search.md)
-  - [Mirador](search/mirador-search.md)
+  - [User Interface Examples](search/interface-examples.md)
+    - [Universal Viewer](search/uv-search.md)
+    - [Mirador](search/mirador-search.md)
+  - [Query Interface](search/query-interface.md)
+  - [Search Service in Manifest](search/service-in-manifest.md)
+  - [Getting Text](search/getting-text.md)
 - [Authentication API](authentication/README.md)
 
 ## What Now?
@@ -85,8 +90,10 @@
 
 ## Community
 - [Community](community/README.md)
+- [Getting Help](community/help.md)
 
 ---
 
+- [Feedback](feedback.md)
 - [Credits](credits.md)
 <!-- #todo:0 - [Glossary](GLOSSARY.md) -->
