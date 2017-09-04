@@ -10,6 +10,9 @@ Picking a source image involves various trade-offs including the following:
 - Complexity of the source image processing workflow
 - Whether there is an adequate open source implementation of the codec
 
+<!-- #todo:0 should this sentence on dynamic image servers for web site design go on the dynamic image server page instead? -->
+One advantage of using an advanced image server is that various sizes of images do not need to be precomputed and as your web site design changes the image server can dynamically create the appropriate sizes.
+
 Some institutions create a JPEG2000 image for their source image. JPEG2000 images can be highly compressed while still allowing for good quality and fast seeking into the image to extract regions for tiles. While there is an open source implementation of JPEG2000,  currently the fastest tool for creating and decompressing JPEG2000 images is Kakadu which is proprietary, so not suitable for some institutions.
 
 While TIF has open source implementations, the images will take up more storage space and depending on the  may be slower to extract a version of the image.
@@ -17,6 +20,11 @@ While TIF has open source implementations, the images will take up more storage 
 <!-- #todo:0 Anything else to say about TIF performance? -->
 
 <!-- #todo:0 What about other image formats? -->
+
+## Questions
+
+- How are you currently creating access derivative images?
+-
 
 ## JPEG2000
 
