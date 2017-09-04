@@ -30,8 +30,7 @@ All of the images on the [NCSU Libraries' Rare and Unique Digital Collections][n
 - [Charles W. Suggs Papers, 1914-1995][ncsu-suggs]
 <!-- #todo:0 Link up images from the guides to their titles -->
 
-NCSU Libraries uses its IIIF image service too feed in images to create OCR and deliver content search responses using [Ocracoke][ocracoke].
-NCSU Libraries is also adding support for IIIF images into the archival request and workflow management system called [Circa][circa].
+NCSU Libraries uses its IIIF image service too feed in images to create OCR and deliver content search responses using [Ocracoke][ocracoke]. NCSU Libraries is also adding support for IIIF images into the archival request and workflow management system called [Circa][circa].
 
 
 [yale]: http://collections.britishart.yale.edu/vufind/Record/1667702
