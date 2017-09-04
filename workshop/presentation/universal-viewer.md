@@ -30,7 +30,7 @@ http://universalviewer.io/uv.html?manifest=http://localhost:3000/manifest.json
 
 ## Exercises and Questions
 
-#todo:0 Add exercises and questions around UV
+<!-- #todo:0 Add exercises and questions around UV -->
 
 - How do you see metadata about the resource?
 - How can you download a copy of this image?
