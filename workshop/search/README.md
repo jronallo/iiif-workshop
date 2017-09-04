@@ -8,8 +8,16 @@ This API will not help you discovery resources. The API will help you find text 
 
 > Note that the IIIF Search API doesn’t specify how the search interface is presented to the user, it specifies the back-end mechanism by which the client can query annotation content on any IIIF Search API compatible server.
 
-<!-- #todo:0 write about the content search API -->
+<!-- #doing:0 write about the content search API -->
+
+## Query Interface
 
 `q` parameter
 
 <!-- #todo:0 searching within annotations. So can facet by motivation. Add table of motivations.  -->
+
+## Adding Content Search to a Manifest
+
+TODO
+
+<!-- #important:0 add instructions on how to add content search to our manifest -->

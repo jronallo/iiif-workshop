@@ -1,6 +1,14 @@
 # Credits
 
+## Authors
+
+- [Jason Ronallo](http://ronallo.com)
+
+<!-- #todo:0 clean up credits page -->
+
 ## Images
+
+In many cases when images are used links are already provided for credit. Only those images that require clearer credit are listed here.
 
 **https://docs.google.com/presentation/d/1QWLgVaV_YH0xWqy3wFiObq1LrDAA2AwmgtVA5OfIeEM/edit#slide=id.g239fa87aaa_0_382**
 - presentation-chart-*
@@ -16,9 +24,11 @@ starfish: https://github.com/zimeon/iiif/tree/master/demo-static
 - Zebra puzzle: https://drive.google.com/open?id=0B8biwZuDijgeWG9MYjh6bGcxYUk
 - Compariscope: https://drive.google.com/open?id=0B8biwZuDijgeSmU1dFRZNlFsQjA
 
-<!-- #doing:0 redo videos from ~/Videos/iiif-*/* -->
-
 ## Useful Resources
 
+- The [Awesome IIIF](https://github.com/IIIF/awesome-iiif) list includes lots of pointers to resources.
 - https://www.slideshare.net/workergnome/iiif-for-small-projects
--
+
+<!-- #todo:0 what other useful resources should be included? -->
+
+<!-- #todo:0 add the IIIF youtube channel? -->
