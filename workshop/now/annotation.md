@@ -25,10 +25,29 @@ Annotations can be useful for:
 
 ![](../assets/images/annotation-body-target.md)
 
+Annotation targets are URIs pointing in whole or in part (fragment) to resources like:
+- web pages
+- audio video
+- images
+- IIIF canvases
+
+Annotation bodies can be:
+- text
+- images
+- audio
+- video
+- URIs
+
+Annotations are created for different reasons like:
+- painting
+- commenting
+- bookmarking
+
 ## Creating Annotations
 
 Open [Mirador](../presentation/mirador.md) and create some annotations over top of an image.
 
+- How are annotations displayed?
 - What different types of annotations can you create?
 - Why might you use some of the variations within the annotation tools available in Mirador?
 
@@ -39,6 +58,12 @@ http://storiiies.cogapp.com/
 
 Explore the navigation of this quilt:
 http://ghp.wellcomecollection.org/annotation-viewer/quilt
+
+## Annotation Stores
+
+TODO
+
+<!-- #todo:0 write section on annotation stores -->
 
 ## Questions
 
