@@ -1,6 +1,8 @@
 # Image API
 
-In this section you'll learn about version 2.1.1 of the Image API. You'll learn about:
+The Image API helped get pixels to a client like a browser.
+
+In this section you'll learn about [version 2.1.1 of the Image API](http://iiif.io/api/image/2.1/). You'll learn about:
 
 - Why there's a need for an image API
 - Why you might want to serve your images via IIIF
@@ -10,8 +12,6 @@ In this section you'll learn about version 2.1.1 of the Image API. You'll learn 
 You'll gain hands-on experience working with the Image API.
 
 <!-- #todo:100 What other learning objectives? -->
-
-http://iiif.io/api/image/2.1/
 
 The purpose of the Image API is to have a way to request the needed bits of an image.
 

@@ -1,5 +1,7 @@
 # Presentation API
 
+The Presentation API provides enough information to drive a viewing experience.
+
 This workshop will cover version 2.1.1 of the Presentation API.
 
 http://iiif.io/api/presentation/2.1/
