@@ -42,3 +42,9 @@ video {
   max-width: 10000px;
   max-height: 10000px;
 }
+
+/* hide gitbook link */
+
+a.gitbook-link {
+  display: none !important;
+}
