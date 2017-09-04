@@ -26,9 +26,10 @@ https://wellcomelibrary.org/service/collections/
 
 ## Search
 
-NCSU Libraries collection
+[NCSU Libraries collection][ncsu]
 
 
 <!-- #todo:0 consider how to talk about how UV handles paged collections http://universalviewer.io/uv.html?manifest=https://d.lib.ncsu.edu/collections/catalog/manifest/page?f%5Bispartof_facet%5D%5B%5D=Nubian+Message&page=1&per_page=20 -->
 
 [collins]: https://en.wikipedia.org/wiki/Michael_Collins_(Irish_leader)
+[ncsu]: https://d.lib.ncsu.edu/collections/catalog/manifest?f%5Bispartof_facet%5D%5B%5D=Nubian+Message&page=1&per_page=20
