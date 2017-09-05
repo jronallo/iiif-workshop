@@ -5,7 +5,9 @@ Collections group separate IIIF manifests. Institutions have taken a couple of d
 
 <!-- #todo:380 comment on permanence of collections? -->
 
-## Newspapers
+## Approaches
+
+### Newspapers
 
 http://universalviewer.io/uv.html?manifest=http://dams.llgc.org.uk/iiif/newspapers/3100020.json
 
@@ -15,19 +17,24 @@ Note the use of the `navDate` which the viewer can use to order the manifests by
 
 <!-- #todo:300 add something more about navDate -->
 
-## Curated
+### Curated
 
 Papers of [Michael Collins][collins] (1890-1922)
 https://data.ucd.ie/api/img/collection/ivrla:10905
 
-## Facets
+### Facets
 
 https://wellcomelibrary.org/service/collections/
 
-## Search
+### Search
 
 [NCSU Libraries collection][ncsu]
 
+## Examples
+
+You can see some of the top-level collections that have been published here:
+- [JSON file containing some of the IIIF Universe](https://github.com/ryanfb/iiif-universe/blob/gh-pages/iiif-universe.json)
+- [spreadsheet collecting collections](https://docs.google.com/spreadsheets/d/1apQKFkfBV89BvycaBPN6v-LjeaKaVVMaMUsY6L4KRJo/edit)
 
 <!-- #todo:400 consider how to talk about how UV handles paged collections http://universalviewer.io/uv.html?manifest=https://d.lib.ncsu.edu/collections/catalog/manifest/page?f%5Bispartof_facet%5D%5B%5D=Nubian+Message&page=1&per_page=20 -->
 

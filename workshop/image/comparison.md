@@ -50,3 +50,5 @@ Van Gogh Walk links:
 We'll see more later about how [Mirador](../presentation/mirador.md) can be used for image comparison even with images across institutions.
 
 Take a look at how the [Boxwood Project](http://boxwood.ago.ca/) from the Art Gallery of Ontario uses Mirador to compare objects.
+
+<!-- #todo:0 What's the Mirador version of this? https://www.nga.gov/content/ngaweb/Collection/art-object-page.60.html#entry see figure 5 -->
