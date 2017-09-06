@@ -40,7 +40,7 @@ The `@context` is from JSON-LD and is part of what makes it linked data. You can
 We've already seen what the identifier for a IIIF image is.
 
 > Note that the `@id` is the part of an image URI up to the image identifier portion of the URI for an image request.
-<!-- #todo:0 is this clear enough? -->
+<!-- #todo:100 is this clear enough? -->
 
 ## Protocol
 
@@ -65,7 +65,7 @@ The `scaleFactors` list the values for different resolutions. The specification 
 > The set of resolution scaling factors for the image’s predefined tiles, expressed as positive integers by which to divide the full size of the image. For example, a scale factor of 4 indicates that the service can efficiently deliver images at 1/4 or 25% of the height and width of the full image. A particular scale factor value should appear only once in the tiles list.
 
 The result is that tiles (except on the edges) are always the same width, but the scale factors represent the different sizes of the full image that the the tiles are a part of.
-<!-- #todo:0 scaleFactors can be confusing. how to make it clearer how this works? -->
+<!-- #todo:60 scaleFactors can be confusing. how to make it clearer how this works? -->
 
 ## `profile`
 
@@ -77,19 +77,4 @@ The URI provided here is a shorthand to indicate which set of features are suppo
 
 Sometimes you will see values listed here instead of a URI. The URIs are really a shorthand. Listing out a fuller profile can happen when an image server supports all of one level and only some features of the next higher level.
 
-## Exercise
-
-Read about the various named features: http://iiif.io/api/image/2.1/#features
-
-Look at the tables for what is supported at each compliance level:
-http://iiif.io/api/image/2.1/compliance/
-
-Take a look at the features supported at each level as indicated by its URI by clicking on it:
-
-| Level | URI                                    |
-|:------|:---------------------------------------|
-| 0     | http://iiif.io/api/image/2/level0.json |
-| 1     | http://iiif.io/api/image/2/level1.json |
-| 2     | http://iiif.io/api/image/2/level2.json |
-
-> Do you understand how the profile level relates to the compliance tables?
+In the next section we'll take a closer look at these profile URIs and levels of implementation.
