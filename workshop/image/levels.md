@@ -1,6 +1,6 @@
 # Image API Levels of Implementation
 
-<!-- #doing:40 write section on levels of implementation -->
+<!-- #donefornow:40 write section on levels of implementation -->
 
 ## Exercise
 

@@ -1,7 +1,5 @@
 # Detailed Image API Parameters Example
 
-<!-- #todoplus:10 Add a visual example of how to pull out parameters -->
-
 Here's a visual tour of how you can extract a region and manipulate the image further.
 
 We'll start with the full size version of this image and crop out just the building. You can see where the architect was testing out colors, so it'd be nice to crop those out.
