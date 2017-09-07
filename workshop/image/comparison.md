@@ -1,5 +1,4 @@
 # Image Comparison
-<!-- #todo:150 V&A Vatican presentation. which one? -->
 
 ## Leaflet
 

@@ -26,7 +26,7 @@ Some of the best documentation on this topic has been created by the newspapers 
 
 <!-- #todo:410 example of seeAlso -->
 
-<!-- #todo:520 link to the Europeana schema.org study when that is published -->
+<!-- #backlog:520 link to the Europeana schema.org study when that is published -->
 
 ## `service`
 

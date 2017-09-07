@@ -77,4 +77,11 @@ We don't have everything we might want in our manifest, but it is now complete e
 }
 ```
 
-<!-- #todo:660 view this manifest as a tree. json-ld.org/playground to visualize -->
+## Manifest as Linked Data and Visualized
+
+You can visit the [JSON-LD Playground][json-ld-playground] and copy/paste your manifest into the form field. Then you can see how the JSON-LD looks in different serializations and visualize the tree structure of the manifest.
+
+Here's a link to our [current manifest].
+
+[json-ld-playground]: https://json-ld.org/playground/
+[current manifest]: https://json-ld.org/playground/#startTab=tab-expanded&json-ld=%7B%22%40context%22%3A%22http%3A%2F%2Fiiif.io%2Fapi%2Fpresentation%2F2%2Fcontext.json%22%2C%22%40type%22%3A%22sc%3AManifest%22%2C%22%40id%22%3A%22http%3A%2F%2Flocalhost%3A3000%2Fmanifest.json%22%2C%22label%22%3A%22Papillons%22%2C%22description%22%3A%22Four%20patterns%20inspired%20by%20butterflies.%22%2C%22attribution%22%3A%22Special%20Collections%20Research%20Center%20at%20NCSU%20Libraries%22%2C%22logo%22%3A%22http%3A%2F%2Flocalhost%3A3000%2Flogo.jpg%22%2C%22sequences%22%3A%5B%7B%22%40type%22%3A%22sc%3ASequence%22%2C%22canvases%22%3A%5B%7B%22%40type%22%3A%22sc%3ACanvas%22%2C%22%40id%22%3A%22http%3A%2F%2Flocalhost%3A3000%2FsegPap_022%2Fcanvas%2F1%22%2C%22label%22%3A%2222%22%2C%22width%22%3A6099%2C%22height%22%3A8599%2C%22images%22%3A%5B%7B%22%40type%22%3A%22oa%3AAnnotation%22%2C%22motivation%22%3A%22sc%3Apainting%22%2C%22on%22%3A%22http%3A%2F%2Flocalhost%3A3000%2FsegPap_022%2Fcanvas%2F1%22%2C%22resource%22%3A%7B%22%40type%22%3A%22dctypes%3AImage%22%2C%22%40id%22%3A%22https%3A%2F%2Fiiif.lib.ncsu.edu%2Fiiif%2FsegPap_022%2Ffull%2F500%2C%2F0%2Fdefault.jpg%22%2C%22service%22%3A%7B%22%40context%22%3A%22http%3A%2F%2Fiiif.io%2Fapi%2Fimage%2F2%2Fcontext.json%22%2C%22%40id%22%3A%22https%3A%2F%2Fiiif.lib.ncsu.edu%2Fiiif%2FsegPap_022%22%2C%22profile%22%3A%22http%3A%2F%2Fiiif.io%2Fapi%2Fimage%2F2%2Flevel2.json%22%7D%7D%7D%5D%7D%5D%7D%5D%7D

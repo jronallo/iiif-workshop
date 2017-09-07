@@ -21,7 +21,5 @@ Many are enclosed in HTML comments like this which hide them from current users 
 
 One way to look for these comments is to install the [Atom editor][atom] with the [imdone-atom] package to see a nice task board style interface.
 
-<!-- #todo:260 add links for atom and imdone-atom  -->
-
 [atom]: https://atom.io/
 [imdone-atom]: https://atom.io/packages/imdone-atom
