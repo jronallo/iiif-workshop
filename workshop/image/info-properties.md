@@ -1,6 +1,6 @@
 # Image Information Properties
 
-<!-- #todo:100 improve the image information info.json section -->
+<!-- #backlog:100 improve the image information info.json section -->
 
 http://iiif.io/api/image/2.1/#technical-properties
 

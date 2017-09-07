@@ -10,16 +10,16 @@ Picking a source image involves various trade-offs including the following:
 - Complexity of the source image processing workflow
 - Whether there is an adequate open source implementation of the codec
 
-<!-- #todo:630 should this sentence on dynamic image servers for web site design go on the dynamic image server page instead? -->
+<!-- #backlog:630 should this sentence on dynamic image servers for web site design go on the dynamic image server page instead? -->
 One advantage of using an advanced image server is that various sizes of images do not need to be precomputed and as your web site design changes the image server can dynamically create the appropriate sizes.
 
 Some institutions create a JPEG2000 image for their source image. JPEG2000 images can be highly compressed while still allowing for good quality and fast seeking into the image to extract regions for tiles. While there is an open source implementation of JPEG2000,  currently the fastest tool for creating and decompressing JPEG2000 images is Kakadu which is proprietary, so not suitable for some institutions.
 
 While TIF has open source implementations, the images will take up more storage space and depending on the  may be slower to extract a version of the image.
 
-<!-- #todo:80 Anything else to say about TIF performance? -->
+<!-- #backlog:80 Anything else to say about TIF performance? -->
 
-<!-- #todo:160 What about other image formats? -->
+<!-- #backlog:160 What about other image formats? -->
 
 ## Questions
 
@@ -27,22 +27,22 @@ While TIF has open source implementations, the images will take up more storage 
 - Where will access derivative creation fall in your workflow with a change to IIIF?
 - Where are our main costs? Are they with storage? Processing/CPU?
 
-<!-- #todo:270 add more questions around creating images -->
+<!-- #backlog:270 add more questions around creating images -->
 
 ## JPEG2000
 
-As JPEG2000 is a more complicated
+As JPEG2000 is a more complicated format than many others. It uses advanced techniques for compression.
 
 ### Creating a JPEG2000 Image with Kakadu
 
 TODO
-<!-- #todo:600 provide instructions for how to create a JPEG2000 image with Kakadu -->
+<!-- #backlog:600 provide instructions for how to create a JPEG2000 image with Kakadu -->
 
 ### Creating a JPEG2000 Image with OpenJPEG
 
 TODO
 
-<!-- #todo:120 Creating a JPEG2000 Image with OpenJPEG -->
+<!-- #backlog:120 Creating a JPEG2000 Image with OpenJPEG -->
 
 ## Level 0 Implementation
 

@@ -2,7 +2,7 @@
 
 This workshop is a work in progress.
 
-<!-- #todo:970 add some kind of notes about how we could use feedback to make this better -->
+<!-- #backlog:970 add some kind of notes about how we could use feedback to make this better -->
 
 ## todos
 

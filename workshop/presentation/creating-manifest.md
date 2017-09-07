@@ -17,7 +17,7 @@ Here's what we'll cover:
 - Metadata
 - License
 
-<!-- #todo:110 Consider covering these aspects of Presentation as well: ranges and structures; layers; otherContent; within -->
+<!-- #backlog:110 Consider covering these aspects of Presentation as well: ranges and structures; layers; otherContent; within -->
 
 ## Example
 
