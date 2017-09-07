@@ -10,11 +10,9 @@ http://iiif.io/community/groups/av/
 
 ## 3D
 
-TODO
+While 3D in IIIF has not been specified there is interst in the community and as of this writing a call has gone out for forming a community group.
 
-UV Examples
-Skull: http://universalviewer.io/examples/#?manifest=https%3A%2F%2Fedsilv.github.io%2Ftest-manifests%2Fpres3-3d.json
+Universal Viewer has some support for displaying 3D objects. You can see some examples including a [skull] and [the Kiss].
 
-The Kiss: http://universalviewer.io/examples/#?manifest=http%3A%2F%2Ffiles.universalviewer.io%2Fmanifests%2Ffoundobjects%2Fthekiss.json
-
-<!-- #todo:10 3D examples and community -->
+[skull]: http://universalviewer.io/examples/#?manifest=https%3A%2F%2Fedsilv.github.io%2Ftest-manifests%2Fpres3-3d.json
+[the Kiss]: http://universalviewer.io/examples/#?manifest=http%3A%2F%2Ffiles.universalviewer.io%2Fmanifests%2Ffoundobjects%2Fthekiss.json

@@ -52,7 +52,7 @@ Try zooming in for it to work in Leaflet:
 {% include "../includes/image/leaflet.html" %}
 {% include "../includes/image/leaflet-starfish.html" %}
 
-<!-- #todoplus:0 Do I need more instructions here for starting the web server? -->
+<!-- #todoplus:20 Do I need more instructions here for starting the web server? -->
 
 ### Run the Full Version of the Static Demo
 
