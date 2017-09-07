@@ -6,7 +6,7 @@ Requirements for running the virtual machine are [Vagrant](https://www.vagrantup
 
 Clone the workshop: ...
 
-<!-- #todo:470 give directions for cloning the workshop -->
+<!-- #backlog:470 give directions for cloning the workshop -->
 
 In a terminal change into the `vm` directory: `cd iiif-workshop/vm`
 
@@ -14,4 +14,4 @@ Start the virtual machine and provision it: `vagrant up`. This takes a long time
 
 If you got errors try running `vagrant provision`.
 
-<!-- #todo:840 Publish an already fully provisioned VM that just needs to be downloaded and run. -->
+<!-- #backlog:840 Publish an already fully provisioned VM that just needs to be downloaded and run. -->
