@@ -35,7 +35,7 @@ We simply add a content search service by providing the URI to the service. The 
 
 Add a `service` property at the same level as the top-level `metadata` and `description` properties. The value of `service` should be a list/array.
 
-> Don't copy/paste the "..."
+> Don't copy/paste the "...". This is just a convention to note that other properties are being left out of the example.
 
 ```json
 {
