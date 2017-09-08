@@ -2,7 +2,7 @@
 
 http://iiif.io/api/presentation/2.1/#linking-properties
 
-<!-- #important:50 write linking properties section -->
+<!-- #important:10 write linking properties section -->
 
 ## `related`
 

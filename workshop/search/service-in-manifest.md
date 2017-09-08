@@ -15,7 +15,7 @@ Before can search we'll need to adjust our canvas to point to
 
 ## Services
 
-<!-- #todo:0 write more about services -->
+<!-- #backlog:0 write more about services -->
 
 We've seen already how it is possible to [add an image service](../presentation/image-service.md) for an image. We can add other services that add functionality as well.
 
