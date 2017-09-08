@@ -1,7 +1,5 @@
 # Adding a Content Search Service to a Manifest
 
-<!-- #doing:0 add section on adding a search service to a manifest. add instructions on how to add content search to our manifest -->
-
 We're going to add a search service to our manifest now.
 
 > We only have one canvas which has much of any text and that's the only page we'll be able to search when we're done. That's just a limitation of our example and not the search API.
