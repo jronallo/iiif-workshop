@@ -21,6 +21,9 @@ Before can search we'll need to adjust our canvas to point to
 
 We've seen already how it is possible to [add an image service](../presentation/image-service.md) for an image. We can add other services that add functionality as well.
 
+> The services that are added don't have to live in the same domain or even be run by the same institution. In the same way that we can add images to a manifest or canvas from a number of different images, we can also add services in a distributed way.
+<!-- #todo:0 make some sort of power of linked data comment here? -->
+
 http://iiif.io/api/presentation/2.1/#service
 
 You can read more about services here:
@@ -28,7 +31,7 @@ http://iiif.io/api/annex/services/
 
 ## Content Service
 
-We simply add a content search service
+We simply add a content search service by providing the URI to the service. The client can then use that URI to create a valid query.
 
 Add a `service` property at the same level as the top-level `metadata` and `description` properties. The value of `service` should be a list/array.
 
