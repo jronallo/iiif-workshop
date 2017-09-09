@@ -43,6 +43,6 @@ Here's a snippet of what a portion of your sequence ought to look like:
 - When might you use a `viewingHint` of "continuous"?
 - Are these viewing hints sufficient for representing the kinds of resources you have?
 
-<!-- #todo:280 add other questions about viewingHint and viewing direction -->
+<!-- #backlog:270 add other questions about viewingHint and viewing direction -->
 
-<!-- #todo:460 find examples of interesting resources that use different viewing hints and viewing directions -->
+<!-- #todo:420 find examples of interesting resources that use different viewing hints and viewing directions -->

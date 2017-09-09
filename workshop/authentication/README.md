@@ -1,6 +1,6 @@
 # Authentication API
 
-<!-- #todo:180 What else should we add to the auth section? -->
+<!-- #backlog:200 What else should we add to the auth section? -->
 
 http://iiif.io/api/auth/1.0/
 
@@ -34,7 +34,7 @@ The user is expected to have already acquired the appropriate cookie, and the ac
 - Will you have to provide degraded access to any resources?
 - Which of the above approaches might apply to your situation?
 
-<!-- #todo:650 there's probably a better word than "approaches" for these different workflow patterns -->
+<!-- #todo:540 there's probably a better word than "approaches" for these different workflow patterns -->
 
 ## Demonstration
 

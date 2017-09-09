@@ -20,7 +20,7 @@ We'll cover:
 
 <!-- #backlog:690 write a bit about different levels of discovery. First discover the resource; then discover within the resource -->
 
-<!-- #todo:700 write a bit about the level at which "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
+<!-- #todo:570 write a bit about the level at which "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
 
 Read more about the Content Search API:
 [IIIF Search and Discovery](http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html)

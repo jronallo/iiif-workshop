@@ -6,6 +6,6 @@ Common ways to get text include:
 - OCR
 - Transcription
 
-<!-- #todo:350 any other ways folks are getting content search text? -->
-<!-- #todo:560 mention ocracoke? Do an exercise with ocracoke once we have the VM set up? -->
-<!-- #todo:570 mention transcription services? -->
+<!-- #todo:320 any other ways folks are getting content search text? -->
+<!-- #todo:500 mention ocracoke? Do an exercise with ocracoke once we have the VM set up? -->
+<!-- #todo:510 mention transcription services? -->

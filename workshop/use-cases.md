@@ -24,7 +24,7 @@ As an _art student_, I want to _zoom in on an image_, so that I can _learn about
 
 > Take a quick look at the images in this [blog post][wendymac] for an example of a surprising discovery. (As well as a good argument for why an art student still wants to see the painting in person.)
 
-<!-- #todo:200 What's a better use case example? -->
+<!-- #backlog:220 What's a better use case example? -->
 
 ## Initial Questions
 
@@ -35,5 +35,7 @@ Feel free to ask questions about how something might help support particular use
 ## Museum Use Cases
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AefD7wbfTFU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<!-- #backlog:0 extract some of the museum use cases out of this video -->
 
 [wendymac]: https://medium.com/@wendymac/what-does-the-mets-new-online-collection-mean-for-art-students-5d957b09aaf8

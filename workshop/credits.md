@@ -4,7 +4,7 @@
 
 - [Jason Ronallo](http://ronallo.com)
 
-<!-- #todo:370 clean up credits page -->
+<!-- #todo:340 clean up credits page -->
 
 ## Images
 
@@ -35,6 +35,6 @@ The following resources were helpful in creating this workshop.
 - The [Awesome IIIF](https://github.com/IIIF/awesome-iiif) list includes lots of pointers to resources.
 - https://www.slideshare.net/workergnome/iiif-for-small-projects
 
-<!-- #todo:680 what other useful resources should be included to useful resources page? -->
+<!-- #todo:560 what other useful resources should be included to useful resources page? -->
 
-<!-- #todo:320 add the IIIF youtube channel? -->
+<!-- #todo:300 add the IIIF youtube channel? -->
