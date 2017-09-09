@@ -74,6 +74,8 @@ Services can be a powerful extension mechanism for adding interesting and fun ne
 
 ## User Interface Examples
 
+What options do you get in a viewer and how might you use those resources?
+
 ### Nubian Message
 
 Visit this [issue of the Nubian Message][nubian-message]. At the bottom right of the Universal Viewer is a download icon. Click on it and you'll get the option to download a PDF of the resource or the OCR extracted from the page images.
@@ -82,7 +84,7 @@ Visit this [issue of the Nubian Message][nubian-message]. At the bottom right of
 
 ### Portrait gallery of pugilists of America and their contemporaries
 
-Visit this [book of boxers]. Click on the download link. What options do you get and how might you use those resources?
+Visit this [book of boxers]. Click on the download link.
 
 [summary-metadata]: http://iiif.io/api/presentation/2.1/#b-summary-of-metadata-requirements
 [GeoJSON]: http://iiif.io/api/annex/services/#geojson
