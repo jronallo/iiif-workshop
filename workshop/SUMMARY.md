@@ -68,6 +68,7 @@
     - [Add More Images](presentation/add-more-images.md)
     - [viewingHint](presentation/viewinghint.md)
   - [Multiple Images](presentation/multiple-images.md)
+    - [Multiple Images Exercise](presentation/multiple-images-exercise.md)
   - [Manifest Editor](presentation/manifest-editor.md)
   - [Collections](presentation/collections.md)
   - [Data Workflows](presentation/data-workflows.md)

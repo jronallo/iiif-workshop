@@ -1,0 +1,63 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:3000/coin-before.json",
+  "@type": "sc:Manifest",
+  "attribution": "American Numismatic Society",
+  "label": "Price 3210",
+  "description": "Obverse: Head of beardless Heracles right wearing lion skin headdress\nReverse: ΑΛΕΞΑΝΔΡΟΥ - Zeus seated on stool-throne left, eagle on outstretched right hand, sceptre in left hand",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "canvases": [
+        {
+          "@id": "http://localhost:3000/coin/canvas",
+          "@type": "sc:Canvas",
+          "label": "[Monnaie : Tétradrachme, Argent, Damascus, Koïlé Syrie, Alexandre III Le Grand]",
+          "height": 2610,
+          "width": 2610,
+          "images": [
+            {
+              "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/coin/canvas",
+              "resource": {
+                "label": "Obverse",
+                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f1/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2610,
+                "width": 2610,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f1",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              }
+            },
+            {
+              "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/coin/canvas",
+              "resource": {
+                "label": "Reverse",
+                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f2/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2610,
+                "width": 2610,
+                "service": {
+                  "@context": "http://iiif.io/api/image/1/context.json",
+                  "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f2",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
