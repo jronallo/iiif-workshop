@@ -2,8 +2,6 @@
 
 What are you and your users looking for in a search inside interface?
 
-TODO
-
-<!-- #todoplus:0 write introductory content search user interface section -->
+<!-- #todoplus:50 write introductory content search user interface section -->
 
 Take a look at how content search works for [Mirador](mirador-search.md) and [Universal Viewer](uv-search.md).

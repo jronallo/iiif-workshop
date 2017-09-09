@@ -22,7 +22,7 @@ We'll cover:
 
 <!-- #todo:700 write a bit about the level at which "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
 
-<!-- #next:0 write some about how this goes back to the canvas model where the annotation can apply to a particular example. Use an OCR example to make it easy to understand. Do this graphically. Where else do we already talk about how to paint something on a canvas at particular coordinates. "what part of the image it actually related to" -->
+<!-- #todoplus:60 write some about how this goes back to the canvas model where the annotation can apply to a particular example. Use an OCR example to make it easy to understand. Do this graphically. Where else do we already talk about how to paint something on a canvas at particular coordinates. "what part of the image it actually related to" -->
 
 Read more about the Content Search API:
 [IIIF Search and Discovery](http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html)
