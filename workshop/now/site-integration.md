@@ -25,7 +25,7 @@ The following questions might help you think about what will work for your insti
 
 All of the images on the [NCSU Libraries' Rare and Unique Digital Collections][ncsu-dlib] site are delivered via IIIF. Search results pages show a square region of the image and Universal Viewer and Leaflet are used on the detail view for each resource. Once this foundational infrastructure was in place it supported new creative uses. For instance IIIF images have been included in various archival collection guides to summarize the contents of the digitized folders:
 
-- [Robert W. Graeber Papers, circa 1911-1949][nsu-graeber]
+- [Robert W. Graeber Papers, circa 1911-1949][ncsu-graeber]
 - [George Matsumoto Papers, 1945-1991][ncsu-matsumoto]
 - [Charles W. Suggs Papers, 1914-1995][ncsu-suggs]
 
