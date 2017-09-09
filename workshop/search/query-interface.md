@@ -46,7 +46,7 @@ The `hits` are the search results. There are a number of features that are possi
 
 A resource is an embedded annotation. (This is a performance optimization instead of having to make additional requests for many annotations.) The value of the `on` property for the annotation is a canvas. This can either be the full canvas or a region of the canvas using a spatial media fragment (`xywh`). The use of the `xywh` fragment then allows for a client to highlight just the text that matches the query.
 
-<!-- #backlog:100 improve content search query interface page -->
+To allow for painting an annotation onto a particular region of the canvas to highlight the search match, a search server would need to know the bounding box for the match. In some cases this might be the individual word or the line or paragraph the word is in.
 
 ## Autocomplete
 
@@ -57,3 +57,5 @@ The autocomplete service works similarly. Here's an example URI for autocomplete
 https://ocr.lib.ncsu.edu/search/segPap_003?q=ama
 
 The `terms` list returns the matches that can be provided as search suggestions.
+
+<!-- #backlog:100 improve content search query interface page -->

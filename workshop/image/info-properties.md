@@ -27,7 +27,10 @@ Here's an example from the specification that we'll walk through:
   "tiles": [
     {"width" : 512, "scaleFactors" : [1,2,4,8,16]}
   ],
-  "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+  "profile" : [ "http://iiif.io/api/image/2/level2.json" ],
+  "attribution" : "Provided by Example Organization",
+  "logo" : "http://example.org/images/logo.png",
+  "license" : "http://rightsstatements.org/vocab/InC-EDU/1.0/"
 }
 ```
 
@@ -78,3 +81,13 @@ The URI provided here is a shorthand to indicate which set of features are suppo
 Sometimes you will see values listed here instead of a URI. The URIs are really a shorthand. Listing out a fuller profile can happen when an image server supports all of one level and only some features of the next higher level.
 
 In the next section we'll take a closer look at these profile URIs and levels of implementation.
+
+## Rights and Licensing
+
+http://iiif.io/api/image/2.1/#rights-and-licensing-properties
+
+Most of the `info.json` response includes technical information.
+
+> Note how there is no descriptive information here. That's intentional to keep the Image API focused on returning images and the Presentation API focusing on displaying information to a user.
+
+In order to allow for sharing and possible reuse, there are three properties which can be added that give credit where credit is due: `attribution`, `license`, and `logo`.
