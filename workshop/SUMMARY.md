@@ -79,7 +79,6 @@
     - [Mirador](search/mirador-search.md)
   - [Search Service in Manifest](search/service-in-manifest.md)
   - [Query Interface](search/query-interface.md)
-  - [Content Search Response](search/search-response.md)
   - [Getting Text](search/getting-text.md)
 - [Authentication API](authentication/README.md)
 

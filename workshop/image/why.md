@@ -23,4 +23,4 @@ Even if you are already delivering deep zoom images, by adopting the IIIF Image 
 
 <!-- #todo:100 add more to _why_ IIIF images -->
 
-<!-- #todoplus:290 add section in image on adding rights statement to info.json response -->
+<!-- #todoplus:110 add section in image on adding rights statement to info.json response -->

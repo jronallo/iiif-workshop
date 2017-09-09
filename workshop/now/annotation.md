@@ -54,7 +54,7 @@ Open [Mirador](../presentation/mirador.md) and create some annotations over top 
 Take a look at some of the examples of how the same annotations allow for different interactions with the Holbein painting:
 http://storiiies.cogapp.com/
 
-<!-- #todoplus:0 make video of one of the holbein examples -->
+<!-- #todoplus:40 make video of one of the holbein examples -->
 
 Explore the navigation of this quilt:
 http://ghp.wellcomecollection.org/annotation-viewer/quilt
