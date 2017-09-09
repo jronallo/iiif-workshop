@@ -2,7 +2,7 @@
 
 http://iiif.io/community/
 
-<!-- #todo:610 write community section -->
+<!-- #todo:430 write community section -->
 
 Community groups
 

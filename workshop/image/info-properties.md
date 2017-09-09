@@ -68,7 +68,7 @@ The `scaleFactors` list the values for different resolutions. The specification 
 > The set of resolution scaling factors for the image’s predefined tiles, expressed as positive integers by which to divide the full size of the image. For example, a scale factor of 4 indicates that the service can efficiently deliver images at 1/4 or 25% of the height and width of the full image. A particular scale factor value should appear only once in the tiles list.
 
 The result is that tiles (except on the edges) are always the same width, but the scale factors represent the different sizes of the full image that the the tiles are a part of.
-<!-- #todo:110 scaleFactors can be confusing. how to make it clearer how this works? -->
+<!-- #todo:100 scaleFactors can be confusing. how to make it clearer how this works? -->
 
 ## `profile`
 

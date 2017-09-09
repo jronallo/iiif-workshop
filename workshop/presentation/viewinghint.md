@@ -45,4 +45,4 @@ Here's a snippet of what a portion of your sequence ought to look like:
 
 <!-- #backlog:270 add other questions about viewingHint and viewing direction -->
 
-<!-- #todo:420 find examples of interesting resources that use different viewing hints and viewing directions -->
+<!-- #todo:260 find examples of interesting resources that use different viewing hints and viewing directions -->

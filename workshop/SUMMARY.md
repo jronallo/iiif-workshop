@@ -100,4 +100,4 @@
 
 - [Feedback](feedback.md)
 - [Credits](credits.md)
-<!-- #todoplus:50 - [Glossary](GLOSSARY.md) -->
+<!-- #todoplus:30 - [Glossary](GLOSSARY.md) -->

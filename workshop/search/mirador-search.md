@@ -8,8 +8,6 @@ Search for something.
 - Nubian Message: "panther"
 - Biocrats: "marriage"
 
-<!-- #todo:410 find a good search in the biocrats -->
-
 {% include "../includes/presentation/mirador-iframe.html" %}
 
 Alternatively drag these images and drop them over Mirador:

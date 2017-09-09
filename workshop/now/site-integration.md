@@ -10,7 +10,7 @@ The following questions might help you think about what will work for your insti
 - Is pan/zoom available in every case?
 - How would a user get to an alternative viewer?
 
-<!-- #todo:190 What are other questions to ask yourself about site integration? -->
+<!-- #todo:140 What are other questions to ask yourself about site integration? -->
 
 ## Examples
 
@@ -18,8 +18,6 @@ The following questions might help you think about what will work for your insti
 - [Harvard Art Museums][harvard]
 - [Digital Bodleian][bod] provides links to viewers and a direct link to the manifest.
 - [Wellcome Library][wellcome]
-
-<!-- #todo:90 Add V&A examples to site integration -->
 
 ### NCSU Libraries Example
 

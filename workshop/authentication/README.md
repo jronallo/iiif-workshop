@@ -34,7 +34,7 @@ The user is expected to have already acquired the appropriate cookie, and the ac
 - Will you have to provide degraded access to any resources?
 - Which of the above approaches might apply to your situation?
 
-<!-- #todo:540 there's probably a better word than "approaches" for these different workflow patterns -->
+<!-- #todo:370 there's probably a better word than "approaches" for these different workflow patterns -->
 
 ## Demonstration
 

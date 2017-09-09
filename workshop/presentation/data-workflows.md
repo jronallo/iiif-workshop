@@ -8,7 +8,7 @@ TODO
 - How can you export data from these systems? Do you have adequate APIs into your systems?
 - Will you be able to dynamically query for data via APIs or will you need to export data dumps?
 
-<!-- #todoplus:30 Show how different types of data that might be coming from different systems get mapped into IIIF. Talk about how to approach that mapping and automating output of manifests. -->
+<!-- #todoplus:20 Show how different types of data that might be coming from different systems get mapped into IIIF. Talk about how to approach that mapping and automating output of manifests. -->
 
 ## Iterative Example
 

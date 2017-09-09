@@ -6,7 +6,7 @@ Crop out an image so that you can see what is written above the clock here:
 
 https://digital.ucd.ie/crop/index.html?imageID=https://iiif.ucd.ie/loris/ucdlib:47504
 
-<!-- #todo:630 write more about image cropping -->
+<!-- #todo:450 write more about image cropping -->
 
 ## UCD Demo
 

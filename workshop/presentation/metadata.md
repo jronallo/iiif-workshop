@@ -4,7 +4,7 @@ http://iiif.io/api/presentation/2.1/#metadata
 
 The descriptive metadata that is usually provided is just enough data so that a user can know what they're looking at.
 
-<!-- #todoplus:0 add a note about how linking properties can allow for linking out to much more extensive information that an institution might have -->
+> Semantic descriptive metadata can be [linked as a `seeAlso` reference](linking.md#seealso) allowing different communities to expose their full metadata.
 
 As the Presentation API is intended to present resources to users rather than for machines to understand the meaning of metadata, the `metadata` property contains a list of labels and values. So a simple piece of metadata would look like this:
 

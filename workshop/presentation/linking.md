@@ -95,4 +95,4 @@ Visit this [book of boxers]. Click on the download link.
 [linking-ocr]: https://docs.google.com/document/d/1rz-Dm_LMguPD_Zi6Z1uf61XaPrdhd3mgK9_SV3EBdlE/edit#heading=h.gn82mp9sesw9
 [newspapers-group]: http://iiif.io/community/groups/newspapers/
 
-<!-- #todo:0 show more live examples of manifests that use these linking properties with examples of how they display in a client and what functionality the properties enable -->
+<!-- #todoplus:40 show more live examples of manifests that use these linking properties with examples of how they display in a client and what functionality the properties enable -->

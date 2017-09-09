@@ -50,4 +50,4 @@ We'll see more later about how [Mirador](../presentation/mirador.md) can be used
 
 Take a look at how the [Boxwood Project](http://boxwood.ago.ca/) from the Art Gallery of Ontario uses Mirador to compare objects.
 
-<!-- #todo:60 What's the Mirador version of this? https://www.nga.gov/content/ngaweb/Collection/art-object-page.60.html#entry see figure 5 -->
+<!-- #todo:50 What's the Mirador version of this? https://www.nga.gov/content/ngaweb/Collection/art-object-page.60.html#entry see figure 5 -->
