@@ -1,3 +1,14 @@
+.navigation {
+  top: 100px;
+}
+
+/* #backlog:100 add social sharing buttons back in */
+.fa-twitter,
+.fa-facebook,
+.fa-share-alt {
+  display: none;
+}
+
 .logo-header {
   height: 40px;
   font-size: 20px;
