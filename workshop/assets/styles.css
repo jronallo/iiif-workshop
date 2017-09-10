@@ -1,6 +1,9 @@
 .navigation {
   top: 100px;
 }
+.navigation:hover {
+  background-color: #0175A6;
+}
 
 /* #backlog:100 add social sharing buttons back in */
 .fa-twitter,
