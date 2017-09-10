@@ -102,6 +102,7 @@
 
 ---
 
+<!-- #todo:0 - [Contributing](contributing.md) -->
 - [Feedback](feedback.md)
 - [Credits](credits.md)
 <!-- #next:10 - [Glossary](GLOSSARY.md) -->
