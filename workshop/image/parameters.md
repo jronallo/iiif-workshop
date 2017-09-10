@@ -95,6 +95,22 @@ Here we'll require a JPEG:
 
 <div class="alert">https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/default.<strong>jpg</strong></div>
 
+## URI Segments
+
+So going back to our IIIF Image URI template here are the parameters and the values we've given to each.
+
+| IIIF parameter | segment           |
+|:---------------|:------------------|
+| {scheme}       | https             |
+| {server}       | iiif.lib.ncsu.edu |
+| {prefix}       | iiif              |
+| {identifier}   | segPap_021        |
+| {region}       | full              |
+| {size}         | 400,              |
+| {rotation}     | 0                 |
+| {quality}      | default           |
+| {format}       | jpg               |
+
 ## Our Example
 
 You've now created your first IIIF image URL!
