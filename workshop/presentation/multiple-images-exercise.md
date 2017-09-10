@@ -8,11 +8,11 @@ Here's our beginning manifest:
 !INCLUDE "../manifests/coin-before.json"
 ```
 
-[Copy the above manifest](../manifests/coin-before.json) into a file named "coin.json" and place it next to your "manifest.json" file in the directory you're using for your web server.
+1. [Copy the above manifest](../manifests/coin-before.json) into a file named "coin.json" and place it next to your "manifest.json" file in the ["iiif-workshop" directory](../preparation/directory.md) you're using for your [web server](../preparation/web-server.md).
 
-Drag this coin onto Mirador below. (You may need to do this twice.)
+2. Drag this coin onto Mirador below. (You may need to do this twice.)
 
-[![](http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f1/full/150,/0/native.jpg)][this-coin]
+  [![](http://gallica.bnf.fr/iiif/ark:/12148/btv1b8499946f/f1/full/150,/0/native.jpg)][this-coin]
 
 {% include "../includes/presentation/mirador-iframe.html" %}
 
@@ -38,7 +38,9 @@ You'll need to do two things:
 
   > Change the `on` property to include information for where on the canvas the image ought to be placed. See the previous page in these materials for more information on how to do this.
 
-> Consider taking a piece of paper to sketch out the layout and do the math. Note that counting pixels starts a zero.
+  > Consider taking a piece of paper to sketch out the layout and do the math. Note that counting pixels starts a zero.
+
+---
 
 ## Answer
 
