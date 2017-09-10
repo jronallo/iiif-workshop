@@ -99,6 +99,8 @@ Here we'll require a JPEG:
 
 So going back to our IIIF Image URI template here are the parameters and the values we've given to each.
 
+<div class="alert">{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}</div>
+
 | IIIF parameter | segment           |
 |:---------------|:------------------|
 | {scheme}       | https             |
