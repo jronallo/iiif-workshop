@@ -17,4 +17,4 @@ Take a look at the features supported at each level as indicated by its URI by c
 | 1     | http://iiif.io/api/image/2/level1.json |
 | 2     | http://iiif.io/api/image/2/level2.json |
 
-> Do you understand how the profile level relates to the compliance tables?
+<div class="alert">Do you understand how the profile level relates to the compliance tables?</div>

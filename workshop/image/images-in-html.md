@@ -25,3 +25,26 @@ Using a IIIF image in HTML is just as simple as adding it as the `src` of an `im
 ```
 
 [![](https://iiif.lib.ncsu.edu/iiif/ua021_428-001-cb0008-000-250_0001/full/600,/0/default.jpg)](https://d.lib.ncsu.edu/collections/catalog/ua021_428-001-cb0008-000-250)
+
+## CSS Stylesheets
+
+It is also possible to use IIIF images in CSS for background images.
+
+```html
+<div id="css-demo"></div>
+```
+
+```css
+#css-demo {
+  width: 800px;
+  max-width: 100%;
+  height: 300px;
+  background-image: url("https://iiif.lib.ncsu.edu/iiif/ua021_428-001-cb0008-000-250_0001/full/800,/0/default.jpg");
+  font-size: 3em;
+  font-weight: bold;
+  padding: 60px;
+  color: #01AAFD;
+}
+```
+
+<div id="css-demo">Text Over Background Image</div>
