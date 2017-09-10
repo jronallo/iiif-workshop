@@ -28,7 +28,7 @@
 
 4. **Add any content to your "test.txt" file**
 
-5. **Start your [local web server](web-server.md)** if you haven't already
+5. **Start your [local web server](web-server.md)** if you haven't already that is serving files from your "iiif-workshop" directory.
 
 6. **Open http://localhost:3000** in a browser
 

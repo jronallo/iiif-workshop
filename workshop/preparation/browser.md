@@ -1,10 +1,10 @@
 # Browser
 
-Any recent version of Chrome or Firefox will work. Having both can sometimes be useful. Since an easy way to launch a [simple web server](web-server.md) involves installing a chrome extension, you may choose to use Chrome.
+Any recent version of Chrome or Firefox ought to work. Having both browsers available can sometimes be useful. Since an easy way to launch a [simple web server](web-server.md) involves installing a Chrome extension, you may choose to use Chrome.
 
-Instructions should work for the following (and may work for versions just below):
-- Firefox 55+
-- Chrome 60+
+Instructions have been tested with the following (and may work for versions just below):
+- Firefox 55
+- Chrome 60
 
 ## Viewing JSON
 
@@ -14,29 +14,23 @@ As we'll be taking a look at JSON in a browser at times to make sure things are 
 
 ### Chrome
 
-JSONView
-https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+Install the [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) extension.
 
 ### Firefox
 
-Recent versions of Firefox include a JSON viewer by default.
-
-JSONView
-https://addons.mozilla.org/en-US/firefox/addon/jsonview/
+Recent versions of Firefox include a JSON viewer by default. Or you can use [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/).
 
 ### Developer Tools
 
-With either option you may also need to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Ctrl + Opt + I`.
+With either browser you may also need at times to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Ctrl + Opt + I`.
 
 ## Clearing the Browser Cache
 
 Sometimes the browser may cache a resource that you're working on that you've changed. To see the new data you'll need to clear your cache. It is possible in Firefox and Chrome to select an option to disable the cache while the developer tools are open.
 
 Alternatively you may want to try the following browser extensions:
-
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/
-
-Chrome: _Can anyone suggest a good cache clearing button for Chrome?_
+- Firefox: [Empty Cache Button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/)
+- Chrome: _Can anyone suggest a good cache clearing button for Chrome?_
 <!-- #backlog:280 Find a simple Chrome cache clearing extension -->
 
 ## Ad Blockers
@@ -45,4 +39,4 @@ Sometimes ad blocker extensions (especially algorithmic blockers like Privacy Ba
 
 ## Multiple Windows
 
-Make sure you know how to place two windows next to each other. As  you work through some exercises it will be helpful to have two windows open side by side.
+Make sure you know how to place two browser windows next to each other. As you work through some exercises it will be helpful to have two windows open side by side.

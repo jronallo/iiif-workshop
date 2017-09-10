@@ -11,4 +11,4 @@ In order for the workshop to go smoothly, please read through the following to h
 
 That's it. With just those and a network connection you ought to be able to follow along with the major portions of the workshop.
 
-If you would like to work on some of the more technical aspects of the workshop, please follow the [bonus setup](bonus-setup.md) instructions.
+<!-- #backlog:0 If you would like to work on some of the more technical aspects of the workshop, please follow the [bonus setup](bonus-setup.md) instructions. -->

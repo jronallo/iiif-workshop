@@ -1,6 +1,8 @@
 # Setting Up a Simple Local Web Server
 
-In order to serve up local files during the workshop you'll need to be running a simple web server. Even if you've never run a web server on your own machine before this still ought to be easy.
+For some exercises to work, the files you will be editing need to be behind a web server.
+
+In order to serve up the local files you're editing during the workshop you'll need to be running a simple web server. Even if you've never run a web server on your own machine before this still ought to be easy.
 
 ## Chrome Extension
 
@@ -12,17 +14,23 @@ Here's how it ought to be set up. Make sure to check the "Set CORS headers" box.
 
 ## Scripting Languages
 
-You'll need to know how to open up a terminal if you want to try using a scripting language to run a web server.
+Scripting languages usually provide a basic web server that can be used for web development. If the Chrome extension doesn't work for you, then you can try the following. You'll need to know how to open up a terminal to use a scripting language to run a web server.
 
 ### Ruby
 
 Here's a Ruby one-liner for starting a server from the current directory. This uses only the standard library so if you have Ruby installed it ought to work.
+
+Check if Ruby is installed: `ruby -v`
+
+Run the Webrick server:
 
 ```ruby
 ruby -rwebrick -e 'WEBrick::HTTPUtils::DefaultMimeTypes["json"]="application/json";WEBrick::HTTPServer.new(Port: 3000, DocumentRoot: Dir.pwd, RequestCallback: Proc.new{|req,res| res["Access-Control-Allow-Origin"] = "*" }).start'
 ```
 
 ### Node
+
+Check if npm is installed: `npm -v`
 
 Install http-server:
 `npm install http-server -g`
@@ -32,11 +40,15 @@ Run the server from the directory with the CORS flag:
 
 ### Python
 
-Python does not have a simple one-liner, but this script ought to work:
+Check if Python is installed: `python --version`
+
+Python does not have a simple one-liner, but this script ought to work with both Python 2 & 3. Copy it into a file.
 
 ```python
 !INCLUDE "../scripts/cors_http_server.py"
 ```
+
+Run: `python cors_http_server.py`
 
 ### Other Options
 

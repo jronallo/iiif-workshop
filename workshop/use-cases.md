@@ -2,13 +2,13 @@
 
 The IIIF specifications are developed in a process that requires gathering, clarifying, and distilling use cases.
 
-Throughout the workshop, let's keep in mind why we're looking at IIIF. Here are some questions we can keep in mind as we go along.
+Throughout the workshop, let's keep in mind why we're looking at IIIF. Here are some questions we can consider as we go along.
 
-- Who are the users for your image resources?
-- What different kinds of users do you have?
-- How do they want to be able to use your image resources?
-- What kinds of users and uses would you like to serve better?
-- How might IIIF enable that?
+- Who are the users for our image resources?
+- What different kinds of users do we have?
+- How do users want to be able to use our image resources?
+- What kinds of users and uses would we like to serve better?
+- How might IIIF enable these uses?
 
 ## Exercise
 
@@ -16,13 +16,13 @@ Let's hear some of the use cases you have so that we can return to them later.
 
 How would you fill in the blanks?
 
-  As a [user], I want to [blank], so that I can [blank].
+> As a _[user]_, I want to _[take some action]_, so that I can _[achieve some goal]_.
 
 Here's an example:
 
-As an _art student_, I want to _zoom in on an image_, so that I can _learn about the brush strokes of a particular artist_.
+> As an _art student_, I want to _zoom in on an image_, so that I can _learn about the brush strokes of a particular artist_.
 
-> Take a quick look at the images in this [blog post][wendymac] for an example of a surprising discovery. (As well as a good argument for why an art student still wants to see the painting in person.)
+Take a quick look at the images in this [blog post][wendymac] for an example of a surprising discovery. (As well as a good argument for why an art student still wants to see the painting in person.)
 
 <!-- #backlog:310 What's a better use case example? -->
 
@@ -30,7 +30,7 @@ As an _art student_, I want to _zoom in on an image_, so that I can _learn about
 
 Do you have questions about how IIIF can help support your users?
 
-Feel free to ask questions about how something might help support particular use cases you have.
+Throughout the workshop please feel free to ask questions about how something might help support particular use cases you have.
 
 ## Museum Use Cases
 
