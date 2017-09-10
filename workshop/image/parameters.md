@@ -81,7 +81,9 @@ In this case we will set this to `0` to not rotate the image at all.
 
 ### Quality
 
-The quality parameter allows for #todo:730 <div class="alert">https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/<strong>default</strong></div>
+The quality parameter allows for delivering a color image in `gray` or `bitonal`.
+
+<div class="alert">https://iiif.lib.ncsu.edu/iiif/segPap_021/full/400,/0/<strong>default</strong></div>
 
 ### Format
 

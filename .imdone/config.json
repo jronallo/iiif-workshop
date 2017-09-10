@@ -8,8 +8,6 @@
     "include_lists": [
       "backlog",
       "todo",
-      "todoplus",
-      "important",
       "next",
       "doing"
     ]
@@ -21,10 +19,6 @@
     },
     {
       "name": "todo",
-      "hidden": false
-    },
-    {
-      "name": "important",
       "hidden": false
     },
     {

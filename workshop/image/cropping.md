@@ -1,6 +1,6 @@
 # Image Cropping
 
-Image cropping tools are one of the kinds of tools that become available to you when you've adopted the IIIF Image API. If you have anything more than a static implementation it becomes easy to adopt or develop tools around your images.
+Image cropping tools are one of the kinds of tools that become available to you when you've adopted the IIIF Image API. 
 
 ## Leaflet-IIIF
 
@@ -15,7 +15,7 @@ Here's a video of using this tool:
 
 [See the full video][full-ucd-video]
 
-<!-- #important:100 Try cropping out an image so that you can see what is written above the clock in [this image][clock]. -->
+<!-- #next:50 Try cropping out an image so that you can see what is written above the clock in [this image][clock]. -->
 
 ## Internet Archive
 

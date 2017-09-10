@@ -103,4 +103,4 @@
 
 - [Feedback](feedback.md)
 - [Credits](credits.md)
-<!-- #important:10 - [Glossary](GLOSSARY.md) -->
+<!-- #next:10 - [Glossary](GLOSSARY.md) -->
