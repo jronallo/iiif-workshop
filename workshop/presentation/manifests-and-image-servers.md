@@ -24,4 +24,4 @@ You'll notice that the manifest server is separate from the image server. There'
 
 You'll also see some examples later of how the manifest server can be provided by a different institution than the institution that hosts the images. Even the source of one image can be different from another. This allows for manifests to be groupings of resources across institutions in creative ways.
 
-<!-- #todo:550 see if there's some way to demonstrate how this client-server request/response cycle works. Maybe a @screencast or screenshot of what things look like in developer tools? -->
+<!-- #todo:790 see if there's some way to demonstrate how this client-server request/response cycle works. Maybe a @screencast or screenshot of what things look like in developer tools? -->

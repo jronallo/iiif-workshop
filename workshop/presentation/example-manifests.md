@@ -19,4 +19,4 @@ In UV: https://wellcomelibrary.org/item/b1932795x
 In Mirador: http://tomcrane.github.io/scratch/mirador/?manifest=https://wellcomelibrary.org/iiif/b1932795x/manifest
 
 
-<!-- #important:10 add more example manifests to explore -->
+<!-- #important:0 add more example manifests to explore -->

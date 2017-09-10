@@ -10,7 +10,7 @@ Throughout you'll see different examples of how these two specifications interre
 - Multiple images from different institutions to form a single resource
 
 Here's a simple visual representation of a user interface to give an example of how these two core APIs work together:
-<!-- #backlog:170 Does this image-plus-presentation-user-interface.png belong here or somewhere else? -->
+<!-- #backlog:270 Does this image-plus-presentation-user-interface.png belong here or somewhere else? -->
 
 ![](../assets/images/image-plus-presentation-user-interface.png)
 
@@ -26,4 +26,4 @@ The hope is that this workshop will give you a thorough introduction to these AP
 
 As we near the end of the section on the core APIs, we'll come back to talking about how to take an [iterative approach to implementation](../presentation/data-workflows.md#iterative-example).
 
-<!-- #backlog:460 write more about the the core APIs? -->
+<!-- #backlog:370 write more about the the core APIs? -->

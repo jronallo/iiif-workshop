@@ -2,9 +2,9 @@
 
 http://iiif.io/community/
 
-<!-- #todo:430 write community section -->
+<!-- #backlog:700 write community section -->
 
-Community groups
+IIIF is pushed forward by technical specification and community groups. Technical specification groups are responsible for developing new IIIF specifications. Community groups are less formal and can bring together practitioners in a certain domain.
 
 > Where can you find documents for community groups?
 

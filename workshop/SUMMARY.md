@@ -8,7 +8,7 @@
   - [Browser](preparation/browser.md)
   - [Simple Web Server](preparation/web-server.md)
   - [Web Server Directory](preparation/directory.md)
-  <!-- #backlog:0 display bonus setup when a fuller VM workshop is done -->
+  <!-- #backlog:30 display bonus setup when a fuller VM workshop is done -->
   <!-- - [Bonus Setup](preparation/bonus-setup.md)
     - [Virtual Machine](preparation/virtual-machine.md)
     - [Local Install](preparation/local-install.md) -->
@@ -103,4 +103,4 @@
 
 - [Feedback](feedback.md)
 - [Credits](credits.md)
-<!-- #todoplus:30 - [Glossary](GLOSSARY.md) -->
+<!-- #important:10 - [Glossary](GLOSSARY.md) -->

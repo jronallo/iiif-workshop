@@ -1,6 +1,6 @@
 # Image API Technical Details
 
-<!-- #todo:560 write Image API Technical details section if this page is included in the SUMMARY -->
+<!-- #todo:800 write Image API Technical details section if this page is included in the SUMMARY -->
 
 - application/ld+json. Talk about how it is JSON-LD but can be worked with as just JSON.
 - CORS

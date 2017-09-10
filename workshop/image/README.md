@@ -11,7 +11,7 @@ In this section you'll learn about [version 2.1.1 of the Image API](http://iiif.
 
 You'll gain hands-on experience working with the Image API.
 
-<!-- #todo:510 What other learning objectives? -->
+<!-- #backlog:390 What other learning objectives? -->
 
 The purpose of the Image API is to have a way to request the needed bits of an image.
 
@@ -19,4 +19,4 @@ The purpose of the Image API is to have a way to request the needed bits of an i
 - Image API does not give structure for viewing a series of images.
 - Does not allow for showing descriptive metadata with the image.
 - Does not provide every possible image manipulation you might want. It is not Photoshop.
-<!-- #todo:110 Any other things we might want to say about what the Image API is not? -->
+<!-- #backlog:220 Any other things we might want to say about what the Image API is not? -->

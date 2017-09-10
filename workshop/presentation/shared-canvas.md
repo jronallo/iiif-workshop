@@ -1,6 +1,6 @@
 # Shared Canvas
 
-<!-- #backlog:280 harmonize with language from presentation/canvas.md -->
+<!-- #backlog:580 harmonize with language from presentation/canvas.md -->
 
 http://iiif.io/model/shared-canvas/1.0/
 

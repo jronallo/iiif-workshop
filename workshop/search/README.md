@@ -18,9 +18,9 @@ We'll cover:
 - Adding a content search service to a manifest
 - How to get text to search
 
-<!-- #backlog:690 write a bit about different levels of discovery. First discover the resource; then discover within the resource -->
+<!-- #backlog:440 write a bit about different levels of discovery. First discover the resource; then discover within the resource -->
 
-<!-- #todo:400 write a bit about the level at which "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
+<!-- #todo:670 write a bit about the level at which "within" works. what do you call a resource? Is it a single bound book? A multivolume work? -->
 
 Read more about the Content Search API:
 [IIIF Search and Discovery](http://resources.digirati.com/iiif/an-introduction-to-iiif/search.html)

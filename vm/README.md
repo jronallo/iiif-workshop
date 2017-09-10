@@ -12,4 +12,4 @@ Images included come from: http://hubblesite.org/images/gallery
 
 ## TODO
 
-#backlog:980 add validator scripts
+#backlog:470 add validator scripts

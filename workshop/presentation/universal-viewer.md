@@ -16,7 +16,7 @@ We've also embedded the UV demo here pointing to our local manifest.
 
 {% include "../includes/presentation/uv-iframe.html" %}
 
-<!-- #todo:130 Consider adding either an image with what UV ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
+<!-- #todo:500 Consider adding either an image with what UV ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
 
 ## Using the Universal Viewer Demo
 
@@ -30,7 +30,7 @@ http://universalviewer.io/uv.html?manifest=http://localhost:3000/manifest.json
 
 ## Exercises and Questions
 
-<!-- #backlog:60 Add exercises and questions around UV -->
+<!-- #backlog:130 Add exercises and questions around UV -->
 
 - How do you see metadata about the resource?
 - How can you download a copy of this image?

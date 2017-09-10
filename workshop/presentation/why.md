@@ -10,4 +10,4 @@ http://iiif.io/api/presentation/2.1/#introduction
 - Display of metadata
 - Links to related resources
 
-<!-- #todo:270 give more reasons why there's a presentation API -->
+<!-- #backlog:570 give more reasons why there's a presentation API -->

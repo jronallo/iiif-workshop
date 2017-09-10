@@ -4,7 +4,7 @@ http://iiif.io/api/presentation/2.1/#canvas
 
 ## Canvas in the Abstract
 
-<!-- #todo:290 harmonize with language from presentation/shared-canvas.md -->
+<!-- #backlog:580 harmonize with language from presentation/shared-canvas.md -->
 A canvas is a coordinate space on which images can be painted. Images are painted onto a canvas through annotation. In the simple case we're only painting a single image annotation so that it fills the whole canvas. But the canvas also makes it possible to paint multiple images onto the same canvas as well as overlay additional annotations.
 
 > Note: In order to deliver with these embedded annotations, there's no requirement to have any particular annotation infrastructure available. You do not need to have an annotation store. These embedded annotations can usually be created without a graphical user interface. There's also no requirement in IIIF to provide for users to create or manage annotations.
@@ -15,7 +15,7 @@ See the sections on [shared canvas](presentation/shared-canvas.md) and [manifest
 
 Each sequence can be made up of more than one canvas. So first we'll add a `canvases` property to our sequence with a value of a list.
 
-<!-- #todo:380 what else to say about the canvases property? -->
+<!-- #backlog:650 what else to say about the canvases property? -->
 
 So our sequence will now look like this:
 

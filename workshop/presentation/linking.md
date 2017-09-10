@@ -58,7 +58,7 @@ Common ways that this is used is for linking to descriptive metadata in various 
 
 The best [documentation on linking to OCR][linking-ocr] has been created by the [Newspapers Community Group][newspapers-group].
 
-<!-- #backlog:520 link to the Europeana schema.org study when that is published -->
+<!-- #backlog:400 link to the Europeana schema.org study when that is published -->
 
 ## `service`
 
@@ -95,4 +95,4 @@ Visit this [book of boxers]. Click on the download link.
 [linking-ocr]: https://docs.google.com/document/d/1rz-Dm_LMguPD_Zi6Z1uf61XaPrdhd3mgK9_SV3EBdlE/edit#heading=h.gn82mp9sesw9
 [newspapers-group]: http://iiif.io/community/groups/newspapers/
 
-<!-- #todoplus:40 show more live examples of manifests that use these linking properties with examples of how they display in a client and what functionality the properties enable -->
+<!-- #important:40 show more live examples of manifests that use these linking properties with examples of how they display in a client and what functionality the properties enable -->

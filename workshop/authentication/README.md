@@ -1,6 +1,6 @@
 # Authentication API
 
-<!-- #backlog:200 What else should we add to the auth section? -->
+<!-- #backlog:290 What else should we add to the auth section? -->
 
 http://iiif.io/api/auth/1.0/
 
@@ -10,7 +10,7 @@ The Authentication API helps to orchestrate a workflow so that untrusted applica
 
 ![](../assets/images/auth-workflow.jpg)
 
-The API supports the following approaches:
+The API supports the following interaction patterns:
 
 **Login:**
 The user will be required to log in using a separate window with a UI provided by an external authentication system.
@@ -32,9 +32,7 @@ The user is expected to have already acquired the appropriate cookie, and the ac
 
 - Will you need to restrict access to any IIIF resources?
 - Will you have to provide degraded access to any resources?
-- Which of the above approaches might apply to your situation?
-
-<!-- #todo:370 there's probably a better word than "approaches" for these different workflow patterns -->
+- Which of the above interaction patterns might apply to your situation?
 
 ## Demonstration
 

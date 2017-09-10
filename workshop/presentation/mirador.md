@@ -12,9 +12,9 @@ Here's an embedded Mirador viewer pointing to our local manifest already.
 
 <a href="mirador-demo.html" target="_blank">open Mirador in a new window</a>
 
-<!-- #todo:150 actually vendor the mirador viewer code into the workshop materials for offline use -->
+<!-- #todo:480 actually vendor the mirador viewer code into the workshop materials for offline use -->
 
-<!-- #todo:120 Consider adding either an image with what Mirador ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
+<!-- #todo:490 Consider adding either an image with what Mirador ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
 
 ### Using the Mirador Demo
 
@@ -34,8 +34,8 @@ You should see your "Papillons" image show up. Click on it.
 
 ## Exercises and Questions
 
-<!-- #backlog:40 Add more exercises and questions around Mirador -->
-<!-- #backlog:390 consider adding the same questions for both Universal Viewer and Mirador -->
+<!-- #backlog:100 Add more exercises and questions around Mirador -->
+<!-- #backlog:360 consider adding the same questions for both Universal Viewer and Mirador -->
 
 - How can you make the viewer full screen?
 - How would you create an annotation?

@@ -38,7 +38,7 @@ You can search the [IIIF Awesome list](https://github.com/IIIF/awesome-iiif) for
 
 ## OpenSeadragon
 
-<!-- #todo:350 move OSD to separate include files -->
+<!-- #todo:620 move OSD to separate include files -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.0/openseadragon.min.js"></script>
 <div id="osd" style="width:100%;height:400px;"></div>
 <script>
@@ -54,8 +54,6 @@ OpenSeadragon({
 **Try zooming in for it to work in Leaflet**:
 {% include "../includes/image/leaflet.html" %}
 {% include "../includes/image/leaflet-starfish.html" %}
-
-<!-- #todoplus:0 Do I need more instructions here for starting the web server? -->
 
 ### Run the Full Version of the Static Demo
 
