@@ -15,7 +15,7 @@
 ## IIIF APIs
 - [Core APIs](core-apis.md)
 - [Image API](image/README.md)
-  - [Why?](image/why.md)
+  - [Why Image?](image/why.md)
   - [Images in HTML](image/images-in-html.md)
   - [URI Parameters](image/parameters.md)
     - [Detailed Example](image/detailed-example.md)
@@ -39,7 +39,7 @@
     - [Validation](image/image-server-validation.md)
   - [Image Creation](image/image-creation.md)
 - [Presentation API](presentation/README.md)
-  - [Why?](presentation/why.md)
+  - [Why Presentation?](presentation/why.md)
   - [Manifest](presentation/manifest.md)
     - [Shared Canvas](presentation/shared-canvas.md)
     - [Manifest Structure](presentation/manifest-structure.md)
@@ -75,8 +75,8 @@
 - [More APIs](more-apis.md)
 - [Content Search API](search/README.md)
   - [User Interface Examples](search/interface-examples.md)
-    - [Universal Viewer](search/uv-search.md)
-    - [Mirador](search/mirador-search.md)
+    - [Universal Viewer Search](search/uv-search.md)
+    - [Mirador Search](search/mirador-search.md)
   - [Search Service in Manifest](search/service-in-manifest.md)
   - [Query Interface](search/query-interface.md)
   - [Getting Text](search/getting-text.md)
@@ -95,6 +95,7 @@
 ## Community
 - [Community](community/README.md)
 - [Getting Help](community/help.md)
+- [Resources](community/resources.md)
 
 ---
 

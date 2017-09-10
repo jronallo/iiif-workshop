@@ -32,7 +32,6 @@ data workflows images come from [V&A presentation "Iterative Integration into th
 
 The following resources were helpful in creating this workshop.
 
-- The [Awesome IIIF](https://github.com/IIIF/awesome-iiif) list includes lots of pointers to resources.
 - https://www.slideshare.net/workergnome/iiif-for-small-projects
 
 <!-- #todo:390 what other useful resources should be included to useful resources page? -->
