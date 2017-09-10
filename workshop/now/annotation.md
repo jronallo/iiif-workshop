@@ -23,13 +23,13 @@ Annotations can be useful for:
 
 ![](../assets/images/annotation-body-target.md)
 
-Annotation targets are URIs pointing in whole or in part (fragment) to resources like:
+An annotation target is a URI pointing in whole or in part (fragment) to a resources like:
 - web pages
 - audio video
 - images
 - IIIF canvases
 
-Annotation bodies can be:
+Annotation bodies, the content of the comment/annotation, can be:
 - text
 - images
 - audio
@@ -56,10 +56,9 @@ http://storiiies.cogapp.com/
 
 <!-- #todoplus:40 make video of one of the holbein examples -->
 
-Explore the navigation of this quilt:
-http://ghp.wellcomecollection.org/annotation-viewer/quilt
+Explore the navigation of [the tiles of a quilt](http://ghp.wellcomecollection.org/annotation-viewer/quilt).
 
-Scroll down this page to see hot spot annotation: https://www.vam.ac.uk/articles/the-butler-bowdon-cope
+Scroll down this page to [see hot spot annotation](https://www.vam.ac.uk/articles/the-butler-bowdon-cope).
 
 ## Annotation Stores
 
