@@ -10,6 +10,8 @@ The URI for a IIIF image is made of defined parts to allow for human readability
 
 <div class="alert">{scheme}://{server}{/prefix}/{identifier}/{region}/{size}/{rotation}/{quality}.{format}</div>
 
+You can see more details of the [Image Request URI Syntax](http://iiif.io/api/image/2.1/#image-request-uri-syntax) in the specification.
+
 Let's construct our first IIIF URI together. We'll break it down into the base URI and then the parameters that can manipulate the image.
 
  Don't worry if you're not certain what everything does yet. We'll show a detailed example next.

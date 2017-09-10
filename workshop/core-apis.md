@@ -2,6 +2,12 @@
 
 The [Image](image/README.md) and [Presentation](presentation/README.md) APIs are the core IIIF APIs. Start there for an understanding of what IIIF enables.
 
+> See [API Specifications - International Image Interoperability Framework](http://iiif.io/api/#current-specifications) for all the specifications.
+
+The Image API enables access to image pixels--the bits of a digital image.
+
+The Presentation API supports presenting the images and related resources and metadata to a human user.
+
 Throughout you'll see different examples of how these two specifications interrelate and we'll dive deeper into that relationship. Suffice it to say for now that these two work together to support these different patterns of use:
 
 - Single huge image with pan/zoom

@@ -2,11 +2,11 @@
 
 IIIF standards for images solve a number of challenges with images on the web:
 
-- Having users download an entire large file is **inefficient** and will likely provide a **poor user experience**.
+- Having users download an entire large image file is **inefficient** and will likely provide a **poor user experience**.
 - Before IIIF there were **too many standards** for delivering images and institutions solved the same challenges over and over again. Too much **duplication of effort** for the basics of image delivery.
-- The standard has allowed for **shared software** for delivering images and image tiles for deep zoom viewers.
+- The standard has allowed for **shared software** for delivering images and image tiles for deep zoom viewers. Once basic needs are met it is easier to also share more advanced software.
 - Want to share images, but not necessarily give them away. IIIF allows for **retaining control** and tracking reuse outside of your own site.
-- Creating recreating access images and copying the files around for different platforms is a pain
+- Creating and recreating access images and copying the files around for different platforms is a pain.
 
 ## Solutions
 

@@ -30,11 +30,11 @@
 
 5. **Start your [local web server](web-server.md)** if you haven't already
 
-6. **Open http://localhost:3000**
+6. **Open http://localhost:3000** in a browser
 
   You ought to see the contents of your "iiif-workshop" directory with a file named "text.txt".
 
-  If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000. From now on we'll use "localhost" in every case, but if that doesn't work, substitute "127.0.0.1".
+  If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000. From now on we'll use "localhost" in every case in this workshop, but if that doesn't work, substitute "127.0.0.1".
 
 7. **Click on "text.txt"**
 

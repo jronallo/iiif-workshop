@@ -6,6 +6,7 @@
 - [Outline](SUMMARY.md)
 - [Preparation](preparation/README.md)
   - [Browser](preparation/browser.md)
+  - [Command Line](preparation/cli.md)
   - [Simple Web Server](preparation/web-server.md)
   - [Web Server Directory](preparation/directory.md)
   <!-- #backlog:30 display bonus setup when a fuller VM workshop is done -->
