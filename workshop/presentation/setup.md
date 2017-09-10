@@ -1,68 +1,41 @@
-# Setup
+# Manifest Setup
 
-Let's get set up to create a manifest. Below each step we'll give directions on how to do this from the terminal on a Mac. Feel free though to do each step however you'd like.
+Let's get set up to create a manifest. Below each step we'll give directions on how to do this from the terminal on a Mac. Feel free though to do each step however you'd like including using a GUI application.
 
-**Create a directory/folder named "iiif-workshop"**
+1. First make sure you've followed the instructions in both **[Web Server](../preparation/web-server.md)** and **[Web Server Directory](../preparation/directory.md)**
 
-Doesn't matter where as long as you'll be able to find it.
+  You should already have:
+  - A "iiif-workshop" directory with a "test.txt" file
+  - A local web server running, pointed to your "iiif-workshop" directory
 
-On a Mac in the terminal you can type:
+2. **Open and edit a file named "manifest.json" in your "iiif-workshop" directory**
 
-```sh
-mkdir iiif-workshop
-```
+  In your editor you can navigate to open up a file named "manifest.json".
 
-**Change into the "iiif-workshop" directory**
+  Or run the following if you're using the Atom editor:
 
-On a Mac:
+  ```sh
+  atom manifest.json
+  ```
 
-```
-cd iiif-workshop
-```
+  Add the following text (curly braces) to your "manifest.json" file:
 
-**Create an empty text file named "manifest.json" in the "iiif-workshop directory"**
+  ```json
+  {
+    "property": "value"
+  }
+  ```
 
-If you're using a Mac in the terminal you can type:
+3. **Open the directory in your browser**
 
-```shell
-touch manifest.json
-```
+  If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000. From now on we'll use "localhost" in every case, but if that doesn't work, substitute "127.0.0.1".
 
-**Open your text editor**
+  You should see something like this in your browser:
 
-If you're using Atom you can type:
+  ![](../assets/images/presentation-setup-open-directory.png)
 
-```
-atom .
-```
-**Open your empty manifest file**
+4. **Open up your manifest in browser**
 
-In your editor you can navigate to open up "manifest.json".
+  Click on "manifest.json" in the directory listing in your browser or visit http://localhost:3000/manifest.json.
 
-You ought to see your completely empty manifest file in your editor.
-
-**Start up a local web server pointing to the "iiif-workshop" directory**
-
-See the included instructions on how to set up a [simple web server](preparation/web-server.md).
-
-**Open the directory in your browser**
-
-If you used Web Server for Chrome according to the instructions, you can visit http://localhost:3000 or http://127.0.0.1:3000. From now on we'll use "localhost" in every case, but if that doesn't work, substitute "127.0.0.1".
-
-You should see something like this in your browser:
-
-![](../assets/images/presentation-setup-open-directory.png)
-
-**Add content to your "manifest.json"**
-
-We'll just add some empty JSON for now:
-
-```json
-{
-  "property": "value"
-}
-```
-
-**Open up your manifest in browser**
-
-Click on "manifest.json" in the directory listing in your browser or visit http://localhost:3000/manifest.json.
+  You should see the JSON displayed in your browser.

@@ -7,9 +7,11 @@
 - [Preparation](preparation/README.md)
   - [Browser](preparation/browser.md)
   - [Simple Web Server](preparation/web-server.md)
-  - [Bonus Setup](preparation/bonus-setup.md)
+  - [Web Server Directory](preparation/directory.md)
+  <!-- #backlog:0 display bonus setup when a fuller VM workshop is done -->
+  <!-- - [Bonus Setup](preparation/bonus-setup.md)
     - [Virtual Machine](preparation/virtual-machine.md)
-    - [Local Install](preparation/local-install.md)
+    - [Local Install](preparation/local-install.md) -->
 - [Use Cases](use-cases.md)
 
 ## IIIF APIs
