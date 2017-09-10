@@ -1,6 +1,6 @@
 # Images in HTML
 
-To understand how IIIF works, we'll first want to understand how images work in HTML.
+To understand how IIIF works, we'll first want to understand some basics of how images work in HTML.
 
 Here's a simple example of how an image can be included on a web page.
 

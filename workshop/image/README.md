@@ -1,6 +1,6 @@
 # Image API
 
-The Image API helped get pixels to a client like a browser.
+The Image API helps get the pixels of a digital image to a client like a browser. The purpose of the Image API is to standardized way to request the needed bits of a digital image.
 
 In this section you'll learn about [version 2.1.1 of the Image API](http://iiif.io/api/image/2.1/). You'll learn about:
 
@@ -13,10 +13,9 @@ You'll gain hands-on experience working with the Image API.
 
 <!-- #backlog:390 What other learning objectives? -->
 
-The purpose of the Image API is to have a way to request the needed bits of an image.
-
 ## What the Image API is Not
-- Image API does not give structure for viewing a series of images.
-- Does not allow for showing descriptive metadata with the image.
-- Does not provide every possible image manipulation you might want. It is not Photoshop.
+
+- The Image API does not give structure for viewing a series of images.
+- The Image API does not allow for showing descriptive metadata with the image.
+- The Image API does not provide every possible image manipulation you might want. It is not Photoshop.
 <!-- #backlog:220 Any other things we might want to say about what the Image API is not? -->
