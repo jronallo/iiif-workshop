@@ -20,7 +20,7 @@ Let's construct our first IIIF URI together. We'll break it down into the base U
 
 ## Base URI
 
-The base URI includes only the scheme, server, prefix (optional), and identifier. The server and prefix are going to be institution specific.
+The base URI includes only the scheme, server, prefix (optional), and identifier. The server and prefix are going to be institution specific. The server and prefix make the whole base URI a globally unique identifier.
 
 <div class="alert">{scheme}://{server}{/prefix}/{identifier}</div>
 
@@ -32,7 +32,7 @@ Any time you want an image at a particular size or some part of an image you'll 
 
 Scheme is the first part of the base URI. This is the `http` or `https` part of the URL.
 
-The strong recommendation is that images be served over HTTPS in order to be able to be used within other HTTPS pages. If an image served over HTTP is included in a page served over HTTPS then browsers will complain about mixed content.
+The [strong recommendation is that images be served over HTTPS](../bonus/https.md) in order to be able to be used within other HTTPS pages. If an image served over HTTP is included in a page served over HTTPS then browsers will complain about mixed content.
 
 We'll use `https` to start our URI:
 <div class="alert"><strong>https://</strong></div>
