@@ -35,13 +35,14 @@ Scheme is the first part of the base URI. This is the `http` or `https` part of 
 The [strong recommendation is that images be served over HTTPS](../bonus/https.md) in order to be able to be used within other HTTPS pages. If an image served over HTTP is included in a page served over HTTPS then browsers will complain about mixed content.
 
 We'll use `https` to start our URI:
-<div class="alert"><strong>https://</strong></div>
+<div class="alert"><strong>https</strong>://</div>
 
 ### Server
 
 The (sub)domain where the images or image server lives.
-
+<!-- #doing:0 start here -->
 We'll extend our URI with an image server:
+
 <div class="alert">https://<strong>iiif.lib.ncsu.edu</strong></div>
 
 ### Prefix
