@@ -41,16 +41,14 @@ These examples originally come from the [Universal Viewer Showcase](http://unive
 ## Book of Hours
 
 - [manifest](https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
-- [UV](http://universalviewer.io/uv.html?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
+- [UV](../viewers/uv.html#?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
 - [Mirador](../viewers/mirador.html#?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
 
 ## Chicken Noodle Soup
 
 - [manifest](https://iiif.harvardartmuseums.org/manifests/object/262968)
-- [UV](http://universalviewer.io/uv.html?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
+- [UV](../viewers/uv.html#?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
 - [Mirador](../viewers/mirador.html#?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
 
 
 <!-- #next:0 add more example manifests to explore -->
-
-{% include "../includes/presentation/uv-iframe.html" %}
