@@ -19,30 +19,34 @@
     <script src="http://projectmirador.org/demo/mirador.min.js"></script>
     <script type="text/javascript">
      $(function() {
-       myMiradorInstance = Mirador({
+       var manifest_data = [
+         { "manifestUri": "http://localhost:3000/manifest.json",
+           "location": "localhost" },
+         { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/segPap_022/manifest", "location": "NCSU Libraries"},
+         { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2003-04-01/manifest",
+           "location": "NCSU Libraries"},
+         { "manifestUri": "http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json",
+           "viewType": "ImageView"
+         },
+         {
+           "manifestUri": "https://wellcomelibrary.org/iiif/b18035978/manifest",
+           "viewType": "ImageView"
+         }
+       ];
+       var this_manifest = "http://localhost:3000/manifest.json"
+       var qs = /manifest=(.*)/g.exec(window.location.href);
+       if(qs && qs[1]){
+          this_manifest = qs[1];
+          manifest_data.push({"manifestUri": this_manifest, "location": "manifest location"});
+       }
+       var myMiradorInstance = Mirador({
          "language": "en",
          "id": "viewer",
          "layout": "1x1",
          "buildPath": "",
-         "data": [
-           { "manifestUri": "http://localhost:3000/manifest.json", "location": "localhost"
-         },
-           { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/segPap_022/manifest", "location": "NCSU Libraries"
-         },
-           { "manifestUri": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2003-04-01/manifest",
-             "location": "NCSU Libraries"
-           },
-           {
-             "manifestUri": "http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json",
-             "viewType": "ImageView"
-           },
-           {
-             "manifestUri": "https://wellcomelibrary.org/iiif/b18035978/manifest",
-             "viewType": "ImageView"
-           }
-         ],
+         "data": manifest_data,
          "windowObjects": [{
-           loadedManifest: "http://localhost:3000/manifest.json",
+           loadedManifest: this_manifest,
            viewType: "ImageView",
            slotAddress: ""
          }],

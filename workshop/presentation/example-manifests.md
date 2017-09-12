@@ -20,31 +20,31 @@ These examples originally come from the [Universal Viewer Showcase](http://unive
 
 - [manifest](https://media.nga.gov/public/manifests/nga_highlights.json)
 - [UV](http://universalviewer.io/uv.html?manifest=https://media.nga.gov/public/manifests/nga_highlights.json)
-- [Mirador](http://tomcrane.github.io/scratch/mirador/?manifest=https://media.nga.gov/public/manifests/nga_highlights.json)
+- [Mirador](../viewers/mirador.html#?manifest=https://media.nga.gov/public/manifests/nga_highlights.json)
 
 ## Soul Hitory by Romare Bearden
 
 - [manifest](https://iiif.harvardartmuseums.org/manifests/object/213928)
 - [UV](http://universalviewer.io/uv.html?manifest=https://iiif.harvardartmuseums.org/manifests/object/213928)
-- [Mirador](http://tomcrane.github.io/scratch/mirador/?manifest=https://iiif.harvardartmuseums.org/manifests/object/213928)
+- [Mirador](../viewers/mirador.html#?manifest=https://iiif.harvardartmuseums.org/manifests/object/213928)
 
 ## Journal
 
 - [manifest]( https://bit.ly/wt-journal https://wellcomelibrary.org/iiif/b1932795x/manifest)
 - [UV](https://wellcomelibrary.org/item/b1932795x)
-- [Mirador](http://tomcrane.github.io/scratch/mirador/?manifest=https://wellcomelibrary.org/iiif/b1932795x/manifest)
+- [Mirador](../viewers/mirador.html#?manifest=https://wellcomelibrary.org/iiif/b1932795x/manifest)
 
 ## Book of Hours
 
 - [manifest](https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
 - [UV](http://universalviewer.io/uv.html?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
-- [Mirador](http://tomcrane.github.io/scratch/mirador/?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
+- [Mirador](../viewers/mirador.html#?manifest=https://purl.stanford.edu/qm670kv1873/iiif/manifest.json)
 
 ## Chicken Noodle Soup
 
 - [manifest](https://iiif.harvardartmuseums.org/manifests/object/262968)
 - [UV](http://universalviewer.io/uv.html?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
-- [Mirador](http://tomcrane.github.io/scratch/mirador/?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
+- [Mirador](../viewers/mirador.html#?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
 
 
 <!-- #next:0 add more example manifests to explore -->

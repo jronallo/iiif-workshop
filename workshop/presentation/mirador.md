@@ -10,7 +10,7 @@ Here's an embedded Mirador viewer pointing to our local manifest already.
 
 {% include "../includes/presentation/mirador-iframe.html" %}
 
-<a href="mirador-demo.html" target="_blank">open Mirador in a new window</a>
+<a href="mirador.html" target="_blank">open Mirador in a new window</a>
 
 <!-- #todo:480 actually vendor the mirador viewer code into the workshop materials for offline use -->
 
