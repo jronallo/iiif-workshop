@@ -1,3 +1,7 @@
+---
+uv_manifest: http://localhost:3000/manifest.json
+---
+
 # Example Manifests
 
 Take a look at some of the example manifests alongside how the resources display within Universal Viewer.
@@ -48,3 +52,5 @@ These examples originally come from the [Universal Viewer Showcase](http://unive
 
 
 <!-- #next:0 add more example manifests to explore -->
+
+{% include "../includes/presentation/uv-iframe.html" %}
