@@ -8,7 +8,13 @@ You can use Leaflet to compare two images:
 
 ## Compariscope
 
-Example: Hadleigh Castle by John Constable, 1776–1837, British
+### Compariscope Example: X-Raying Balenciaga
+
+TTake a look at these [x-rays of Balenciaga garments][x-rays]. Be sure to click on "enable x-ray" and then mouse over the image.
+
+### Compariscope Example: Hadleigh Castle
+
+Hadleigh Castle by John Constable, 1776–1837, British
 
 Below are links to a sketch and then a finished painting. By comparing these two paintings we can see how the painter changed the scene.
 
@@ -45,3 +51,4 @@ Take a look at how the [Boxwood Project](http://boxwood.ago.ca/) from the Art Ga
 <!-- #backlog:0 What's the Mirador version of this? https://www.nga.gov/content/ngaweb/Collection/art-object-page.60.html#entry see figure 5 -->
 
 [Compariscope]: https://vanda.github.io/iiif-features/compariscope.html
+[x-rays]: https://www.vam.ac.uk/articles/x-raying-balenciaga

@@ -8,7 +8,6 @@ Try [Leaflet-IIIF Cropping][leaflet-cropping]
 
 ## UCD Demo
 
-
 Here's a video of using this tool integrated into a site:
 
 <video src="../assets/video/2017_UCD_Crop-snippet.mp4" preload="auto" controls></video>
