@@ -43,7 +43,7 @@ Annotations are created for different reasons like:
 
 ## Creating Annotations
 
-Open [Mirador](../presentation/mirador.md) and create some annotations over top of an image.
+Open [Mirador](../viewers/mirador.html) and create some annotations over top of an image.
 
 - How are annotations displayed?
 - What different types of annotations can you create?

@@ -52,7 +52,7 @@ Add a `service` property at the same level as the top-level `metadata` and `desc
 
 Once you've added this you ought to be able to search:
 
-- Reload [Universal Viewer](../presentation/universal-viewer.md) or clear the cache
+- Reload [Universal Viewer](../viewers/uv.html) or clear the cache
 - Enter "amazon" into the search box
 - Press Enter
 
@@ -84,6 +84,6 @@ Now make your search service look like this:
 }
 ```
 
-Now if you refresh [Universal Viewer](../presentation/universal-viewer.md) and do a search you should begin to see suggestions show up above the search box.
+Now if you refresh [Universal Viewer](../viewers/uv.html) and do a search you should begin to see suggestions show up above the search box.
 
 ![](../assets/images/amazon-suggestions.png)

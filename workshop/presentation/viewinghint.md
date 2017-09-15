@@ -17,7 +17,7 @@ You can also try the following values for `viewingDirection`:
 - top-to-bottom
 - bottom-to-top
 
-Try different combinations of these values and review the manifest in [Universal Viewer](universal-viewer.md) and [Mirador](mirador.md).
+Try different combinations of these values and review the manifest in [Universal Viewer](../viewers/uv.html) and [Mirador](../viewers/mirador.html).
 
 > Note that there are multiple other valid values for `viewingHint` that can be applied at different places within a manifest. Not all apply at the manifest or sequence level. We will not cover how values apply to collections or ranges.
 

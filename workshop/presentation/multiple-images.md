@@ -26,7 +26,7 @@ Image annotations are painted on in the order of the list. So the first image fo
 
 Canvas that reconstructs a page from a manuscript.
 
-> Try it! Copy this canvas into your manifest and view the manifest in [Mirador](mirador.md). Or copy [this manifest that already includes the following canvas](../manifests/presentation-multiple-images.json), put it in the folder alongside your other manifest, and open it in Mirador.
+> Try it! Copy this canvas into your manifest and view the manifest in [Mirador](../viewers/mirador.html). Or copy [this manifest that already includes the following canvas](../manifests/presentation-multiple-images.json), put it in the folder alongside your other manifest, and open it in Mirador.
 
 ```json
 {

@@ -26,7 +26,7 @@ And all of this can wrap an image like the IIIF logo too:
 
 ### Universal Viewer
 
-In a separate window open up [Universal Viewer](universal-viewer.md).
+In a separate window open up [Universal Viewer](../viewers/uv.html).
 
 Place the window with Universal Viewer off to one side and the window with this page off to the other side.
 
@@ -40,7 +40,7 @@ The resource at the URL in the `manifest` parameter should now show up in Univer
 
 ### Mirador
 
-In a separate window open up [Mirador](mirador.md).
+In a separate window open up [Mirador](../viewers/mirador.html).
 
 Place the window with Mirador off to one side and the window with this page off to the other side.
 
