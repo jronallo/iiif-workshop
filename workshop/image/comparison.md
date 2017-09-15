@@ -14,7 +14,7 @@ What do you see that's different.
 
 ### Compariscope Example: X-Raying Balenciaga
 
-TTake a look at these [x-rays of Balenciaga garments][x-rays]. Be sure to click on "enable x-ray" and then mouse over the image.
+Take a look at these [x-rays of Balenciaga garments][x-rays]. Be sure to click on "enable x-ray" and then mouse over the image.
 
 ### Compariscope Example: Hadleigh Castle
 
