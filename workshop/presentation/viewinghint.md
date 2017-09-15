@@ -36,6 +36,10 @@ Here's a snippet of what a portion of your sequence ought to look like:
 
 <a href="../manifests/presentation-viewinghint.json" target="_blank">See the full manifest with a viewingHint and viewingDirection</a>
 
+## Example
+
+Take a look at a [roll-codex](http://rollinghistory.bodleian.ox.ac.uk/) in the [original](../viewers/uv.html#?manifest=http://iiif.bodleian.ox.ac.uk/iiif/manifest/c44571e0-8732-40ad-9e14-f272437fe3fb.json) and [converted into a scroll](../viewers/uv.html#?manifest=http://iiif.bodleian.ox.ac.uk/examples/MSMusaeo_roll.json). The [manifest for the scroll](http://iiif.bodleian.ox.ac.uk/examples/MSMusaeo_roll.json) uses `viewingDirection` and `viewingHint` to achieve this effect.
+
 ## Questions
 
 - How does the display change in [Universal Viewer](universal-viewer.md) and [Mirador](mirador.md)?
