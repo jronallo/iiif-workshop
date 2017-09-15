@@ -1,10 +1,14 @@
 # Image Comparison
 
+In some disciplines image comparison is an important approach for understanding different works. IIIF can help enable image comparison in ways other than just side-by-side viewing in viewers like Mirador.
+
 ## Leaflet
 
 You can use Leaflet to compare two images:
 - [side-by-side](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-sbs.html)
 - [magnifying glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html)
+
+What do you see that's different.
 
 ## Compariscope
 
