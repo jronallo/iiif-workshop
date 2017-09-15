@@ -58,3 +58,6 @@ In the end ought to see something like the following:
 > This example is taken from a manifest and question Ethan Gruber of the American Numismatic Society had in the IIIF Slack.
 
 [this-coin]: http://localhost:3000/coin?manifest=http%3A%2F%2Flocalhost%3A3000%2Fcoin.json
+
+
+<!-- #todo:300 consider adding this viewer which displays it correctly http://www.kanzaki.com/works/2016/pub/image-annotator -->
