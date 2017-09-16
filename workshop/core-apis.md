@@ -18,7 +18,7 @@ Throughout you'll see different examples of how these two specifications interre
 Here's a simple visual representation of a user interface to give an example of how these two core APIs work together:
 <!-- #backlog:270 Does this image-plus-presentation-user-interface.png belong here or somewhere else? -->
 
-![](../assets/images/image-plus-presentation-user-interface.png)
+![](./assets/images/image-plus-presentation-user-interface.png)
 
 ## Iterative Implementation
 
