@@ -49,4 +49,4 @@ Take a look at a [roll-codex](http://rollinghistory.bodleian.ox.ac.uk/) in the [
 
 <!-- #backlog:330 add other questions about viewingHint and viewing direction -->
 
-<!-- #todo:130 find examples of interesting resources that use different viewing hints and viewing directions -->
+<!-- #todo:140 find examples of interesting resources that use different viewing hints and viewing directions -->

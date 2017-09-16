@@ -60,4 +60,4 @@ In the end ought to see something like the following:
 [this-coin]: http://localhost:3000/coin?manifest=http%3A%2F%2Flocalhost%3A3000%2Fcoin.json
 
 
-<!-- #todo:50 consider adding this viewer which displays it correctly http://www.kanzaki.com/works/2016/pub/image-annotator -->
+<!-- #todo:60 consider adding this viewer which displays it correctly http://www.kanzaki.com/works/2016/pub/image-annotator -->

@@ -38,7 +38,7 @@ You can search the [IIIF Awesome list](https://github.com/IIIF/awesome-iiif) for
 
 ## OpenSeadragon
 
-<!-- #todo:150 move OSD to separate include files -->
+<!-- #todo:160 move OSD to separate include files -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.3.0/openseadragon.min.js"></script>
 <div id="osd" style="width:100%;height:400px;"></div>
 <script>

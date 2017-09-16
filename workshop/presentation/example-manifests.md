@@ -51,4 +51,4 @@ These examples originally come from the [Universal Viewer Showcase](http://unive
 - [Mirador](../viewers/mirador.html#?manifest=https://iiif.harvardartmuseums.org/manifests/object/262968)
 
 
-<!-- #next:190 add more example manifests to explore -->
+<!-- #next:200 add more example manifests to explore -->

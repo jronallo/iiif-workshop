@@ -12,9 +12,9 @@ Here's an embedded Mirador viewer pointing to our local manifest already.
 
 <a href="mirador.html" target="_blank">open Mirador in a new window</a>
 
-<!-- #todo:80 actually vendor the mirador viewer code into the workshop materials for offline use -->
+<!-- #todo:90 actually vendor the mirador viewer code into the workshop materials for offline use -->
 
-<!-- #todo:90 Consider adding either an image with what Mirador ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
+<!-- #todo:100 Consider adding either an image with what Mirador ought to look like at this point or include another embed that points to the manifest we've created served up from this gitbook. -->
 
 ### Using the Mirador Demo
 
