@@ -38,7 +38,7 @@ And here's what the result for the user looks like:
 
 <video src="../assets/video/compariscope-result.mp4" preload="auto" controls loop></video>
 
-## Idea: Painting and Place
+## Painting and Place
 
 If you tour Arles, France, you can take the Van Gogh walk where reproductions of paintings are placed from the perspective of where they were painted. With IIIF it would be possible to do similar with tools like those above.
 
