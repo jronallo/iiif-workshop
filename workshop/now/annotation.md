@@ -60,9 +60,13 @@ Explore the navigation of [the tiles of a quilt](http://ghp.wellcomecollection.o
 
 Scroll down this page to [see hot spot annotation](https://www.vam.ac.uk/articles/the-butler-bowdon-cope).
 
+Here's a video showing annotation using Mirador which is stored in the SimpleAnnotationServer and then presented as a search inside service to the Universal Viewer:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5XqdjCSGHc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ## Annotation Stores
 
-TODO
+https://github.com/IIIF/awesome-iiif#annotation-servers
 
 <!-- #todo:650 write section on annotation stores -->
 
