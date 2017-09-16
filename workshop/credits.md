@@ -4,7 +4,7 @@
 
 - [Jason Ronallo](http://ronallo.com)
 
-<!-- #todo:540 clean up credits page -->
+<!-- #todo:120 clean up credits page -->
 
 ## Images
 

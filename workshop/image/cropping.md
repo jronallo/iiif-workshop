@@ -14,9 +14,7 @@ Here's a video of using this tool integrated into a site:
 
 [See the full video][full-ucd-video]
 
-[Try this tool][try-ucd-example] yourself.
-
-<!-- #next:50 Try cropping out an image so that you can see what is written above the clock in [this image][clock]. -->
+[Try this tool][try-ucd-example] yourself and cropping out a particular region at a desired size.
 
 ## Internet Archive
 
