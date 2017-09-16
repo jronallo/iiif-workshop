@@ -14,6 +14,8 @@ How you handle a logged in user differently from any other user is an implementa
 
 ![](../assets/images/auth-workflow.jpg)
 
+---
+
 The API supports the following interaction patterns:
 
 **Login:**
@@ -21,13 +23,19 @@ The user will be required to log in using a separate window with a UI provided b
 
 ![](../assets/images/auth-login.png)
 
+---
+
 **Click through:**
 The user will be required to click a button within the client using content provided in the service description.
 
 ![](../assets/images/auth-clickthrough.jpg)
 
+---
+
 **Kiosk:**
 The user will not be required to interact with an authentication system, the client is expected to use the access cookie service automatically.
+
+---
 
 **External:**
 The user is expected to have already acquired the appropriate cookie, and the access cookie service will not be used at all.
