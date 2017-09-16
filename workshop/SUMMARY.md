@@ -32,6 +32,7 @@
   - [Image Viewers](image/viewers.md)
     - [Leaflet](image/leaflet.md)
     - [OpenSeadragon](image/openseadragon.md)
+    - [Interoperability](image/interoperability.md)
     - [Simple Page Turner](image/simple-page-turner.md)
   - [Image Tools](image/tools.md)
     - [Cropping](image/cropping.md)
