@@ -19,10 +19,6 @@ Before looking at some of the examples, take a moment to ask yourself these ques
 
 ## Iterative Examples
 
-### Bavarian State Library
-
-The Bavarian State Library presented on the steps they took to a production IIIF workflow: [IIIF (at scale) at the Bavarian State Library][bavarian].
-
 ### Victoria &amp; Albert Museum
 
 This is a graphical example from the V&A.
@@ -38,5 +34,3 @@ Here's a start:
 As they go along it gets more complicated and full of features:
 
 ![](../assets/images/va-iterative-integration-step2.png)
-
-[bavarian]: https://drive.google.com/open?id=0B8biwZuDijgednFYVlREWVc2Y0E
