@@ -8,6 +8,10 @@ What if you need to restrict access to some resources? Or provide differential a
 
 The Authentication API helps to orchestrate a workflow so that untrusted applications can go through required authentication steps. The untrusted IIIF client does not handle login or accepting user credentials itself, but just manages the workflow appropriately.
 
+How you handle a logged in user differently from any other user is an implementation detail. Options include showing the user a lower resolution or degraded version of the image.
+
+<!-- #backlog:0 could degraded access also include displaying less metadata about the resource? -->
+
 ![](../assets/images/auth-workflow.jpg)
 
 The API supports the following interaction patterns:
