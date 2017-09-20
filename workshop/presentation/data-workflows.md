@@ -11,7 +11,7 @@ Before looking at some of the examples, take a moment to ask yourself these ques
 
 - What identifier(s) do you have that are shared across systems?
 - Where do you store descriptive metadata?
-- Do you currently store technical information like the width and hight of images?
+- Do you currently store technical information like the width and height of images?
 - How can you export data from these systems? Do you have adequate APIs into your systems?
 - Will you be able to dynamically query for data via APIs or will you need to export data dumps?
 
