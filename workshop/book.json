@@ -12,6 +12,9 @@
     "website": "./assets/styles.css"
   },
   "pluginsConfig": {
+    "theme-default": {
+        "showLevel": true
+    },
     "git-author": {
       "position": "bottom",
       "modifyTpl": "Last modified by {user} {timeStamp}",

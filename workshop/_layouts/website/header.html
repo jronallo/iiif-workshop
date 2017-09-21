@@ -1,7 +1,22 @@
+{% set image = r/^image\/[a-z]+/ %}
+{% set presentation = r/^presentation\/[a-z]+/ %}
+{% set search = r/^search\/[a-z]+/ %}
+{% set authentication = r/^authentication\/[a-z]+/ %}
+
 {% block book_header %}
-<div class="logo-header">
+<div id="logo-header">
   <img src="{{ 'assets/images/iiif-logo.png'|resolveFile }}" alt="">
-  <span class="header-text">Workshop</span>
+  <span class="header-text">Workshop:</span>
+  <span class="header-text page-title">{{ page.title }}</span>
+  <span class="header-text page-level">: {{ page.level }}</span>
+  <span class="header-text file-path">
+    {% if page.depth >= 2 %}
+      {{ "(Image)" if image.test(file.path) }}
+      {{ "(Presentation)" if presentation.test(file.path) }}
+      {{ "(Content Search)" if search.test(file.path) }}
+      {{ "(Authentication)" if authentication.test(file.path) }}
+    {% endif %}
+  </span>
 </div>
 
 <div class="book-header" role="navigation">

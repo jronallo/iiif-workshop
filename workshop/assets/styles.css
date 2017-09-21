@@ -12,20 +12,29 @@
   display: none;
 }
 
-.logo-header {
+#logo-header {
   height: 40px;
+  width: 100%;
   font-size: 20px;
-  position: relative;
+  position: fixed;
+  top: 0px;
   padding-left: 15px;
+  background-color: white;
+  z-index: 10000;
+  border-bottom: 1px solid black;
 }
-.logo-header img {
+#logo-header img {
   height: 35px;
   vertical-align: middle;
 }
-.logo-header .header-text {
+#logo-header .header-text {
   vertical-align: middle;
   font-weight: bold;
-  color: rgb(113, 113, 113);
+}
+
+.book-header {
+  padding-top: 40px;
+  height: auto;
 }
 
 #basic-types {
