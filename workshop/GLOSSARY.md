@@ -1,3 +1,5 @@
+<!-- #todo:300 What else should go in the glossary? -->
+
 ## format
 image format like "jpg" or "png"
 

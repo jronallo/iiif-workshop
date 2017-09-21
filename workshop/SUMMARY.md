@@ -106,4 +106,4 @@
 <!-- #todo:0 - [Contributing](contributing.md) -->
 - [Feedback](feedback.md)
 - [Credits](credits.md)
-<!-- #todo:10 - [Glossary](GLOSSARY.md) -->
+- [Glossary](GLOSSARY.md)
