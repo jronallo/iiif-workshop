@@ -8,6 +8,10 @@ Materials for a workshop covering:
 - Community
 - and more!
 
+The latest version is currently [published here](http://ronallo.com/iiif-workshop).
+
+The workshop is designed to be led by an instructor who can answer questions and help with exercises, but it ought to be useful for self-guided learning as well.
+
 ## Directories
 
 - `workshop`: contains the main workshop materials to build a gitbook
