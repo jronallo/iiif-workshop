@@ -14,6 +14,7 @@
     - [Virtual Machine](preparation/virtual-machine.md)
     - [Local Install](preparation/local-install.md) -->
 - [Use Cases](use-cases.md)
+- [Why IIIF?](why-iiif.md)
 
 ## IIIF APIs
 - [Core APIs](core-apis.md)
