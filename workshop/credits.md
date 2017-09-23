@@ -6,7 +6,7 @@
 
 ## Authors
 
-- [Jason Ronallo](http://ronallo.com)
+- [Jason Ronallo](http://ronallo.com), [email](mailto:jronallo@gmail.com), @jronallo on [IIIF Slack](http://bit.ly/iiif-slack)
 
 <!-- #todo:130 clean up credits page -->
 
