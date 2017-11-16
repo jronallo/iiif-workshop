@@ -1,3 +1,4 @@
 _book/
 workshop/_book/
 workshop/node_modules/
+deploy.sh
