@@ -4,10 +4,10 @@ The Image API helps get the pixels of a digital image to a client like a browser
 
 In this section you'll learn about [version 2.1.1 of the Image API](http://iiif.io/api/image/2.1/). You'll learn about:
 
-- Why there's a need for an image API
-- Why you might want to serve your images via IIIF
-- The parameters of a IIIF image URL
-- How the `info.json` encodes information about an image
+- Why there's a need for an image API.
+- Why you might want to serve your images via IIIF.
+- The parameters of a IIIF image URL.
+- How the `info.json` encodes information about an image and how that information can be used.
 
 You'll gain hands-on experience working with the Image API.
 
