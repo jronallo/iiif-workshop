@@ -4,6 +4,8 @@ For some exercises to work, the files you will be editing need to be behind a we
 
 In order to serve up the local files you're editing during the workshop you'll need to be running a simple web server. Even if you've never run a web server on your own machine before this still ought to be easy.
 
+While you can use standard web servers like Apache or Nginx, you're on your own for setup instructions. The web server will need to listen to localhost on port 3000, have the needed CORS headers set, and serve files from the root directory. The strong recommendation is to use the Web Server for Chrome extension. Other options are provided as potential fallbacks for locked down machines.
+
 ## Chrome Extension
 
 The easiest way to get a web server running is to use the [Web Server for Chrome extension](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en).
@@ -63,3 +65,5 @@ If all else fails you can create a Github Gist:
 2. Drag and drop your file into the window and click "Create Secret Gist" (or public if you like, it doesn't matter).
 3. After the gist is created, click the "Raw" button to get the raw file URL.
 4. You can now use that file URL in some of the exercises.
+
+_Note that some exercise pages expect resources to be served from <http://localhost:3000>._
