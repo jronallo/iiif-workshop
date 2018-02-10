@@ -27,6 +27,8 @@ Requires NodeJS.
 - `gitbook install`
 - `gitbook serve`
 
+Now visit <http://localhost:4000/> to see live changes to the book.
+
 To build the site without running a web server run: `gitbook build`
 
 See more on installation, setup, and building here: <https://toolchain.gitbook.com/setup.html>
