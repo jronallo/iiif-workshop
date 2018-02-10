@@ -1,5 +1,7 @@
 # Outline
 
+_Note that this is the complete outline of the available workshop modules. The workshop you are in may not cover every section. The workshop materials are meant to work as a self-guided tutorial so you can go through any skipped sections later._
+
 - [Work in Progress](work-in-progress.md)
 - [Introduction](README.md)
 - [QuickStart](quickstart.md)
