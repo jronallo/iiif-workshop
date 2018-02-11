@@ -20,11 +20,11 @@ You can search the [IIIF Awesome list](https://github.com/IIIF/awesome-iiif) for
 
 1. Download <a href="../assets/starfish.zip" target="_blank">this zip file</a>.
 
-2. Unzip the file into your ["iiif-workshop" directory](../preparation/directory.md).
+2. Unzip the file into your ["iiif-workshop" directory](../preparation/directory.md). (You can use whatever tool you usually use to unzip an archive.)
 
 3. Explore the files in the "starfish" directory.
 
-  You can use a file browser or the command line. If you use the command line you can try to run `tree starfish`.
+  You can use a file browser or the command line. If you use the command line to explore you can try to run `tree starfish` to see the full directory structure down to the files.
 
   > What are you finding in the directory?
 
@@ -35,6 +35,8 @@ You can search the [IIIF Awesome list](https://github.com/IIIF/awesome-iiif) for
 6. Now reload this workshop page and it should work in these viewers.
 
   > Note: The info.json for this static example expects the server to be http://localhost:3000. If your web server is listening on a different port, you'll need to change that.
+
+_If the included starfish.zip file doesn't work you can find the original with symlinks in this repository: <https://github.com/zimeon/iiif/tree/master/demo-static/starfish>_
 
 ## OpenSeadragon
 
