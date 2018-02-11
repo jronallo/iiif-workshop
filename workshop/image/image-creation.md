@@ -2,7 +2,7 @@
 
 ## For an Image Server
 
-If you've decided to deploy and image server, you'll probably want to create an access derivative source image which is separate from your master preservation version of the image.
+If you've decided to deploy an image server, you'll probably want to create an access derivative source image which is separate from your master preservation version of the image.
 
 Picking a source image involves various trade-offs including the following:
 - The size of the access derivative image that must be stored as the source image for the image server

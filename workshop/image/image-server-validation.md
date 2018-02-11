@@ -4,7 +4,7 @@ IIIF runs an [image server validator][validator]. In order for the validator to 
 
 [click here to validate a server][validate-ncsu]
 
-[click here to validate a server][validate-nlw]
+<!-- #todo:0 why is this broken [click here to validate a server][validate-nlw] -->
 
 > Note that at the time of this writing there seem to be errors in the "Check Image Information" and "quality_bitonal" tests in some cases.
 
