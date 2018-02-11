@@ -16,7 +16,7 @@ All the example values below ought to work with this particular image. Links to 
 
 <div class="alert">Tip: When viewing an image in the Firefox and Chrome web browsers the title bar will tell you the width x height of the image in pixels.</div>
 
-<div class="alert">Note not all image servers will support all variations of all parameters. Later we'll cover [levels of compliance](levels.md) to explain why.</div>
+<div class="alert">Note not all image servers will support all variations of all parameters. Later we'll cover <a href="levels.html">levels of compliance</a> to explain why.</div>
 
 ## Questions
 
