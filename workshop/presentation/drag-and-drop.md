@@ -26,7 +26,7 @@ And all of this can wrap an image like the IIIF logo too:
 
 ### Universal Viewer
 
-In a separate window open up [Universal Viewer](../viewers/uv.html).
+In a separate window open up [Universal Viewer](../viewers/uv.html). (_This may work better in Chrome than Firefox due to XHR restrictions with HTTP._)
 
 Place the window with Universal Viewer off to one side and the window with this page off to the other side.
 

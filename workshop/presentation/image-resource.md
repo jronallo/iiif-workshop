@@ -71,7 +71,7 @@ Since we're specifying an image which can have a width and height different than
                 "@type": "dctypes:Image",
                 "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_022/full/500,/0/default.jpg",
                 "width": 500,
-                "height": 704,
+                "height": 704
               }
             }
           ]

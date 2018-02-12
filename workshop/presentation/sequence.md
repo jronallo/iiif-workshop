@@ -8,7 +8,7 @@ Even if there is only one image like in our case we still use the `sequences` pr
 
 ## JSON Lists
 
-Some properties in IIIF can be lists. The way to represent these lists in JSON is with square brackets "[]" for an array. The list values are then placed within the square brackets. So these would be valid lists in JSON:
+So far all of our values have been strings. The value of some properties in IIIF can be a list. The way to represent these lists in JSON is with square brackets "[]" for an array. The list values are then placed within the square brackets. So these would be valid lists in JSON:
 
 ```json
 [1, 2, 3]

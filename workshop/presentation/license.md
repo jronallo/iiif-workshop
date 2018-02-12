@@ -16,4 +16,7 @@ At the top-level of your manifest add a license:
 "license": "http://rightsstatements.org/vocab/CNE/1.0/"
 ```
 
-How does the license property display in Universal Viewer and Mirador?
+How does the license property display in [Universal Viewer] and [Mirador]?
+
+[Universal Viewer]: ../viewers/uv.html
+[Mirador]: ../viewers/mirador.html
