@@ -4,6 +4,8 @@
 
 See the new beta version here: https://github.com/jronallo/iiif-workshop-new
 
+Soon this version will no longer be maintained.
+
 ## Introduction
 
 Materials for a workshop covering:
