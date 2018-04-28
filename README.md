@@ -2,7 +2,7 @@
 
 ## NEW VERSION
 
-See the new beta version here:
+See the new beta version here: https://github.com/jronallo/iiif-workshop-new
 
 ## Introduction
 
