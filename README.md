@@ -1,5 +1,11 @@
 # IIIF Workshop
 
+## NEW VERSION
+
+See the new beta version here:
+
+## Introduction
+
 Materials for a workshop covering:
 - Image API
 - Presentation API
